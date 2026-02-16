@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T14:38:41.668324+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2026-02-16T15:45:12.508995+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
@@ -16,8 +16,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时01分 ~ 14时38分]"
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 15时45分]"
+        },
+        {
+          "title": "市场消息：AMD(AMD.O)和印度TCS公司将把尖端的“Helios”机架式人工智能架构引入印度。",
+          "url": "https://flash.jin10.com/detail/20260216150741309800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "英国首相斯塔默收紧人工智能监管，将强制聊天机器人遵守在线安全法案",
@@ -37,11 +48,12 @@
           "url": "https://www.cls.cn/detail/2290769",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 15时45分]"
         },
         {
           "title": "黑龙江：打造“人工智能＋”数据共享新场景",
@@ -61,6 +73,20 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时40分 ~ 15时45分]"
+        },
+        {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
           "url": "https://wallstreetcn.com/articles/3765755",
           "source": "华尔街见闻",
@@ -72,19 +98,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时01分 ~ 14时38分]"
-        },
-        {
-          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
-          "url": "https://wallstreetcn.com/articles/3765772",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时40分 ~ 14时38分]"
         },
         {
           "title": "OpenClaw 之父宣布加入 OpenAI，对此你怎么看？",
@@ -126,11 +139,12 @@
           "url": "https://www.cls.cn/detail/2290476",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时01分 ~ 14时38分]"
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 15时45分]"
         }
       ]
     },
@@ -144,11 +158,29 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时01分 ~ 14时38分]"
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 15时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "斯坦福专家：美国正跨入“AI收获期”，2025年生产率增速有望翻倍至2.7%",
+          "url": "https://wallstreetcn.com/articles/3765763",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时44分 ~ 15时45分]"
         }
       ]
     }

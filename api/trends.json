@@ -1,503 +1,84 @@
 {
-  "generated_at": "2026-02-15T22:51:25.260402+08:00",
-  "total_titles_processed": 1124,
+  "generated_at": "2026-02-16T09:01:29.810997+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 10,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "英国首相斯塔默收紧人工智能监管，将强制聊天机器人遵守在线安全法案",
+          "url": "https://wallstreetcn.com/livenews/3055650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
         {
           "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
           "url": "https://www.cls.cn/detail/2290485",
           "source": "财联社热门",
           "ranks": [
-            5,
-            4,
-            3,
             6
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[11时58分 ~ 22时51分]"
-        },
-        {
-          "title": "市场消息：以色列将出席2026年印度人工智能影响峰会，加强科技合作。",
-          "url": "https://flash.jin10.com/detail/20260215152511545800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            5,
-            7,
-            8,
-            9,
-            11,
-            13,
-            15,
-            18,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[15时54分 ~ 22时51分]"
-        },
-        {
-          "title": "市场消息：法国总统马克龙将出席下周在印度举行的人工智能峰会。",
-          "url": "https://flash.jin10.com/detail/20260215152409492800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            6,
-            8,
-            9,
-            10,
-            12,
-            14,
-            16,
-            19,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[15时54分 ~ 22时51分]"
-        },
-        {
-          "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
-          "url": "https://wallstreetcn.com/livenews/3055576",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12,
-            14,
-            16,
-            17,
-            19,
-            21,
-            22,
-            23,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时02分 ~ 18时15分]"
-        },
-        {
-          "title": "习近平：要坚持创新驱动 深化拓展“人工智能+”",
-          "url": "https://flash.jin10.com/detail/20260215150836093800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            12,
-            14,
-            15,
-            16,
-            18,
-            20,
-            22,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时54分 ~ 22时21分]"
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "黑龙江：打造“人工智能＋”数据共享新场景",
           "url": "https://wallstreetcn.com/livenews/3055622",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            4,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时21分 ~ 22时51分]"
-        },
-        {
-          "title": "《求是》:要坚持创新驱动 深化拓展“人工智能+”",
-          "url": "https://flash.jin10.com/detail/20260215150836093800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时11分"
-        },
-        {
-          "title": "00 年代也有互联网与搜索引擎，为啥人工智能（AI）在 20 年代才达到现在这种水平？",
-          "url": "https://www.zhihu.com/question/1927393488770692768",
-          "source": "知乎",
-          "ranks": [
-            11,
-            18,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时58分 ~ 15时11分]"
-        },
-        {
-          "title": "据Fortune：Korn Ferry的一份报告显示，有37%的企业计划用人工智能取代应届生岗位。",
-          "url": "https://flash.jin10.com/detail/20260215110457187800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 14时12分]"
-        },
-        {
-          "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
-          "url": "https://flash.jin10.com/detail/20260215081137673800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "马斯克称擎天柱机器人将从明年开始改变人类生活",
-          "url": "https://wallstreetcn.com/livenews/3055580",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            11,
-            13,
-            14,
-            16,
-            18,
-            19,
-            20,
-            24,
-            27,
             29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时02分 ~ 18时52分]"
-        },
-        {
-          "title": "马斯克：就我所能想象的未来而言，特斯拉(TSLA.O)将拥有规模最大的自动驾驶汽车车队。",
-          "url": "https://flash.jin10.com/detail/20260215144532247800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            13,
-            17,
-            19,
-            20,
-            21,
-            23,
-            25,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时11分 ~ 21时25分]"
-        },
-        {
-          "title": "马斯克预言：2026年底编程或将全面自动化",
-          "url": "https://flash.jin10.com/detail/20260215134542489800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            18,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时12分 ~ 17时19分]"
-        },
-        {
-          "title": "马斯克：特斯拉FSD将停止一次性付费服务，转为订阅制",
-          "url": "https://flash.jin10.com/detail/20260215112402089800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 14时12分]"
-        },
-        {
-          "title": "3名华人联合创始人接连出走，马斯克的xAI发生了什么",
-          "url": "https://news.ifeng.com/c/8qk233NwWb6",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时02分 ~ 11时59分]"
-        },
-        {
-          "title": "马斯克：擎天柱机器人从明年开始将改变人类生活",
-          "url": "https://flash.jin10.com/detail/20260215083658319800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "马斯克回应网友从月球发射飞船到火星的提议",
-          "url": "https://flash.jin10.com/detail/20260215083200458800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "马斯克：仍将推进火星计划",
-          "url": "https://flash.jin10.com/detail/20260215100423003800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
-          "title": "马斯克想拔着xAI离开地球",
-          "url": "https://www.toutiao.com/trending/7606779644137705011/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
-          "url": "https://wallstreetcn.com/articles/3765736",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时02分 ~ 17时19分]"
-        },
-        {
-          "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
-          "url": "https://www.cls.cn/detail/2290476",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[09时02分 ~ 22时51分]"
-        },
-        {
-          "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32609556",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时02分 ~ 15时54分]"
-        },
-        {
-          "title": "美国2月13日当周投资级债券市场销售403亿美元债券，周环比下滑35%（之前一周616亿美元）；发行人19家，之前一周22笔。 其中，谷歌母公司Alphabet inc.出售200亿美元，迪士尼供应40亿美元第二大。 2月份迄今，高评级债券供应1020亿美元，1月份同期供应1233亿美元。 2026年迄今，累计发行3299亿美元，2025年同期为2681亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3055546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
+          "time_info": "09时01分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "春节周重磅前瞻：美联储最爱通胀指标，DeepSeek V4或发布",
           "url": "https://wallstreetcn.com/articles/3765742",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            7,
-            6,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时13分 ~ 22时51分]"
-        },
-        {
-          "title": "DeepSeek“变冷淡”不是翻车",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%8F%98%E5%86%B7%E6%B7%A1%E2%80%9D%E4%B8%8D%E6%98%AF%E7%BF%BB%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            23,
-            26,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时19分 ~ 19时43分]"
-        },
-        {
-          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
-          "url": "https://wallstreetcn.com/articles/3765730",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时02分 ~ 11时59分]"
+          "appearance_count": 1,
+          "time_info": "09时01分"
         }
       ]
     },
     {
-      "keyword_group": "Anthropic",
-      "match_count": 3,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
       "titles": [
         {
-          "title": "Anthropic掌门人重磅访谈：AI正处于指数级增长尾声，2026年将迎“数据中心里的天才国度”，营收正以10倍极速狂飙",
-          "url": "https://wallstreetcn.com/articles/3765732",
-          "source": "华尔街见闻",
+          "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
+          "url": "https://www.cls.cn/detail/2290476",
+          "source": "财联社热门",
           "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时02分 ~ 16时19分]"
-        },
-        {
-          "title": "美媒：五角大楼威胁要切断与Anthropic的AI合作",
-          "url": "https://flash.jin10.com/detail/20260215103523505800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 13时17分]"
-        },
-        {
-          "title": "据AXIOS网站：美国国防部威胁要切断与Anthropic的合作。",
-          "url": "https://flash.jin10.com/detail/20260215101721943800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 13时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "财晓得丨Seedance爆火背后：4分钟读懂中国AI的突围逻辑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32601198",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[09时02分 ~ 19时43分]"
-        },
-        {
-          "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10,
-            7,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[11时58分 ~ 22时51分]"
-        },
-        {
-          "title": "美国AI大牛盛赞杨丽萍千问节目",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDAI%E5%A4%A7%E7%89%9B%E7%9B%9B%E8%B5%9E%E6%9D%A8%E4%B8%BD%E8%90%8D%E5%8D%83%E9%97%AE%E8%8A%82%E7%9B%AE%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时25分"
+          "time_info": "09时01分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -507,63 +88,25 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时25分 ~ 22时51分]"
-        },
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "OpenClaw之父爆猛料：Meta和OpenAI跪着抢人，小扎亲自求收购",
-          "url": "https://wallstreetcn.com/articles/3765726",
-          "source": "华尔街见闻",
+          "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
+          "url": "https://www.cls.cn/detail/2290650",
+          "source": "财联社热门",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "grok",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克：Grok 4.20版本将于下周发布。相较于4.1版本，此次更新将带来显著改进。",
-          "url": "https://flash.jin10.com/detail/20260215144003417800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            14,
-            18,
-            20,
-            21,
-            22,
-            24,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时11分 ~ 20时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Anthropic：我们尚未就将“Claude”模型用于与国防部的具体操作事宜进行过讨论。",
-          "url": "https://flash.jin10.com/detail/20260215103819376800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 14时12分]"
+          "time_info": "09时01分"
         }
       ]
     }

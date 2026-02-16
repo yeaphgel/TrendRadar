@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T19:32:02.315610+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2026-02-16T20:32:21.192554+08:00",
+  "total_titles_processed": 1095,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             10,
             7,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时38分 ~ 19时32分]"
+          "appearance_count": 11,
+          "time_info": "[14时38分 ~ 20时32分]"
         },
         {
           "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
@@ -31,8 +32,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时01分 ~ 19时32分]"
+          "appearance_count": 14,
+          "time_info": "[09时01分 ~ 20时32分]"
         },
         {
           "title": "市场消息：AMD(AMD.O)和印度TCS公司将把尖端的“Helios”机架式人工智能架构引入印度。",
@@ -96,11 +97,12 @@
             9,
             8,
             5,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时40分 ~ 19时32分]"
+          "appearance_count": 13,
+          "time_info": "[11时40分 ~ 20时32分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -152,8 +154,61 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
+          "url": "https://www.cls.cn/detail/2290476",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[09时01分 ~ 20时32分]"
+        },
+        {
+          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
+          "url": "https://wallstreetcn.com/livenews/3055703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 19时32分]"
+        },
+        {
+          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
+          "url": "https://wallstreetcn.com/articles/3765786",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "千问3.5成本仅为谷歌大模型5%",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE3.5%E6%88%90%E6%9C%AC%E4%BB%85%E4%B8%BA%E8%B0%B7%E6%AD%8C%E5%A4%A7%E6%A8%A1%E5%9E%8B5%25%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -165,8 +220,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时01分 ~ 19时32分]"
+          "appearance_count": 14,
+          "time_info": "[09时01分 ~ 20时32分]"
+        },
+        {
+          "title": "马斯克：星链“很快”将在地球之外运行",
+          "url": "https://wallstreetcn.com/livenews/3055727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时32分 ~ 20时32分]"
         },
         {
           "title": "马斯克：星链服务太棒了。无论在地球何处，都能提供超高带宽和超低延迟。而且很快它就能不仅局限于地球。",
@@ -181,46 +248,15 @@
           "time_info": "[16时33分 ~ 17时39分]"
         },
         {
-          "title": "马斯克：星链“很快”将在地球之外运行",
-          "url": "https://wallstreetcn.com/livenews/3055727",
-          "source": "华尔街见闻-快讯",
+          "title": "马斯克：星链很快将在地球之外运行",
+          "url": "https://www.toutiao.com/trending/7606879963691024430/",
+          "source": "今日头条",
           "ranks": [
-            6
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
-          "url": "https://www.cls.cn/detail/2290476",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时01分 ~ 19时32分]"
-        },
-        {
-          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
-          "url": "https://wallstreetcn.com/livenews/3055703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时39分 ~ 19时32分]"
+          "time_info": "20时32分"
         }
       ]
     },

@@ -1,374 +1,123 @@
 {
-  "generated_at": "2026-02-16T22:37:31.403672+08:00",
-  "total_titles_processed": 1293,
+  "generated_at": "2026-02-17T09:02:42.373892+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "人工智能",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
-          "url": "https://www.cls.cn/detail/2290769",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时38分 ~ 22时37分]"
-        },
-        {
-          "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
-          "url": "https://www.cls.cn/detail/2290485",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时01分 ~ 22时37分]"
-        },
-        {
-          "title": "市场消息：AMD(AMD.O)和印度TCS公司将把尖端的“Helios”机架式人工智能架构引入印度。",
-          "url": "https://flash.jin10.com/detail/20260216150741309800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "英国首相斯塔默收紧人工智能监管，将强制聊天机器人遵守在线安全法案",
-          "url": "https://wallstreetcn.com/livenews/3055650",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 13时22分]"
-        },
-        {
-          "title": "软件开发商达索系统法国巴黎股价维持超过7%的跌幅，投资者对人工智能（AI）的恐慌情绪挥之不去。",
-          "url": "https://wallstreetcn.com/livenews/3055756",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 22时37分]"
-        },
-        {
-          "title": "Anthropic：印度团队将为企业客户、数字原生企业和初创公司提供应用人工智能专业知识。",
-          "url": "https://flash.jin10.com/detail/20260216161247146800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 17时39分]"
-        },
-        {
-          "title": "黑龙江：打造“人工智能＋”数据共享新场景",
-          "url": "https://wallstreetcn.com/livenews/3055622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
           "url": "https://wallstreetcn.com/articles/3765772",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8,
-            5,
-            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时40分 ~ 22时37分]"
-        },
-        {
-          "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
-          "url": "https://wallstreetcn.com/articles/3765755",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时01分 ~ 14时38分]"
-        },
-        {
-          "title": "OpenClaw 之父宣布加入 OpenAI，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2006637072895738078",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 14时38分]"
-        },
-        {
-          "title": "OpenAI联合创始人Greg Brockman：Codex的势头强劲，许多人都感受到了5.3版本的巨大飞跃。如果您的组织还没有尝试过Codex，那么值得重新考虑一下。",
-          "url": "https://flash.jin10.com/detail/20260216153508680800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时33分"
+          "time_info": "09时02分"
         },
         {
-          "title": "OpenAI创始人奥尔特曼：Codex的周活跃用户数量自年初以来增长了两倍多。",
-          "url": "https://flash.jin10.com/detail/20260216153347079800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Anthropic",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美国防长海格塞斯“接近”切断五角大楼与Anthropic的商业联系。海格塞斯接近将Anthropic列为“供应链风险”。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3055750",
+          "title": "OpenAI：系统（恢复）全面运作。",
+          "url": "https://wallstreetcn.com/livenews/3055842",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 22时37分]"
-        },
-        {
-          "title": "市场消息：Anthropic在班加罗尔开设办事处，并宣布在印度各地建立新的合作伙伴关系。",
-          "url": "https://flash.jin10.com/detail/20260216161228324800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 17时39分]"
-        },
-        {
-          "title": "五角大楼威胁要对Anthropic进行惩罚",
-          "url": "https://flash.jin10.com/detail/20260216205718984800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 22时37分]"
-        },
-        {
-          "title": "美国国防部长赫格塞思接近决定将Anthropic公司列为“供应链风险”。",
-          "url": "https://flash.jin10.com/detail/20260216205022419800",
-          "source": "金十数据",
-          "ranks": [
-            18
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时58分"
+          "time_info": "09时02分"
         },
         {
-          "title": "美国国防部长赫格塞思接近切断国防部与Anthropic的关系。",
-          "url": "https://flash.jin10.com/detail/20260216204941281800",
-          "source": "金十数据",
+          "title": "OpenAI目前正经历某些问题，购物搜索功能宕机。",
+          "url": "https://wallstreetcn.com/livenews/3055834",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时58分"
+          "time_info": "09时02分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
-          "url": "https://www.cls.cn/detail/2290476",
-          "source": "财联社热门",
+          "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32621821",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            9,
-            10,
-            11
+            2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时01分 ~ 22时37分]"
-        },
-        {
-          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
-          "url": "https://wallstreetcn.com/livenews/3055703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时39分 ~ 19时32分]"
+          "appearance_count": 1,
+          "time_info": "09时02分"
         },
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
           "url": "https://wallstreetcn.com/articles/3765786",
           "source": "华尔街见闻",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时32分 ~ 22时37分]"
-        },
-        {
-          "title": "千问3.5成本仅为谷歌大模型5%",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE3.5%E6%88%90%E6%9C%AC%E4%BB%85%E4%B8%BA%E8%B0%B7%E6%AD%8C%E5%A4%A7%E6%A8%A1%E5%9E%8B5%25%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时32分"
+          "time_info": "09时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
+          "url": "https://www.cls.cn/detail/2290769",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
           "url": "https://www.cls.cn/detail/2290650",
           "source": "财联社热门",
           "ranks": [
-            9,
-            7,
-            8
+            9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时01分 ~ 22时37分]"
-        },
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "马斯克：星链“很快”将在地球之外运行",
-          "url": "https://wallstreetcn.com/livenews/3055727",
+          "title": "Anthropic将Claude Code嵌入印度国家航空公司等公司",
+          "url": "https://wallstreetcn.com/livenews/3055835",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时32分 ~ 20时32分]"
-        },
-        {
-          "title": "马斯克：星链服务太棒了。无论在地球何处，都能提供超高带宽和超低延迟。而且很快它就能不仅局限于地球。",
-          "url": "https://flash.jin10.com/detail/20260216155403584800",
-          "source": "金十数据",
-          "ranks": [
-            18,
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 17时39分]"
-        },
-        {
-          "title": "马斯克：星链很快将在地球之外运行",
-          "url": "https://www.toutiao.com/trending/7606879963691024430/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "春节周重磅前瞻：美联储最爱通胀指标，DeepSeek V4或发布",
-          "url": "https://wallstreetcn.com/articles/3765742",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "斯坦福专家：美国正跨入“AI收获期”，2025年生产率增速有望翻倍至2.7%",
-          "url": "https://wallstreetcn.com/articles/3765763",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时44分 ~ 15时45分]"
+          "time_info": "09时02分"
         }
       ]
     }

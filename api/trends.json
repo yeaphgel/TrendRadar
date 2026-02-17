@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T18:11:07.845567+08:00",
-  "total_titles_processed": 953,
+  "generated_at": "2026-02-17T19:18:16.220944+08:00",
+  "total_titles_processed": 1037,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时02分 ~ 18时11分]"
+          "appearance_count": 15,
+          "time_info": "[09时02分 ~ 19时18分]"
         },
         {
           "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时16分 ~ 18时11分]"
+          "appearance_count": 12,
+          "time_info": "[13时16分 ~ 19时18分]"
         },
         {
           "title": "软银与Ampere Computing联合测试使用CPU运行小型人工智能模型",
@@ -112,13 +112,24 @@
           "time_info": "13时17分"
         },
         {
+          "title": "Anthropic与卢旺达政府签署关于人工智能在医疗和教育领域应用的谅解备忘录。",
+          "url": "https://flash.jin10.com/detail/20260217180419136800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "特斯拉在韩国招聘人工智能芯片设计工程师",
           "url": "https://flash.jin10.com/detail/20260217172514312800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -148,7 +159,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -156,11 +167,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时02分 ~ 16时06分]"
+          "appearance_count": 11,
+          "time_info": "[09时02分 ~ 19时18分]"
         },
         {
           "title": "外媒：马斯克今年有近8成概率成为全球首个万亿富翁",
@@ -210,6 +222,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时34分 ~ 14时14分]"
+        },
+        {
+          "title": "看着春晚，英媒想起马斯克这句：中国早就next level",
+          "url": "https://news.ifeng.com/c/8qp3PW9MEjM",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 19时18分]"
+        },
+        {
+          "title": "马斯克母亲向中国人民拜年",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%AF%8D%E4%BA%B2%E5%90%91%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E6%8B%9C%E5%B9%B4%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 19时18分]"
         }
       ]
     },
@@ -276,8 +310,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时02分 ~ 18时11分]"
+          "appearance_count": 15,
+          "time_info": "[09时02分 ~ 19时18分]"
         },
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",

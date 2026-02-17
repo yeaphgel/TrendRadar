@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-02-17T16:06:07.664883+08:00",
-  "total_titles_processed": 765,
+  "generated_at": "2026-02-17T17:09:05.810928+08:00",
+  "total_titles_processed": 858,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
           "url": "https://www.cls.cn/detail/2290769",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时02分 ~ 16时06分]"
+          "appearance_count": 11,
+          "time_info": "[09时02分 ~ 17时09分]"
         },
         {
           "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
@@ -27,8 +28,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时16分 ~ 16时06分]"
+          "appearance_count": 8,
+          "time_info": "[13时16分 ~ 17时09分]"
+        },
+        {
+          "title": "软银与Ampere Computing联合测试使用CPU运行小型人工智能模型",
+          "url": "https://wallstreetcn.com/livenews/3055891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时31分 ~ 17时09分]"
         },
         {
           "title": "言短意长｜当人工智能和机器人扎推出现在春晚",
@@ -54,25 +68,13 @@
           "time_info": "[15时31分 ~ 16时06分]"
         },
         {
-          "title": "软银与Ampere Computing联合测试使用CPU运行小型人工智能模型",
-          "url": "https://wallstreetcn.com/livenews/3055891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 16时06分]"
-        },
-        {
           "title": "美国银行2月基金经理调查：人工智能泡沫是首要尾部风险，做多黄金是最拥挤的交易，私募信贷最可能引发信用事件。",
           "url": "https://flash.jin10.com/detail/20260217152514499800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         },
@@ -119,12 +121,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
+        },
+        {
+          "title": "印度方面表示，英伟达(NVDA.O)正在与一些人工智能基础设施/软件公司合作。",
+          "url": "https://flash.jin10.com/detail/20260217155637581800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -174,12 +187,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时34分 ~ 14时14分]"
+        },
+        {
+          "title": "马斯克母亲发视频拜年",
+          "url": "https://www.toutiao.com/trending/7607606769153589275/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
@@ -191,6 +215,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "OpenAI成功“抢人”！从OpenClaw挖来创始人掌舵AI代理",
+          "url": "https://www.cls.cn/detail/2290903",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
         },
         {
           "title": "OpenAI：系统（恢复）全面运作。",
@@ -218,7 +253,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -229,8 +264,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时02分 ~ 16时06分]"
+          "appearance_count": 11,
+          "time_info": "[09时02分 ~ 17时09分]"
         },
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
@@ -238,11 +273,23 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时02分 ~ 16时06分]"
+          "appearance_count": 11,
+          "time_info": "[09时02分 ~ 17时09分]"
+        },
+        {
+          "title": "市场消息：联合利华与谷歌云达成五年合作，将使用谷歌云的先进人工智能、数据和平台。",
+          "url": "https://flash.jin10.com/detail/20260217160309287800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         }
       ]
     },

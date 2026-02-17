@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-02-17T09:02:42.373892+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-02-17T11:34:15.408902+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "马斯克",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "外媒：马斯克今年有近8成概率成为全球首个万亿富翁",
+          "url": "https://flash.jin10.com/detail/20260217111741762800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
+          "url": "https://www.cls.cn/detail/2290650",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 11时34分]"
+        },
+        {
+          "title": "马斯克：Cybercab将于4月开始生产，没有踏板、方向盘",
+          "url": "https://wallstreetcn.com/livenews/3055872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "爱尔兰监管机构对马斯克旗下社交媒体平台X展开调查",
+          "url": "https://wallstreetcn.com/livenews/3055869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
@@ -54,8 +104,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 11时34分]"
         },
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
@@ -65,14 +115,14 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 11时34分]"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -82,25 +132,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 11时34分]"
+        },
         {
-          "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
-          "url": "https://www.cls.cn/detail/2290650",
-          "source": "财联社热门",
+          "title": "言短意长｜当人工智能和机器人扎推出现在春晚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32622644",
+          "source": "澎湃新闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 11时34分]"
         }
       ]
     },

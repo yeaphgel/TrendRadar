@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T15:42:38.975179+08:00",
-  "total_titles_processed": 759,
+  "generated_at": "2026-02-18T16:31:47.070069+08:00",
+  "total_titles_processed": 837,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时01分 ~ 15时42分]"
+          "appearance_count": 7,
+          "time_info": "[09时01分 ~ 16时31分]"
+        },
+        {
+          "title": "印度外交部发言人：印度总理莫迪今日与塞尔维亚总统在“人工智能影响峰会”的间隙举行了双边会谈。两位领导人探讨了加强双边在贸易与投资、人工智能、金融科技、教育、农业、旅游以及人文交流等方面合作的途径。他们还就双方共同关心的地区及全球性问题交换了意见。",
+          "url": "https://flash.jin10.com/detail/20260218161742110800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "高通将向印度人工智能战略基金投资不超过1.5亿美元",
@@ -161,8 +172,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时38分 ~ 15时42分]"
+          "appearance_count": 6,
+          "time_info": "[11时38分 ~ 16时31分]"
         }
       ]
     }

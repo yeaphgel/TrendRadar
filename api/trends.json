@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T19:58:54.766304+08:00",
-  "total_titles_processed": 1152,
+  "generated_at": "2026-02-18T20:45:15.827065+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时01分 ~ 19时58分]"
+          "appearance_count": 14,
+          "time_info": "[09时01分 ~ 20时45分]"
         },
         {
           "title": "Alphabet首席执行官皮查伊：投入人工智能合情合理，因为这是一个非凡的机遇。",
@@ -123,6 +123,17 @@
           "time_info": "09时01分"
         },
         {
+          "title": "市场消息：沙特人工智能企业Humain以30亿美元支持XAI投资。",
+          "url": "https://flash.jin10.com/detail/20260218201426477800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "英伟达：构建主权人工智能系统的开发者今天即可访问英伟达NemoTron和Nemo。",
           "url": "https://flash.jin10.com/detail/20260218083054230800",
           "source": "金十数据",
@@ -156,13 +167,24 @@
           "time_info": "19时11分"
         },
         {
+          "title": "印度通信部关于英国人工智能伙伴关系的声明。",
+          "url": "https://flash.jin10.com/detail/20260218195747462800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "高通承诺为印度的战略人工智能风险投资基金出资高达1.5亿美元。",
           "url": "https://flash.jin10.com/detail/20260218184508088800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         }
@@ -170,7 +192,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "据The Information：Anthropic预计到2029年将向亚马逊、谷歌和微软支付至少800亿美元，以在云服务器上运行Claude AI。",
@@ -189,11 +211,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            12
+            12,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 19时58分]"
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 20时45分]"
         },
         {
           "title": "谷歌母公司Alphabet：谷歌年度开发者大会（I/O developer conference）将于5月19-20日举行。",
@@ -228,6 +251,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
+        },
+        {
+          "title": "谷歌计划在美国和印度之间建设新的光纤线路",
+          "url": "https://flash.jin10.com/detail/20260218194454103800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         }
       ]
     },
@@ -277,11 +311,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 19时58分]"
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 20时45分]"
         }
       ]
     },
@@ -299,8 +334,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时38分 ~ 19时58分]"
+          "appearance_count": 13,
+          "time_info": "[11时38分 ~ 20时45分]"
         }
       ]
     }

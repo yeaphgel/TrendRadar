@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T17:10:18.932208+08:00",
-  "total_titles_processed": 881,
+  "generated_at": "2026-02-19T18:09:58.520832+08:00",
+  "total_titles_processed": 969,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时30分 ~ 17时10分]"
+          "appearance_count": 3,
+          "time_info": "[16时30分 ~ 18时09分]"
         },
         {
           "title": "市场消息：塔塔集团与OpenAI建立基础合作伙伴关系。",

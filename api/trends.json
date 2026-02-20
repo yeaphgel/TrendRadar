@@ -1,375 +1,94 @@
 {
-  "generated_at": "2026-02-19T22:46:58.821258+08:00",
-  "total_titles_processed": 1344,
+  "generated_at": "2026-02-20T09:01:46.936874+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "人工智能",
-      "match_count": 14,
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
       "titles": [
         {
-          "title": "傅莹在慕安会回应“谁能赢人工智能竞赛”：AI创新发展不是一场短跑赛",
-          "url": "https://wallstreetcn.com/livenews/3056579",
+          "title": "英伟达接近敲定与OpenAI的300亿美元投资，将取代两家公司去年达成的1000亿美元长期承诺。英伟达投资是OpenAI新一轮融资的一部分。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3056832",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时35分 ~ 17时10分]"
-        },
-        {
-          "title": "美国两大人工智能巨头CEO拒绝牵手",
-          "url": "https://www.toutiao.com/trending/7608479654936674347/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时59分 ~ 22时46分]"
-        },
-        {
-          "title": "印度总理莫迪：必须建立人工智能训练的数据框架。",
-          "url": "https://flash.jin10.com/detail/20260219194221042800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时59分 ~ 20时50分]"
-        },
-        {
-          "title": "ServiceNow首席运营官Amit Zavery：如果一些软件公司未能为采用人工智能而进行业务转型，那么行业内可能会出现整合。",
-          "url": "https://wallstreetcn.com/livenews/3056641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时46分]"
-        },
-        {
-          "title": "美联储卡什卡利：人工智能投资很可能推高中性利率。",
-          "url": "https://flash.jin10.com/detail/20260219223811056800",
-          "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "盖茨基金会：微软(MSFT.O)联合创始人比尔·盖茨将缺席德里人工智能峰会主题演讲，以“确保峰会重点聚焦核心议题”。",
-          "url": "https://flash.jin10.com/detail/20260219110854347800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时36分"
+          "time_info": "09时01分"
         },
-        {
-          "title": "美两大人工智能巨头CEO拒绝牵手",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%B8%A4%E5%A4%A7%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%B7%A8%E5%A4%B4CEO%E6%8B%92%E7%BB%9D%E7%89%B5%E6%89%8B%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时01分"
-        },
-        {
-          "title": "傅莹在慕安会回应“谁能赢人工智能竞赛”：AI创新发展不是一场短跑赛",
-          "url": "https://flash.jin10.com/detail/20260219134816589800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
-          "title": "比尔·盖茨宣布取消在印度人工智能峰会上的演讲",
-          "url": "https://flash.jin10.com/detail/20260219134042511800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
-          "title": "美联储卡什卡利：美联储在内部使用人工智能时持谨慎态度，并设有强有力的护栏，以防止访问机密数据。",
-          "url": "https://flash.jin10.com/detail/20260219222646571800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "印度总理莫迪于2月19日在人工智能峰会上会见了阿布扎比王储。",
-          "url": "https://flash.jin10.com/detail/20260219184424109800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时59分"
-        },
-        {
-          "title": "美联储卡什卡利：人工智能在未来5到10年可能提升生产力。",
-          "url": "https://flash.jin10.com/detail/20260219222640317800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "美联储卡什卡利：对人工智能持乐观态度，几乎所有企业都在发现使用人工智能带来的益处。",
-          "url": "https://flash.jin10.com/detail/20260219222636560800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "印度总理莫迪：人工智能平台必须保持其安全规则清晰透明。",
-          "url": "https://flash.jin10.com/detail/20260219194230368800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 7,
-      "titles": [
         {
           "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
           "url": "https://wallstreetcn.com/articles/3765864",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时11分 ~ 22时46分]"
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
-          "title": "OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元，首轮融资将于本月完成。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3056559",
+          "title": "英伟达接近敲定300亿美元投资OpenAI 取代原1000亿合作计划",
+          "url": "https://flash.jin10.com/detail/20260220082223005800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "OpenAI：关于芯片供应，公司已做到“对未来需求心中有数”",
+          "url": "https://wallstreetcn.com/livenews/3056822",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            13,
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 15时41分]"
-        },
-        {
-          "title": "OpenAI CEO Sam Altman：人工智能需要监管和保障措施。",
-          "url": "https://wallstreetcn.com/livenews/3056596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时30分 ~ 18时09分]"
-        },
-        {
-          "title": "市场消息：塔塔集团与OpenAI建立基础合作伙伴关系。",
-          "url": "https://flash.jin10.com/detail/20260219105451101800",
-          "source": "金十数据",
-          "ranks": [
-            18
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时36分"
+          "time_info": "09时01分"
         },
         {
-          "title": "知情人士：OpenAI最新一轮融资规模有望突破1000亿美元",
-          "url": "https://flash.jin10.com/detail/20260219104055877800",
+          "title": "据英国金融时报：英伟达接近敲定与OpenAI的300亿美元投资，将取代两家公司去年达成的1000亿美元长期承诺。",
+          "url": "https://flash.jin10.com/detail/20260220081800116800",
           "source": "金十数据",
           "ranks": [
-            25
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时36分"
+          "time_info": "09时01分"
         },
         {
-          "title": "OpenAI：OpenAI计划在印度的孟买和班加罗尔开设新办公室。",
-          "url": "https://flash.jin10.com/detail/20260219114656970800",
+          "title": "Applovin美股盘后涨超4%。据悉OpenAI拟与Applovin展开合作，通过广告实现商业化。",
+          "url": "https://flash.jin10.com/detail/20260220074924192800",
           "source": "金十数据",
           "ranks": [
-            28
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "据The Information：OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元。",
-          "url": "https://flash.jin10.com/detail/20260219102420562800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
+          "time_info": "09时01分"
         }
       ]
     },
     {
-      "keyword_group": "马斯克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "马斯克：现在你可以点击“为你推荐（For You）”，然后选择“科技”等一般话题。请更新“X”以使这个功能生效。",
-          "url": "https://flash.jin10.com/detail/20260219105423576800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "马斯克表示，发现存在一个需要修复的漏洞，所以“X”大概会推迟到本周末发布新版本。（此前，马斯克宣布可以更新应用，以使用“为你推荐”功能）",
-          "url": "https://flash.jin10.com/detail/20260219132615256800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "人工智能",
       "match_count": 1,
       "titles": [
         {
-          "title": "Deepseek神回复",
-          "url": "https://s.weibo.com/weibo?q=Deepseek%E7%A5%9E%E5%9B%9E%E5%A4%8D&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌CEO皮查伊：今天在印度人工智能行动峰会上发表讲话，对我来说是一种极高的荣幸。人工智能能够改善数十亿人的生活，并解决科学领域中一些最为棘手的问题。人工智能所能带来的最佳成果并非是必然能够实现的。我们必须大胆地探索人工智能，以负责任的态度对待它，并携手共度这一时刻。",
-          "url": "https://flash.jin10.com/detail/20260219133402090800",
+          "title": "市场消息：白宫顾问克拉齐奥斯将在印度峰会上公布人工智能计划。",
+          "url": "https://flash.jin10.com/detail/20260220080116989800",
           "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "grok",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克：“Ask Grok”功能尚未在4.20 版本中上线，应该会在一两天内上线。",
-          "url": "https://flash.jin10.com/detail/20260219155031833800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时30分 ~ 17时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Anthropic",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Anthropic CEO：（谈及AI）我们有潜力治愈数千年来无法治愈的疾病。彻底改善人类健康。让数十亿人摆脱贫困。为每个人创造一个更美好的世界。不过，我对AI模型的自主行为感到担忧。它们可能被个人和政府滥用，同时，它们可能引发经济替代效应。",
-          "url": "https://flash.jin10.com/detail/20260219145906401800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国科研团队研发出AI看病系统",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E7%A0%94%E5%9B%A2%E9%98%9F%E7%A0%94%E5%8F%91%E5%87%BAAI%E7%9C%8B%E7%97%85%E7%B3%BB%E7%BB%9F",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
+          "time_info": "09时01分"
         }
       ]
     }

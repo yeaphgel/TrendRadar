@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T11:27:57.509938+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-02-20T13:02:00.953587+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 11时27分]"
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 13时02分]"
         },
         {
           "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
@@ -72,7 +73,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -91,8 +92,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "Google 发布 Gemini3.1Pro 模型，它在技术上有哪些亮点和突破？",
+          "url": "https://www.zhihu.com/question/2007991688078045862",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
         {
           "title": "Gemini3.1 Pro上线",
           "url": "https://search.bilibili.com/all?keyword=Gemini3.1%20Pro%E4%B8%8A%E7%BA%BF",
@@ -100,7 +112,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         }

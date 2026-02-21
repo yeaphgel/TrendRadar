@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-02-21T21:56:54.750749+08:00",
-  "total_titles_processed": 1020,
+  "generated_at": "2026-02-21T22:15:30.215434+08:00",
+  "total_titles_processed": 1042,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 6,
       "titles": [
+        {
+          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
+          "url": "https://www.cls.cn/detail/2292326",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时50分 ~ 22时15分]"
+        },
         {
           "title": "OpenAI：预计到2030年营收将超过2800亿美元",
           "url": "https://flash.jin10.com/detail/20260221100811881800",
@@ -24,21 +40,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时15分 ~ 16时52分]"
-        },
-        {
-          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
-          "url": "https://www.cls.cn/detail/2292326",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时50分 ~ 21时56分]"
         },
         {
           "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
@@ -217,8 +218,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时15分 ~ 21时56分]"
+          "appearance_count": 19,
+          "time_info": "[11时15分 ~ 22时15分]"
         },
         {
           "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
@@ -308,8 +309,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[08时55分 ~ 21时56分]"
+          "appearance_count": 20,
+          "time_info": "[08时55分 ~ 22时15分]"
         }
       ]
     }

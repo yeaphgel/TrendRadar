@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T13:35:43.811694+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-02-21T14:27:09.264305+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             9,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时15分 ~ 13时35分]"
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 14时27分]"
         },
         {
           "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
@@ -28,11 +29,12 @@
             6,
             17,
             21,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时55分 ~ 13时35分]"
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 14时27分]"
         },
         {
           "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
@@ -42,11 +44,12 @@
             10,
             21,
             25,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时55分 ~ 13时35分]"
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 14时27分]"
         },
         {
           "title": "OpenAI工作人员针对加拿大枪击案的嫌犯拉响警报。 相关人员在OpenAI的ChatGPT上谈论枪支暴力活动问题。（华尔街日报）",
@@ -85,11 +88,12 @@
             2,
             13,
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时55分 ~ 13时35分]"
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 14时27分]"
         },
         {
           "title": "马斯克称星舰每年将发射超过1万颗卫星",
@@ -98,11 +102,12 @@
           "ranks": [
             3,
             10,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时15分 ~ 13时35分]"
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 14时27分]"
         },
         {
           "title": "清华学霸俞浩放言要超越马斯克、黄仁勋，并批评马斯克「PUA」，如何评价其言论与商业目标？",
@@ -139,22 +144,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时15分 ~ 13时35分]"
+          "appearance_count": 5,
+          "time_info": "[11时15分 ~ 14时27分]"
         },
         {
           "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
           "url": "https://wallstreetcn.com/articles/3765904",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时55分 ~ 13时35分]"
+          "appearance_count": 6,
+          "time_info": "[08时55分 ~ 14时27分]"
         },
         {
           "title": "区域银行ETF收涨约1.3%，领跑美股行业ETF，标普电信板块涨超2.6%，谷歌A涨4%",
@@ -216,8 +223,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时55分 ~ 13时35分]"
+          "appearance_count": 6,
+          "time_info": "[08时55分 ~ 14时27分]"
         }
       ]
     }

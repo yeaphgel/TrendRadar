@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T19:12:49.639539+08:00",
-  "total_titles_processed": 861,
+  "generated_at": "2026-02-21T19:42:45.962953+08:00",
+  "total_titles_processed": 891,
   "failed_sources": [],
   "trends": [
     {
@@ -64,11 +64,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时50分 ~ 19时12分]"
+          "appearance_count": 3,
+          "time_info": "[18时50分 ~ 19时42分]"
         },
         {
           "title": "OpenAI工作人员针对加拿大枪击案的嫌犯拉响警报。 相关人员在OpenAI的ChatGPT上谈论枪支暴力活动问题。（华尔街日报）",
@@ -111,11 +112,12 @@
             13,
             15,
             21,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时05分 ~ 19时12分]"
+          "appearance_count": 10,
+          "time_info": "[15时05分 ~ 19时42分]"
         },
         {
           "title": "马斯克称星舰每年将发射超过1万颗卫星",
@@ -210,8 +212,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时15分 ~ 19时12分]"
+          "appearance_count": 15,
+          "time_info": "[11时15分 ~ 19时42分]"
         },
         {
           "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
@@ -223,8 +225,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时55分 ~ 19时12分]"
+          "appearance_count": 16,
+          "time_info": "[08时55分 ~ 19时42分]"
         },
         {
           "title": "区域银行ETF收涨约1.3%，领跑美股行业ETF，标普电信板块涨超2.6%，谷歌A涨4%",
@@ -250,11 +252,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时50分 ~ 19时12分]"
+          "appearance_count": 3,
+          "time_info": "[18时50分 ~ 19时42分]"
         },
         {
           "title": "网络安全股重挫，Anthropic发布Claude安全工具",
@@ -298,8 +301,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时55分 ~ 19时12分]"
+          "appearance_count": 16,
+          "time_info": "[08时55分 ~ 19时42分]"
         }
       ]
     }

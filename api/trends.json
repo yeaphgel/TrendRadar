@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T15:49:47.347042+08:00",
-  "total_titles_processed": 651,
+  "generated_at": "2026-02-21T16:16:49.616050+08:00",
+  "total_titles_processed": 678,
   "failed_sources": [],
   "trends": [
     {
@@ -18,23 +18,12 @@
             19,
             20,
             22,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时55分 ~ 15时49分]"
-        },
-        {
-          "title": "马斯克旗下X平台就欧盟委员会1.2亿欧元罚款提起上诉",
-          "url": "https://wallstreetcn.com/livenews/3057164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时05分 ~ 15时49分]"
+          "appearance_count": 8,
+          "time_info": "[08时55分 ~ 16时16分]"
         },
         {
           "title": "马斯克称星舰每年将发射超过1万颗卫星",
@@ -46,22 +35,37 @@
             11,
             17,
             18,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时15分 ~ 15时49分]"
+          "appearance_count": 7,
+          "time_info": "[11时15分 ~ 16时16分]"
         },
         {
           "title": "欧媒：马斯克旗下X平台就欧盟委员会1.2亿欧元罚款提起上诉",
           "url": "https://flash.jin10.com/detail/20260221144322666800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 16时16分]"
+        },
+        {
+          "title": "马斯克旗下X平台就欧盟委员会1.2亿欧元罚款提起上诉",
+          "url": "https://wallstreetcn.com/livenews/3057164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时05分 ~ 16时16分]"
         },
         {
           "title": "清华学霸俞浩放言要超越马斯克、黄仁勋，并批评马斯克「PUA」，如何评价其言论与商业目标？",
@@ -93,6 +97,23 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "OpenAI：预计到2030年营收将超过2800亿美元",
+          "url": "https://flash.jin10.com/detail/20260221100811881800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            9,
+            10,
+            16,
+            17,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时15分 ~ 16时16分]"
+        },
+        {
           "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3057138",
           "source": "华尔街见闻-快讯",
@@ -108,22 +129,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[08时55分 ~ 15时49分]"
-        },
-        {
-          "title": "OpenAI：预计到2030年营收将超过2800亿美元",
-          "url": "https://flash.jin10.com/detail/20260221100811881800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            9,
-            10,
-            16,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时15分 ~ 15时49分]"
         },
         {
           "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
@@ -181,8 +186,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时15分 ~ 15时49分]"
+          "appearance_count": 8,
+          "time_info": "[11时15分 ~ 16时16分]"
         },
         {
           "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
@@ -190,11 +195,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时55分 ~ 15时49分]"
+          "appearance_count": 9,
+          "time_info": "[08时55分 ~ 16时16分]"
         },
         {
           "title": "区域银行ETF收涨约1.3%，领跑美股行业ETF，标普电信板块涨超2.6%，谷歌A涨4%",
@@ -256,8 +262,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时55分 ~ 15时49分]"
+          "appearance_count": 9,
+          "time_info": "[08时55分 ~ 16时16分]"
         }
       ]
     }

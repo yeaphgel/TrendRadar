@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T13:11:32.894620+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-02-22T14:08:24.583031+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时59分 ~ 13时11分]"
+          "appearance_count": 4,
+          "time_info": "[08时59分 ~ 14时08分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
@@ -29,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时35分 ~ 13时11分]"
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 14时08分]"
         },
         {
           "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
@@ -58,19 +59,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时59分 ~ 13时11分]"
+          "appearance_count": 4,
+          "time_info": "[08时59分 ~ 14时08分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
           "url": "https://wallstreetcn.com/articles/3765936",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 14时08分]"
         }
       ]
     },
@@ -83,11 +85,12 @@
           "url": "https://www.zhihu.com/question/2004982651719812885",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时35分 ~ 13时11分]"
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 14时08分]"
         }
       ]
     },
@@ -100,11 +103,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32639070",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 14时08分]"
         }
       ]
     },
@@ -121,8 +125,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时59分 ~ 13时11分]"
+          "appearance_count": 4,
+          "time_info": "[08时59分 ~ 14时08分]"
         }
       ]
     }

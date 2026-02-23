@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-23T21:02:57.007519+08:00",
-  "total_titles_processed": 1175,
+  "generated_at": "2026-02-23T22:01:15.822258+08:00",
+  "total_titles_processed": 1271,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "人工智能真的会让程序员在 5 年内失业吗？",
+          "url": "https://www.zhihu.com/question/617906623",
+          "source": "知乎",
+          "ranks": [
+            12,
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时40分 ~ 22时01分]"
+        },
         {
           "title": "人工智能热潮提振芯片需求 韩国出口延续强劲势头",
           "url": "https://flash.jin10.com/detail/20260223084535159800",
@@ -19,17 +32,26 @@
           "time_info": "09时00分"
         },
         {
-          "title": "人工智能真的会让程序员在 5 年内失业吗？",
-          "url": "https://www.zhihu.com/question/617906623",
-          "source": "知乎",
+          "title": "美联储理事沃勒：人工智能正在从其他用途中抽走资本，希望看到对其他领域的投资。",
+          "url": "https://flash.jin10.com/detail/20260223215149588800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            6,
-            11
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时40分 ~ 21时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时01分"
+        },
+        {
+          "title": "美联储理事沃勒：人工智能的瓶颈是能源，这是全国许多地区正在出现的一个问题。",
+          "url": "https://flash.jin10.com/detail/20260223214939702800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时01分"
         },
         {
           "title": "韩国和巴西达成新协议 涵盖关键矿产和人工智能",
@@ -43,6 +65,17 @@
           "time_info": "14时39分"
         },
         {
+          "title": "美联储理事沃勒：企业在过度招聘后开始削减员工。 首席执行官们表示人工智能将导致大量裁员。 疲软的劳动力市场状况可能持续下去。 我们去年看到的生产力增长并非来自人工智能。 稀缺准备金制度是低效且“愚蠢的”。 中性利率由安全资产的供需关系驱动。 过去五年安全资产的供需状况变化不大。 就业市场看起来有需求问题，而不是供给问题。",
+          "url": "https://wallstreetcn.com/livenews/3057491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时01分"
+        },
+        {
           "title": "SK海力士董事长承诺提高人工智能内存芯片产量",
           "url": "https://flash.jin10.com/detail/20260223122126699800",
           "source": "金十数据",
@@ -52,6 +85,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
+        },
+        {
+          "title": "美联储理事沃勒：过去一年左右的生产率增长并非来自人工智能。",
+          "url": "https://flash.jin10.com/detail/20260223213131155800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时01分"
+        },
+        {
+          "title": "美联储理事沃勒：人工智能传导得如此之快，以至于在明确可能创造哪些工作岗位之前，很容易就能判断哪些工作岗位可能会消失。",
+          "url": "https://flash.jin10.com/detail/20260223212928567800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时01分"
+        },
+        {
+          "title": "美联储理事沃勒：首席执行官们表示，人工智能将带来大规模裁员。",
+          "url": "https://flash.jin10.com/detail/20260223212801828800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时01分"
         }
       ]
     },
@@ -78,7 +144,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -92,6 +158,48 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "无视海外“AI恐慌”，中国市场狂炒AI赢家",
+          "url": "https://wallstreetcn.com/articles/3765955",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时59分 ~ 17时40分]"
+        },
+        {
+          "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
+          "url": "https://www.cls.cn/detail/2292111",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 11时39分]"
+        },
+        {
+          "title": "TS Lombard：美国国债并非AI颠覆性风险背景下的理想选择",
+          "url": "https://wallstreetcn.com/livenews/3057490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时01分"
         }
       ]
     },
@@ -121,37 +229,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时59分 ~ 09时00分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "无视海外“AI恐慌”，中国市场狂炒AI赢家",
-          "url": "https://wallstreetcn.com/articles/3765955",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时59分 ~ 17时40分]"
-        },
-        {
-          "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
-          "url": "https://www.cls.cn/detail/2292111",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时59分 ~ 11时39分]"
         }
       ]
     }

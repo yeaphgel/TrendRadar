@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T14:39:27.209978+08:00",
-  "total_titles_processed": 668,
+  "generated_at": "2026-02-23T15:46:35.408803+08:00",
+  "total_titles_processed": 767,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -55,8 +55,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时59分 ~ 14时39分]"
+          "appearance_count": 7,
+          "time_info": "[08时59分 ~ 15时46分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -76,17 +76,6 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
-          "url": "https://www.cls.cn/detail/2292111",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时59分 ~ 11时39分]"
-        },
-        {
           "title": "无视海外“AI恐慌”，中国市场狂炒AI赢家",
           "url": "https://wallstreetcn.com/articles/3765955",
           "source": "华尔街见闻",
@@ -97,8 +86,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时59分 ~ 14时39分]"
+          "appearance_count": 7,
+          "time_info": "[08时59分 ~ 15时46分]"
+        },
+        {
+          "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
+          "url": "https://www.cls.cn/detail/2292111",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 11时39分]"
         }
       ]
     }

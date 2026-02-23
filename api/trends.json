@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T19:31:52.671543+08:00",
-  "total_titles_processed": 1069,
+  "generated_at": "2026-02-23T21:02:57.007519+08:00",
+  "total_titles_processed": 1175,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 19时31分]"
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 21时02分]"
         },
         {
           "title": "韩国和巴西达成新协议 涵盖关键矿产和人工智能",
@@ -55,37 +56,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
-          "url": "https://www.cls.cn/detail/2292326",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时59分 ~ 19时31分]"
-        },
-        {
-          "title": "表面风光之下，OpenAI的“四大困境”",
-          "url": "https://wallstreetcn.com/articles/3765945",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时00分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "Anthropic",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美国国防部长海格塞斯将于周二上午会见Anthropic首席执行官。（Axios）",
@@ -100,6 +72,17 @@
           "time_info": "[18时40分 ~ 19时31分]"
         },
         {
+          "title": "美媒：美防长赫格塞思将与Anthropic CEO会面",
+          "url": "https://flash.jin10.com/detail/20260223204139082800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "据AXIOS网站：美国国防部长赫格塞思将会将Anthropic CEO。",
           "url": "https://flash.jin10.com/detail/20260223180528330800",
           "source": "金十数据",
@@ -109,6 +92,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
+          "url": "https://www.cls.cn/detail/2292326",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[08时59分 ~ 21时02分]"
+        },
+        {
+          "title": "表面风光之下，OpenAI的“四大困境”",
+          "url": "https://wallstreetcn.com/articles/3765945",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 09时00分]"
         }
       ]
     },

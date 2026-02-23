@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T18:40:48.416439+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2026-02-23T19:31:52.671543+08:00",
+  "total_titles_processed": 1069,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://www.zhihu.com/question/617906623",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 18时40分]"
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 19时31分]"
         },
         {
           "title": "韩国和巴西达成新协议 涵盖关键矿产和人工智能",
@@ -66,8 +67,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时59分 ~ 18时40分]"
+          "appearance_count": 11,
+          "time_info": "[08时59分 ~ 19时31分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -91,11 +92,12 @@
           "url": "https://wallstreetcn.com/livenews/3057435",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时31分]"
         },
         {
           "title": "据AXIOS网站：美国国防部长赫格塞思将会将Anthropic CEO。",
@@ -104,7 +106,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         }

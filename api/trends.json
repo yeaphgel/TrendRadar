@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T22:01:15.822258+08:00",
-  "total_titles_processed": 1271,
+  "generated_at": "2026-02-23T22:45:35.085757+08:00",
+  "total_titles_processed": 1331,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时40分 ~ 22时01分]"
+          "appearance_count": 7,
+          "time_info": "[17时40分 ~ 22时45分]"
         },
         {
           "title": "人工智能热潮提振芯片需求 韩国出口延续强劲势头",
@@ -36,22 +36,36 @@
           "url": "https://flash.jin10.com/detail/20260223215149588800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时45分]"
         },
         {
           "title": "美联储理事沃勒：人工智能的瓶颈是能源，这是全国许多地区正在出现的一个问题。",
           "url": "https://flash.jin10.com/detail/20260223214939702800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时45分]"
+        },
+        {
+          "title": "美联储理事沃勒：企业在过度招聘后开始削减员工。 首席执行官们表示人工智能将导致大量裁员。 疲软的劳动力市场状况可能持续下去。 我们去年看到的生产力增长并非来自人工智能。 稀缺准备金制度是低效且“愚蠢的”。 中性利率由安全资产的供需关系驱动。 过去五年安全资产的供需状况变化不大。 就业市场看起来有需求问题，而不是供给问题。",
+          "url": "https://wallstreetcn.com/livenews/3057491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时45分]"
         },
         {
           "title": "韩国和巴西达成新协议 涵盖关键矿产和人工智能",
@@ -63,17 +77,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
-        },
-        {
-          "title": "美联储理事沃勒：企业在过度招聘后开始削减员工。 首席执行官们表示人工智能将导致大量裁员。 疲软的劳动力市场状况可能持续下去。 我们去年看到的生产力增长并非来自人工智能。 稀缺准备金制度是低效且“愚蠢的”。 中性利率由安全资产的供需关系驱动。 过去五年安全资产的供需状况变化不大。 就业市场看起来有需求问题，而不是供给问题。",
-          "url": "https://wallstreetcn.com/livenews/3057491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时01分"
         },
         {
           "title": "SK海力士董事长承诺提高人工智能内存芯片产量",
@@ -93,7 +96,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时01分"
         },
@@ -104,7 +107,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时01分"
         },
@@ -115,7 +118,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时01分"
         }
@@ -195,11 +198,12 @@
           "url": "https://wallstreetcn.com/livenews/3057490",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时45分]"
         }
       ]
     },

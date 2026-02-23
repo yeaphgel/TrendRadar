@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T09:00:36.991574+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-23T11:39:35.789115+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时00分]"
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 11时39分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -43,19 +43,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时00分]"
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 11时39分]"
         },
         {
           "title": "无视海外“AI恐慌”，中国市场狂炒AI赢家",
           "url": "https://wallstreetcn.com/articles/3765955",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时00分]"
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 11时39分]"
         }
       ]
     },
@@ -70,7 +71,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时00分"
         }

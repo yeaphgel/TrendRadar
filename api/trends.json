@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-02-24T08:58:02.233546+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-02-24T11:31:40.418563+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "Anthropic",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "消息人士：Anthropic 公司正向部分现任和前任员工提供出售公司股份的机会，公司估值约为3500亿美元，这将使他们能够从近期300亿美元的融资活动中获利。",
+          "url": "https://flash.jin10.com/detail/20260224082107536800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时58分"
+        },
+        {
+          "title": "Anthropic撼动市场继续：IBM暴跌13%创25年最大，网络安全股再重挫",
+          "url": "https://wallstreetcn.com/articles/3766008",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "Anthropic称其工具可协助COBOL现代化 IBM单日暴跌超13%",
+          "url": "https://flash.jin10.com/detail/20260224072433464800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时58分"
+        }
+      ]
+    },
     {
       "keyword_group": "grok",
       "match_count": 2,
@@ -14,7 +53,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -25,35 +64,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Anthropic",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "消息人士：Anthropic 公司正向部分现任和前任员工提供出售公司股份的机会，公司估值约为3500亿美元，这将使他们能够从近期300亿美元的融资活动中获利。",
-          "url": "https://flash.jin10.com/detail/20260224082107536800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "Anthropic称其工具可协助COBOL现代化 IBM单日暴跌超13%",
-          "url": "https://flash.jin10.com/detail/20260224072433464800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         }
@@ -70,7 +81,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         }

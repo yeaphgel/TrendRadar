@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T14:52:16.145875+08:00",
-  "total_titles_processed": 724,
+  "generated_at": "2026-02-24T15:32:24.962338+08:00",
+  "total_titles_processed": 819,
   "failed_sources": [],
   "trends": [
     {
@@ -51,11 +51,12 @@
           "url": "https://wallstreetcn.com/articles/3766008",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时31分 ~ 14时52分]"
+          "appearance_count": 5,
+          "time_info": "[11时31分 ~ 15时32分]"
         },
         {
           "title": "消息人士：Anthropic 公司正向部分现任和前任员工提供出售公司股份的机会，公司估值约为3500亿美元，这将使他们能够从近期300亿美元的融资活动中获利。",
@@ -154,7 +155,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         }

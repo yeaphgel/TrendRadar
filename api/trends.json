@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T18:38:41.682904+08:00",
-  "total_titles_processed": 1082,
+  "generated_at": "2026-02-25T19:40:03.356344+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
@@ -95,8 +95,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时03分 ~ 18时38分]"
+          "appearance_count": 14,
+          "time_info": "[09时03分 ~ 19时40分]"
         },
         {
           "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
@@ -107,8 +107,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时03分 ~ 18时38分]"
+          "appearance_count": 14,
+          "time_info": "[09时03分 ~ 19时40分]"
         },
         {
           "title": "“AI灭霸”Anthropic与“受害股”合作推出智能体 软件板块集体回血",
@@ -155,8 +155,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 18时38分]"
+          "appearance_count": 5,
+          "time_info": "[17时40分 ~ 19时40分]"
         }
       ]
     },
@@ -173,8 +173,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时03分 ~ 18时38分]"
+          "appearance_count": 14,
+          "time_info": "[09时03分 ~ 19时40分]"
         }
       ]
     }

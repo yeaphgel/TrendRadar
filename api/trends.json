@@ -1,585 +1,33 @@
 {
-  "generated_at": "2026-02-24T23:15:17.635869+08:00",
-  "total_titles_processed": 1467,
+  "generated_at": "2026-02-25T09:04:11.951739+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "人工智能",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "聚焦人工智能、低空经济！解码各地“新春第一会”",
-          "url": "https://www.cls.cn/detail/2293337",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时32分 ~ 23时15分]"
-        },
-        {
-          "title": "美称中国一人工智能企业违反美出口管制，外交部：中方已多次表明原则立场",
-          "url": "https://www.cls.cn/detail/2293574",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时30分 ~ 23时15分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-02-24）",
-          "url": "https://flash.jin10.com/detail/20260224115748549800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时10分"
-        },
-        {
-          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
-          "url": "https://www.zhihu.com/question/41253586",
-          "source": "知乎",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时02分 ~ 23时15分]"
-        },
-        {
-          "title": "美联储理事沃勒：CITRINI关于人工智能的报告夸大了就业风险。",
-          "url": "https://flash.jin10.com/detail/20260224224523170800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时15分"
-        },
-        {
-          "title": "受Citrini人工智能恐慌报告影响，印度Nifty IT指数下跌2.9%。",
-          "url": "https://wallstreetcn.com/livenews/3057864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时10分"
-        },
-        {
-          "title": "美银调查：“人工智能泡沫”首次成为信贷投资者最大忧虑",
-          "url": "https://wallstreetcn.com/livenews/3058203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时15分"
-        },
-        {
-          "title": "美国总统特朗普政府将利用美国国防部创建的人工智能模型，为全球贸易集团中的关键矿物设定参考价格。特朗普政府将首次制定锗、镓、锑和钨的参考价格。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3058153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时03分"
-        },
-        {
-          "title": "新加坡电信与英伟达将在新加坡推出应用人工智能中心，与英伟达合作设计数据中心，以兼容新款英伟达GPU。",
-          "url": "https://flash.jin10.com/detail/20260224114552966800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时10分"
-        },
-        {
-          "title": "美联储理事沃勒：我并不对人工智能持“悲观”态度。",
-          "url": "https://flash.jin10.com/detail/20260224224346937800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时15分"
-        },
-        {
-          "title": "美联储理事沃勒：人们会找到如何将人工智能用于善途的方法。",
-          "url": "https://flash.jin10.com/detail/20260224224337312800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时15分"
-        },
-        {
-          "title": "市场消息：Meta Platforms(META.O)与AMD(AMD.O)达成重磅协议，斥资数十亿美元采购人工智能设备。",
-          "url": "https://flash.jin10.com/detail/20260224200244367800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时34分"
-        },
-        {
-          "title": "美联储理事库克：美联储恐怕无法应对人工智能（AI）造成的失业问题。 美联储的政策恐怕难以缓解AI驱动的失业问题。",
-          "url": "https://wallstreetcn.com/livenews/3058196",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时15分"
-        },
-        {
-          "title": "美联储理事沃勒：人工智能技术将给经济带来变革。",
-          "url": "https://flash.jin10.com/detail/20260224224229375800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时15分"
-        },
-        {
-          "title": "美称中国一人工智能企业违反美出口管制，外交部：中方已多次表明原则立场",
-          "url": "https://wallstreetcn.com/livenews/3057967",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "美联储理事沃勒：人工智能不会完全取代人类，它只是一种工具。",
-          "url": "https://flash.jin10.com/detail/20260224224219282800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时15分"
-        },
-        {
-          "title": "美联储理事沃勒：不认为人工智能会大幅取代白领工作。",
-          "url": "https://flash.jin10.com/detail/20260224224141444800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时15分"
-        },
-        {
-          "title": "美联储博斯蒂克：向人工智能的过渡可能令美联储难以理解。",
-          "url": "https://flash.jin10.com/detail/20260224190953033800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时30分"
-        },
-        {
-          "title": "苹果(AAPL.O)：休斯顿人工智能服务器的生产提前完成。",
-          "url": "https://flash.jin10.com/detail/20260224190631079800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时30分"
-        }
-      ]
-    },
-    {
       "keyword_group": "Anthropic",
-      "match_count": 9,
+      "match_count": 2,
       "titles": [
         {
-          "title": "Anthropic撼动市场继续：IBM暴跌13%创25年最大，网络安全股再重挫",
-          "url": "https://wallstreetcn.com/articles/3766008",
+          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3766041",
           "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时31分 ~ 23时15分]"
-        },
-        {
-          "title": "汤森路透涨幅扩大至12%，Anthropic在活动中谈及该公司。 2026年稍早，路透股价一度因Anthropic开发法务业务而暴跌。",
-          "url": "https://wallstreetcn.com/livenews/3058212",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时15分"
-        },
-        {
-          "title": "LegalZoom涨幅扩大至6.1%，Anthropic在活动中谈及该公司。",
-          "url": "https://wallstreetcn.com/livenews/3058208",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时15分"
-        },
-        {
-          "title": "消息人士：Anthropic 公司正向部分现任和前任员工提供出售公司股份的机会，公司估值约为3500亿美元，这将使他们能够从近期300亿美元的融资活动中获利。",
-          "url": "https://flash.jin10.com/detail/20260224082107536800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "Salesforce涨3.4%，Spotify涨1.4%，Adobe涨3.4%，Figma涨8.9%，埃森哲涨1%，投资者关注Anthropic活动。",
-          "url": "https://wallstreetcn.com/livenews/3058201",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时15分"
-        },
-        {
-          "title": "DocuSign涨5%，该公司与Anthropic合作。",
-          "url": "https://wallstreetcn.com/livenews/3058197",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时15分"
-        },
-        {
-          "title": "Anthropic称其工具可协助COBOL现代化 IBM单日暴跌超13%",
-          "url": "https://flash.jin10.com/detail/20260224072433464800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "财捷美股盘前涨超6%，公司和ANTHROPIC宣布建立多年合作伙伴关系。",
-          "url": "https://wallstreetcn.com/livenews/3058148",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时03分"
-        },
-        {
-          "title": "Anthropic将与Intapp面向专业公司推出AI agents。Anthropic与FactSet等合作伙伴开发出多种插件，Anthropic将AI agent与面向投行、HR的工具关联。",
-          "url": "https://wallstreetcn.com/livenews/3058195",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "中方回应美称DeepSeek违反美出口管制",
-          "url": "https://www.toutiao.com/trending/7610332842534374955/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            1,
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时32分 ~ 20时34分]"
-        },
-        {
-          "title": "如何看待 Anthropic 指控 DeepSeek 、 Kimi 和 MiniMax 「蒸馏攻击」其模型?",
-          "url": "https://www.zhihu.com/question/2009538062087123054",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时34分"
-        },
-        {
-          "title": "中方回应美称DeepSeek违反出口管制",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E7%A7%B0DeepSeek%E8%BF%9D%E5%8F%8D%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            27
-          ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时39分 ~ 19时30分]"
+          "time_info": "[09时03分 ~ 09时04分]"
         },
         {
-          "title": "中信证券：国内脑机接口行业将迎来DeepSeek时刻",
-          "url": "https://wallstreetcn.com/livenews/3057725",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "中方回应美称DeepSeek违反美出口管制",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E7%A7%B0DeepSeek%E8%BF%9D%E5%8F%8D%E7%BE%8E%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "马斯克：如果有人对F-35战机进行逆向破解，那他们就闹出笑话了。此前，马斯克批评F-35在无人机时代已“过时”。",
-          "url": "https://flash.jin10.com/detail/20260224123111917800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时10分"
-        },
-        {
-          "title": "马斯克设想从月球电磁弹射AI卫星",
-          "url": "https://wallstreetcn.com/livenews/3058106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时30分 ~ 20时34分]"
-        },
-        {
-          "title": "如何看待马斯克认为现代年轻人没必要上大学了？",
-          "url": "https://www.zhihu.com/question/2007939390421360944",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时02分 ~ 23时15分]"
-        },
-        {
-          "title": "马斯克设想从月球电磁弹射AI卫星",
-          "url": "https://flash.jin10.com/detail/20260224191851131800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "就在今晚！软件股再遭打击？Anthropic将直播展示Claude最新功能",
-          "url": "https://wallstreetcn.com/articles/3766010",
+          "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
+          "url": "https://wallstreetcn.com/articles/3766083",
           "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时30分 ~ 23时15分]"
-        },
-        {
-          "title": "Claude宣布Cowork的更新，包括全新插件，且现已支持Excel和PowerPoint。Anthropic表示，客户可以为Claude自定义插件。",
-          "url": "https://flash.jin10.com/detail/20260224224851916800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时15分"
-        },
-        {
-          "title": "Anthropic：客户可以为Claude定制插件。 在Claude推出五款新的自研插件。 （用户）现在可以获得由合作伙伴开发的插件。",
-          "url": "https://wallstreetcn.com/livenews/3058207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "电价攀升惹民怨，特朗普要求美国科技公司承诺自掏腰包建设AI数据中心",
-          "url": "https://wallstreetcn.com/livenews/3057913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时52分"
-        },
-        {
-          "title": "美债黄金携手大涨！市场直面三大风暴眼：特朗普关税、AI恐慌、伊朗局势",
-          "url": "https://www.cls.cn/detail/2293144",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时39分"
-        },
-        {
-          "title": "消息人士：特朗普政府欲借助美国防部AI项目为贸易集团内关键矿产定价",
-          "url": "https://flash.jin10.com/detail/20260224212233619800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "grok",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据AXIOS网站：马斯克的xAI与美国国防部达成协议，可在机密系统中使用GROK。",
-          "url": "https://flash.jin10.com/detail/20260224073815581800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "xAI与五角大楼达成协议，将在涉密系统中启用Grok。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3057708",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "reddit",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Reddit就英国信息专员办公室（ICO）的罚款发表声明称，打算对该决定提起上诉。",
-          "url": "https://flash.jin10.com/detail/20260224201942231800",
-          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时34分"
-        },
-        {
-          "title": "英国信息专员办公室（ICO）：Reddit因侵犯儿童隐私被处以1450万英镑罚款。",
-          "url": "https://flash.jin10.com/detail/20260224193356901800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时34分"
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 09时04分]"
         }
       ]
     },
@@ -588,15 +36,49 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "谷歌(GOOG.O)：将采用限制用水量的技术设施。",
-          "url": "https://flash.jin10.com/detail/20260224211336544800",
-          "source": "金十数据",
+          "title": "谷歌宣布将新建数据中心：承诺电费全包不涨价 绿电+储能齐推进",
+          "url": "https://www.cls.cn/detail/2294085",
+          "source": "财联社热门",
           "ranks": [
-            29
+            8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 09时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克发帖暗示“辛鲍姆与贩毒集团存在关联”，墨西哥总统：正考虑采取法律行动",
+          "url": "https://wallstreetcn.com/livenews/3058419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时03分"
+          "time_info": "09时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
+          "url": "https://wallstreetcn.com/articles/3766081",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 09时04分]"
         }
       ]
     }

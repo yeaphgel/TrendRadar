@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T16:34:17.457833+08:00",
-  "total_titles_processed": 882,
+  "generated_at": "2026-02-25T17:41:04.344961+08:00",
+  "total_titles_processed": 998,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -56,8 +56,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时55分 ~ 16时34分]"
+          "appearance_count": 9,
+          "time_info": "[11时55分 ~ 17时41分]"
         },
         {
           "title": "马斯克发帖暗示“辛鲍姆与贩毒集团存在关联”，墨西哥总统：正考虑采取法律行动",
@@ -77,7 +77,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         }
@@ -95,8 +95,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时03分 ~ 16时34分]"
+          "appearance_count": 11,
+          "time_info": "[09时03分 ~ 17时41分]"
         },
         {
           "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
@@ -107,8 +107,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时03分 ~ 16时34分]"
+          "appearance_count": 11,
+          "time_info": "[09时03分 ~ 17时41分]"
         },
         {
           "title": "“AI灭霸”Anthropic与“受害股”合作推出智能体 软件板块集体回血",
@@ -143,6 +143,23 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "韩女子用ChatGPT策划连环杀人案",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8ChatGPT%E7%AD%96%E5%88%92%E8%BF%9E%E7%8E%AF%E6%9D%80%E4%BA%BA%E6%A1%88%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 17时41分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
       "match_count": 1,
       "titles": [
@@ -155,8 +172,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时03分 ~ 16时34分]"
+          "appearance_count": 11,
+          "time_info": "[09时03分 ~ 17时41分]"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T15:38:13.708493+08:00",
-  "total_titles_processed": 811,
+  "generated_at": "2026-02-27T16:28:23.167639+08:00",
+  "total_titles_processed": 905,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时37分 ~ 15时38分]"
+          "appearance_count": 3,
+          "time_info": "[15时37分 ~ 16时28分]"
         },
         {
           "title": "媒体消息称，韩国批准谷歌出口地图数据的申请。（路透）",
@@ -95,8 +95,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时26分 ~ 15时38分]"
+          "appearance_count": 8,
+          "time_info": "[11时26分 ~ 16时28分]"
         },
         {
           "title": "杰夫·贝佐斯斥资300亿美元打造的人工智能实验室正寻求数百亿美元的工业领域交易。",
@@ -148,8 +148,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时50分 ~ 15时38分]"
+          "appearance_count": 6,
+          "time_info": "[13时50分 ~ 16时28分]"
         },
         {
           "title": "OpenAI向加拿大官员作出多项承诺，将加强安全机制",
@@ -234,8 +234,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时58分 ~ 15时38分]"
+          "appearance_count": 10,
+          "time_info": "[08时58分 ~ 16时28分]"
         }
       ]
     },

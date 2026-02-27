@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T11:26:52.613192+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-02-27T13:01:10.573990+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌Nano Banana 2亮相：专业能力全面下放 成本腰斩一半",
@@ -13,11 +13,23 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            13
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 13时01分]"
+        },
+        {
+          "title": "谷歌推出 Nano Banana 2，有哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2010521633262101357",
+          "source": "知乎",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时58分 ~ 11时26分]"
+          "time_info": "[13时00分 ~ 13时01分]"
         },
         {
           "title": "谷歌深夜发布生图模型Nano Banana 2",
@@ -26,7 +38,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         }
@@ -34,18 +46,30 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "两会前瞻｜围绕人工智能发展，代表委员将带来哪些建议？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32660481",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 13时01分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-02-27）",
+          "url": "https://flash.jin10.com/detail/20260227115510603800",
+          "source": "金十数据",
+          "ranks": [
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "13时01分"
         },
         {
           "title": "韩国现代汽车集团：计划于2029年底建成人工智能数据中心和机器人工厂。",
@@ -54,7 +78,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         }
@@ -69,11 +93,12 @@
           "url": "https://www.zhihu.com/question/2010465986483025153",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 13时01分]"
         }
       ]
     },
@@ -105,7 +130,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         }
@@ -120,11 +145,12 @@
           "url": "https://www.cls.cn/detail/2296527",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 13时01分]"
         }
       ]
     },
@@ -138,11 +164,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 11时26分]"
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 13时01分]"
         }
       ]
     },
@@ -157,7 +184,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         }

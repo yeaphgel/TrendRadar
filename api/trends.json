@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T19:03:10.098247+08:00",
-  "total_titles_processed": 1169,
+  "generated_at": "2026-02-27T19:51:05.124343+08:00",
+  "total_titles_processed": 1256,
   "failed_sources": [],
   "trends": [
     {
@@ -97,8 +97,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时26分 ~ 19时03分]"
+          "appearance_count": 15,
+          "time_info": "[11时26分 ~ 19时51分]"
         },
         {
           "title": "杰夫·贝佐斯斥资300亿美元打造的人工智能实验室正寻求数百亿美元的工业领域交易。",
@@ -240,8 +240,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时58分 ~ 19时03分]"
+          "appearance_count": 17,
+          "time_info": "[08时58分 ~ 19时51分]"
         }
       ]
     },
@@ -273,7 +273,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         }

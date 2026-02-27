@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T16:28:23.167639+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2026-02-27T17:05:11.724121+08:00",
+  "total_titles_processed": 986,
   "failed_sources": [],
   "trends": [
     {
@@ -92,11 +92,12 @@
             19,
             20,
             17,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时26分 ~ 16时28分]"
+          "appearance_count": 10,
+          "time_info": "[11时26分 ~ 17时05分]"
         },
         {
           "title": "杰夫·贝佐斯斥资300亿美元打造的人工智能实验室正寻求数百亿美元的工业领域交易。",
@@ -145,11 +146,12 @@
           "ranks": [
             20,
             5,
-            26
+            26,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时50分 ~ 16时28分]"
+          "appearance_count": 8,
+          "time_info": "[13时50分 ~ 17时05分]"
         },
         {
           "title": "OpenAI向加拿大官员作出多项承诺，将加强安全机制",
@@ -234,8 +236,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时58分 ~ 16时28分]"
+          "appearance_count": 12,
+          "time_info": "[08时58分 ~ 17时05分]"
         }
       ]
     },

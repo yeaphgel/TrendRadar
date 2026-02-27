@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T18:03:37.897905+08:00",
-  "total_titles_processed": 1059,
+  "generated_at": "2026-02-27T19:03:10.098247+08:00",
+  "total_titles_processed": 1169,
   "failed_sources": [],
   "trends": [
     {
@@ -97,8 +97,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时26分 ~ 18时03分]"
+          "appearance_count": 13,
+          "time_info": "[11时26分 ~ 19时03分]"
         },
         {
           "title": "杰夫·贝佐斯斥资300亿美元打造的人工智能实验室正寻求数百亿美元的工业领域交易。",
@@ -149,11 +149,12 @@
             5,
             26,
             18,
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时50分 ~ 18时03分]"
+          "appearance_count": 11,
+          "time_info": "[13时50分 ~ 19时03分]"
         },
         {
           "title": "OpenAI向加拿大官员作出多项承诺，将加强安全机制",
@@ -239,8 +240,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时58分 ~ 18时03分]"
+          "appearance_count": 15,
+          "time_info": "[08时58分 ~ 19时03分]"
         }
       ]
     },
@@ -262,6 +263,23 @@
       ]
     },
     {
+      "keyword_group": "增长",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【澜起科技：2025年净利润同比增长58.35%】澜起科技公告，公司2025年实现营业收入54.56亿元，较上年度增长49.94%，毛利率为62.23%，较上年度提升4.10个百分点；实现归属于母公司所有者的净利润22.36亿元，较上年度增长58.35%；实现归属于母公司所有者的扣除非经常性损益的净利润20.22亿元，较上年度增长61.95%。受益于AI产业趋势，行业需求旺盛，公司互连类芯片出货量显著增加，推动公司2025年度经营业绩较上年同期实现大幅增长。公司持续加大研发投入，随着公司布局的新产品品类增加，2025年度公司研发费用约为9.15亿元，较上年度增长20%。",
+          "url": "https://wallstreetcn.com/livenews/3060228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI",
       "match_count": 1,
       "titles": [
@@ -272,7 +290,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         }

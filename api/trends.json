@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T20:19:36.791412+08:00",
-  "total_titles_processed": 1629,
+  "generated_at": "2026-02-28T21:10:43.413055+08:00",
+  "total_titles_processed": 1724,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
@@ -19,8 +19,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[08时51分 ~ 20时19分]"
+          "appearance_count": 28,
+          "time_info": "[08时51分 ~ 21时10分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -49,8 +49,21 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[14时21分 ~ 20时19分]"
+          "appearance_count": 22,
+          "time_info": "[14时21分 ~ 21时10分]"
+        },
+        {
+          "title": "AI界的“冰火两重天”：Anthropic刚被封杀 OpenAI就拿下了五角大楼",
+          "url": "https://www.cls.cn/detail/2298126",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时45分 ~ 21时10分]"
         },
         {
           "title": "OpenAI获1100亿美元新投资",
@@ -76,19 +89,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时38分 ~ 14时21分]"
-        },
-        {
-          "title": "AI界的“冰火两重天”：Anthropic刚被封杀 OpenAI就拿下了五角大楼",
-          "url": "https://www.cls.cn/detail/2298126",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时45分 ~ 20时19分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们将部署前线工程师来协助我们的模型，为了确保模型的安全，我们将只在云网络上进行部署。",
@@ -198,6 +198,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
+        },
+        {
+          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2011023228328510169",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         }
       ]
     },
@@ -218,8 +229,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[14时21分 ~ 20时19分]"
+          "appearance_count": 22,
+          "time_info": "[14时21分 ~ 21时10分]"
         },
         {
           "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
@@ -230,8 +241,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时53分 ~ 20时19分]"
+          "appearance_count": 6,
+          "time_info": "[13时53分 ~ 21时10分]"
         },
         {
           "title": "Anthropic：尚未收到来自美国国防部和白宫的信息。 不会被恐吓而改变立场。 将在法庭上挑战“供应链风险”这一认定。",
@@ -512,11 +523,12 @@
           "url": "https://www.zhihu.com/question/2010670686461452529",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时19分 ~ 21时10分]"
         },
         {
           "title": "deepseek崩了",

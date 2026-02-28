@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T15:45:15.021294+08:00",
-  "total_titles_processed": 902,
+  "generated_at": "2026-02-28T16:15:23.984150+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             5,
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时51分 ~ 15时45分]"
+          "appearance_count": 15,
+          "time_info": "[08时51分 ~ 16时15分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -31,8 +32,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时51分 ~ 15时45分]"
+          "appearance_count": 15,
+          "time_info": "[08时51分 ~ 16时15分]"
         },
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -42,11 +43,12 @@
             8,
             9,
             16,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时21分 ~ 15时45分]"
+          "appearance_count": 9,
+          "time_info": "[14时21分 ~ 16时15分]"
         },
         {
           "title": "OpenAI获1100亿美元新投资",
@@ -198,8 +200,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时21分 ~ 15时45分]"
+          "appearance_count": 9,
+          "time_info": "[14时21分 ~ 16时15分]"
         },
         {
           "title": "Anthropic：尚未收到来自美国国防部和白宫的信息。 不会被恐吓而改变立场。 将在法庭上挑战“供应链风险”这一认定。",
@@ -334,7 +336,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "中国AI跑出马年加速度",
@@ -344,8 +346,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时38分 ~ 15时45分]"
+          "appearance_count": 13,
+          "time_info": "[12时38分 ~ 16时15分]"
         },
         {
           "title": "外媒爆料：美军想用AI攻击中国电网",
@@ -370,11 +372,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时04分 ~ 15时45分]"
+          "appearance_count": 14,
+          "time_info": "[11时04分 ~ 16时15分]"
         },
         {
           "title": "美国政府大战AI明星公司 NASA调整载人登月计划 | 环球市场",
@@ -387,8 +390,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时04分 ~ 15时45分]"
+          "appearance_count": 14,
+          "time_info": "[11时04分 ~ 16时15分]"
         },
         {
           "title": "证监会外资座谈释放信号 财联社实探外资圈：对中国资产告别观望，主动增配！AI投资暗藏新逻辑",
@@ -398,8 +401,19 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时44分 ~ 16时15分]"
+        },
+        {
+          "title": "默茨在中国体验AI眼镜时玩上瘾",
+          "url": "https://www.toutiao.com/trending/7611202863113011219/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时44分 ~ 15时45分]"
+          "time_info": "[16时14分 ~ 16时15分]"
         },
         {
           "title": "中国AI调用量超越美国",

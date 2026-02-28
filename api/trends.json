@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T19:02:35.685855+08:00",
-  "total_titles_processed": 1450,
+  "generated_at": "2026-02-28T19:39:10.791886+08:00",
+  "total_titles_processed": 1525,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[08时51分 ~ 19时02分]"
+          "appearance_count": 26,
+          "time_info": "[08时51分 ~ 19时39分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -49,8 +49,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[14时21分 ~ 19时02分]"
+          "appearance_count": 20,
+          "time_info": "[14时21分 ~ 19时39分]"
         },
         {
           "title": "OpenAI获1100亿美元新投资",
@@ -164,6 +164,18 @@
           "time_info": "[12时38分 ~ 14时21分]"
         },
         {
+          "title": "AI界的“冰火两重天”：Anthropic刚被封杀 OpenAI就拿下了五角大楼",
+          "url": "https://www.cls.cn/detail/2298126",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时45分 ~ 19时39分]"
+        },
+        {
           "title": "消息人士称，英伟达正准备推出一款专用芯片，以撼动人工智能计算领域的竞争格局。OpenAI即将成为英伟达新款处理器的最大客户之一。",
           "url": "https://flash.jin10.com/detail/20260228110554688800",
           "source": "金十数据",
@@ -174,17 +186,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时38分 ~ 13时25分]"
-        },
-        {
-          "title": "AI界的“冰火两重天”：Anthropic刚被封杀 OpenAI就拿下了五角大楼",
-          "url": "https://www.cls.cn/detail/2298126",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 19时02分]"
         },
         {
           "title": "一位消息人士透露，五角大楼已同意OpenAI制定的在保密环境下安全部署其技术的规则，但尚未签署任何合同。",
@@ -215,8 +216,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[14时21分 ~ 19时02分]"
+          "appearance_count": 20,
+          "time_info": "[14时21分 ~ 19时39分]"
         },
         {
           "title": "Anthropic：尚未收到来自美国国防部和白宫的信息。 不会被恐吓而改变立场。 将在法庭上挑战“供应链风险”这一认定。",
@@ -394,8 +395,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[11时04分 ~ 19时02分]"
+          "appearance_count": 23,
+          "time_info": "[11时04分 ~ 19时39分]"
         },
         {
           "title": "美国政府大战AI明星公司 NASA调整载人登月计划 | 环球市场",
@@ -408,8 +409,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[11时04分 ~ 19时02分]"
+          "appearance_count": 25,
+          "time_info": "[11时04分 ~ 19时39分]"
         },
         {
           "title": "证监会外资座谈释放信号 财联社实探外资圈：对中国资产告别观望，主动增配！AI投资暗藏新逻辑",
@@ -418,11 +419,12 @@
           "ranks": [
             13,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时44分 ~ 19时02分]"
+          "appearance_count": 15,
+          "time_info": "[15时44分 ~ 19时39分]"
         },
         {
           "title": "默茨在中国体验AI眼镜时玩上瘾",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T22:11:53.632810+08:00",
-  "total_titles_processed": 1858,
+  "generated_at": "2026-02-28T22:44:58.028295+08:00",
+  "total_titles_processed": 1918,
   "failed_sources": [],
   "trends": [
     {
@@ -50,8 +50,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[14时21分 ~ 22时11分]"
+          "appearance_count": 25,
+          "time_info": "[14时21分 ~ 22时44分]"
         },
         {
           "title": "AI界的“冰火两重天”：Anthropic刚被封杀 OpenAI就拿下了五角大楼",
@@ -183,11 +183,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时10分 ~ 22时11分]"
+          "appearance_count": 4,
+          "time_info": "[21时10分 ~ 22时44分]"
         },
         {
           "title": "消息人士称，英伟达正准备推出一款专用芯片，以撼动人工智能计算领域的竞争格局。OpenAI即将成为英伟达新款处理器的最大客户之一。",
@@ -232,8 +233,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[14时21分 ~ 22时11分]"
+          "appearance_count": 25,
+          "time_info": "[14时21分 ~ 22时44分]"
         },
         {
           "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
@@ -244,8 +245,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时53分 ~ 22时11分]"
+          "appearance_count": 9,
+          "time_info": "[13时53分 ~ 22时44分]"
         },
         {
           "title": "Anthropic：尚未收到来自美国国防部和白宫的信息。 不会被恐吓而改变立场。 将在法庭上挑战“供应链风险”这一认定。",
@@ -527,11 +528,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时19分 ~ 22时11分]"
+          "appearance_count": 5,
+          "time_info": "[20时19分 ~ 22时44分]"
         },
         {
           "title": "deepseek崩了",

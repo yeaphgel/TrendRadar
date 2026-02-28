@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T14:21:19.603731+08:00",
-  "total_titles_processed": 657,
+  "generated_at": "2026-02-28T15:02:04.963280+08:00",
+  "total_titles_processed": 771,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时51分 ~ 14时21分]"
+          "appearance_count": 9,
+          "time_info": "[08时51分 ~ 15时02分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -30,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时51分 ~ 14时21分]"
+          "appearance_count": 9,
+          "time_info": "[08时51分 ~ 15时02分]"
         },
         {
           "title": "OpenAI获1100亿美元新投资",
@@ -145,6 +145,18 @@
           "time_info": "[12时38分 ~ 14时21分]"
         },
         {
+          "title": "解读OpenAI获千亿美元投资背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时21分 ~ 15时02分]"
+        },
+        {
           "title": "消息人士称，英伟达正准备推出一款专用芯片，以撼动人工智能计算领域的竞争格局。OpenAI即将成为英伟达新款处理器的最大客户之一。",
           "url": "https://flash.jin10.com/detail/20260228110554688800",
           "source": "金十数据",
@@ -155,17 +167,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时38分 ~ 13时25分]"
-        },
-        {
-          "title": "解读OpenAI获千亿美元投资背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
         },
         {
           "title": "一位消息人士透露，五角大楼已同意OpenAI制定的在保密环境下安全部署其技术的规则，但尚未签署任何合同。",
@@ -200,6 +201,30 @@
           "time_info": "[11时04分 ~ 14时21分]"
         },
         {
+          "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
+          "url": "https://wallstreetcn.com/articles/3766399",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 15时02分]"
+        },
+        {
+          "title": "美国政府「首次封杀」全球头部大模型企业，美联邦机构停用 Anthropic 产品，会对市场造成何种影响？",
+          "url": "https://www.zhihu.com/question/2011015637259028204",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时21分 ~ 15时02分]"
+        },
+        {
           "title": "Anthropic公司将把美国国防部告上法庭",
           "url": "https://flash.jin10.com/detail/20260228105500085800",
           "source": "金十数据",
@@ -222,18 +247,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时04分 ~ 12时38分]"
-        },
-        {
-          "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
-          "url": "https://wallstreetcn.com/articles/3766399",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 14时21分]"
         },
         {
           "title": "美国参议院民主党成员Warren：特朗普政府针对Anthropic的举动属于“滥用权力”。",
@@ -292,17 +305,6 @@
           "time_info": "11时04分"
         },
         {
-          "title": "美国政府「首次封杀」全球头部大模型企业，美联邦机构停用 Anthropic 产品，会对市场造成何种影响？",
-          "url": "https://www.zhihu.com/question/2011015637259028204",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
           "title": "Anthropic公司： 已善意尝试与美国‘战争部’达成协议。",
           "url": "https://flash.jin10.com/detail/20260228092137939800",
           "source": "金十数据",
@@ -338,8 +340,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时38分 ~ 14时21分]"
+          "appearance_count": 7,
+          "time_info": "[12时38分 ~ 15时02分]"
         },
         {
           "title": "外媒爆料：美军想用AI攻击中国电网",
@@ -350,8 +352,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时51分 ~ 14时21分]"
+          "appearance_count": 9,
+          "time_info": "[08时51分 ~ 15时02分]"
         },
         {
           "title": "美国政府大战AI明星公司 NASA调整载人登月计划 | 环球市场",
@@ -360,11 +362,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时04分 ~ 14时21分]"
+          "appearance_count": 8,
+          "time_info": "[11时04分 ~ 15时02分]"
         },
         {
           "title": "中国 AI 调用量首超美国，国产算力电力大涨，英伟达市值一夜蒸发 2600 亿美元，如何解读背后市场信号？",
@@ -377,8 +380,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时04分 ~ 14时21分]"
+          "appearance_count": 8,
+          "time_info": "[11时04分 ~ 15时02分]"
         },
         {
           "title": "中国AI调用量超越美国",
@@ -404,7 +407,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T21:52:20.503197+08:00",
-  "total_titles_processed": 1800,
+  "generated_at": "2026-02-28T22:11:53.632810+08:00",
+  "total_titles_processed": 1858,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[08时51分 ~ 21时52分]"
+          "appearance_count": 30,
+          "time_info": "[08时51分 ~ 22时11分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -46,11 +46,12 @@
             15,
             13,
             17,
-            28
+            28,
+            18
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[14时21分 ~ 21时52分]"
+          "appearance_count": 24,
+          "time_info": "[14时21分 ~ 22时11分]"
         },
         {
           "title": "AI界的“冰火两重天”：Anthropic刚被封杀 OpenAI就拿下了五角大楼",
@@ -177,6 +178,18 @@
           "time_info": "[12时38分 ~ 14时21分]"
         },
         {
+          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2011023228328510169",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时10分 ~ 22时11分]"
+        },
+        {
           "title": "消息人士称，英伟达正准备推出一款专用芯片，以撼动人工智能计算领域的竞争格局。OpenAI即将成为英伟达新款处理器的最大客户之一。",
           "url": "https://flash.jin10.com/detail/20260228110554688800",
           "source": "金十数据",
@@ -187,17 +200,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时38分 ~ 13时25分]"
-        },
-        {
-          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2011023228328510169",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时10分 ~ 21时52分]"
         },
         {
           "title": "一位消息人士透露，五角大楼已同意OpenAI制定的在保密环境下安全部署其技术的规则，但尚未签署任何合同。",
@@ -230,8 +232,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[14时21分 ~ 21时52分]"
+          "appearance_count": 24,
+          "time_info": "[14时21分 ~ 22时11分]"
         },
         {
           "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
@@ -242,8 +244,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时53分 ~ 21时52分]"
+          "appearance_count": 8,
+          "time_info": "[13时53分 ~ 22时11分]"
         },
         {
           "title": "Anthropic：尚未收到来自美国国防部和白宫的信息。 不会被恐吓而改变立场。 将在法庭上挑战“供应链风险”这一认定。",
@@ -528,8 +530,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时19分 ~ 21时52分]"
+          "appearance_count": 4,
+          "time_info": "[20时19分 ~ 22时11分]"
         },
         {
           "title": "deepseek崩了",

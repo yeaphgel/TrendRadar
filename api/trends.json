@@ -1,570 +1,73 @@
 {
-  "generated_at": "2026-02-28T22:44:58.028295+08:00",
-  "total_titles_processed": 1918,
+  "generated_at": "2026-03-01T09:05:05.641383+08:00",
+  "total_titles_processed": 323,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 16,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
-          "url": "https://wallstreetcn.com/articles/3766389",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[08时51分 ~ 22时11分]"
-        },
-        {
-          "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
-          "url": "https://www.cls.cn/detail/2297763",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时51分 ~ 16时15分]"
-        },
         {
           "title": "解读OpenAI获千亿美元投资背后",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
           "source": "bilibili 热搜",
           "ranks": [
-            8,
-            9,
-            16,
-            15,
-            13,
-            17,
-            28,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[14时21分 ~ 22时44分]"
-        },
-        {
-          "title": "AI界的“冰火两重天”：Anthropic刚被封杀 OpenAI就拿下了五角大楼",
-          "url": "https://www.cls.cn/detail/2298126",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时45分 ~ 21时10分]"
-        },
-        {
-          "title": "OpenAI获1100亿美元新投资",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%96%B0%E6%8A%95%E8%B5%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时04分"
-        },
-        {
-          "title": "和Anthropic闹翻“仅数小时” 美国国防部便和OpenAI签署合作协议",
-          "url": "https://flash.jin10.com/detail/20260228120317791800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            17,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时38分 ~ 14时21分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们将部署前线工程师来协助我们的模型，为了确保模型的安全，我们将只在云网络上进行部署。",
-          "url": "https://flash.jin10.com/detail/20260228110043453800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时04分 ~ 12时38分]"
-        },
-        {
-          "title": "AWS与OpenAI联合开发“有状态运行时环境”，预计数月内推出",
-          "url": "https://flash.jin10.com/detail/20260228132543765800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 14时21分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们强烈希望事态能够缓和，避免诉诸法律和政府行动，并达成合理的协议。",
-          "url": "https://flash.jin10.com/detail/20260228105851301800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时04分 ~ 12时38分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们要求美国国防部向所有人工智能公司提供这些相同条款，我们认为每个人都应该愿意接受。",
-          "url": "https://flash.jin10.com/detail/20260228105836118800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时04分 ~ 12时38分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们也会构建技术安全措施，以确保我们的模型按预期运行，美国国防部也希望如此。",
-          "url": "https://flash.jin10.com/detail/20260228105824885800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时04分 ~ 12时38分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
-          "url": "https://flash.jin10.com/detail/20260228105722729800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时04分 ~ 12时38分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
-          "url": "https://wallstreetcn.com/livenews/3060587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            12,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时38分 ~ 14时21分]"
-        },
-        {
-          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2011023228328510169",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时10分 ~ 22时44分]"
-        },
-        {
-          "title": "消息人士称，英伟达正准备推出一款专用芯片，以撼动人工智能计算领域的竞争格局。OpenAI即将成为英伟达新款处理器的最大客户之一。",
-          "url": "https://flash.jin10.com/detail/20260228110554688800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 13时25分]"
-        },
-        {
-          "title": "一位消息人士透露，五角大楼已同意OpenAI制定的在保密环境下安全部署其技术的规则，但尚未签署任何合同。",
-          "url": "https://flash.jin10.com/detail/20260228080935525800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Anthropic",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "美国政府「首次封杀」全球头部大模型企业，美联邦机构停用 Anthropic 产品，会对市场造成何种影响？",
-          "url": "https://www.zhihu.com/question/2011015637259028204",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15,
-            14,
-            8,
-            6,
-            20,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[14时21分 ~ 22时44分]"
-        },
-        {
-          "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
-          "url": "https://wallstreetcn.com/articles/3766399",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时53分 ~ 22时44分]"
-        },
-        {
-          "title": "Anthropic：尚未收到来自美国国防部和白宫的信息。 不会被恐吓而改变立场。 将在法庭上挑战“供应链风险”这一认定。",
-          "url": "https://wallstreetcn.com/livenews/3060575",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18,
-            22,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时04分 ~ 14时21分]"
-        },
-        {
-          "title": "Anthropic公司将把美国国防部告上法庭",
-          "url": "https://flash.jin10.com/detail/20260228105500085800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时04分 ~ 12时38分]"
-        },
-        {
-          "title": "特朗普政府正在考虑对Anthropic公司采取更强有力的措施。",
-          "url": "https://flash.jin10.com/detail/20260228105235978800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时04分 ~ 12时38分]"
-        },
-        {
-          "title": "美国参议院民主党成员Warren：特朗普政府针对Anthropic的举动属于“滥用权力”。",
-          "url": "https://wallstreetcn.com/livenews/3060556",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时51分 ~ 11时04分]"
-        },
-        {
-          "title": "Anthropic公司：将在法庭上挑战任何‘供应链风险认定’。",
-          "url": "https://flash.jin10.com/detail/20260228092236899800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时04分"
-        },
-        {
-          "title": "Anthropic公司：认为该认定在法律上站不住脚，同时会为任何与政府进行谈判的美国公司树立危险的先例。",
-          "url": "https://flash.jin10.com/detail/20260228092223906800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时04分"
-        },
-        {
-          "title": "Anthropic公司：尚未收到‘战争部’或白宫关于我们谈判状况的直接消息。",
-          "url": "https://flash.jin10.com/detail/20260228092214409800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时04分"
-        },
-        {
-          "title": "Anthropic公司：据我们所知，这些例外情况迄今为止从未影响过任何一项政府任务。",
-          "url": "https://flash.jin10.com/detail/20260228092149841800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时04分"
-        },
-        {
-          "title": "Anthropic公司： 已善意尝试与美国‘战争部’达成协议。",
-          "url": "https://flash.jin10.com/detail/20260228092137939800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时04分"
-        },
-        {
-          "title": "美国国防部长：自即日起，任何与美国军方有业务往来的承包商、供应商或合作伙伴不得与Anthropic开展任何商业活动。",
-          "url": "https://flash.jin10.com/detail/20260228062022598800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "中国AI跑出马年加速度",
-          "url": "https://www.douyin.com/hot/2414159",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时38分 ~ 16时15分]"
-        },
-        {
-          "title": "外媒爆料：美军想用AI攻击中国电网",
-          "url": "https://news.ifeng.com/c/8r5ygo8zdfZ",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            5,
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时51分 ~ 15时45分]"
-        },
-        {
-          "title": "中国 AI 调用量首超美国，国产算力电力大涨，英伟达市值一夜蒸发 2600 亿美元，如何解读背后市场信号？",
-          "url": "https://www.zhihu.com/question/2010773992567481420",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            10,
-            9,
-            8,
-            7,
-            6,
-            5,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[11时04分 ~ 19时39分]"
-        },
-        {
-          "title": "美国政府大战AI明星公司 NASA调整载人登月计划 | 环球市场",
-          "url": "https://www.cls.cn/detail/2297921",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[11时04分 ~ 19时39分]"
-        },
-        {
-          "title": "证监会外资座谈释放信号 财联社实探外资圈：对中国资产告别观望，主动增配！AI投资暗藏新逻辑",
-          "url": "https://www.cls.cn/detail/2298037",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[15时44分 ~ 20时19分]"
-        },
-        {
-          "title": "默茨在中国体验AI眼镜时玩上瘾",
-          "url": "https://www.toutiao.com/trending/7611202863113011219/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时14分 ~ 16时15分]"
-        },
-        {
-          "title": "中国AI调用量超越美国",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E8%B0%83%E7%94%A8%E9%87%8F%E8%B6%85%E8%B6%8A%E7%BE%8E%E5%9B%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
+          "time_info": "[09时04分 ~ 09时05分]"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "杭州：2026年打造“人工智能+”标杆场景10个以上",
-          "url": "https://wallstreetcn.com/livenews/3060609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "摩根大通：高达1500亿美元CLO贷款面临来自人工智能（AI）的风险。",
-          "url": "https://wallstreetcn.com/livenews/3060551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时51分 ~ 11时04分]"
-        },
-        {
-          "title": "美国总统特朗普：不知为何，我更喜欢通过石油而不是人工智能工厂来赚钱。",
-          "url": "https://flash.jin10.com/detail/20260228060327470800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "微软考虑为Microsoft 365推出人工智能（AI）软件组合。 该公司可能会宣布大改软件组合。 微软可能会对用户收取高达99美元的月费。（Business Insider）",
-          "url": "https://wallstreetcn.com/livenews/3060540",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何评价 DeepSeek 发布新论文，提出一个名为「DualPath」的创新推理系统？有哪些亮点？",
-          "url": "https://www.zhihu.com/question/2010670686461452529",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时19分 ~ 22时44分]"
-        },
-        {
-          "title": "deepseek崩了",
-          "url": "https://s.weibo.com/weibo?q=deepseek%E5%B4%A9%E4%BA%86&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时25分 ~ 15时45分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "三星之后是苹果！谷歌Gemini智能体API优先 AI手机入口之争将破局？",
-          "url": "https://www.cls.cn/detail/2297724",
-          "source": "财联社热门",
+          "title": "美国国防部官员Emil Michael：无论是否应用人工智能（AI）技术，五角大楼在美国本土的监控行动都将是合法的。",
+          "url": "https://wallstreetcn.com/livenews/3061005",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            12,
-            11
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Anthropic大模型Claude在苹果公司Apple Store免费APP排名上升至第二，该公司此前因美国国防部AI权限争端而被特朗普政府拉黑。",
+          "url": "https://wallstreetcn.com/livenews/3061018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Anthropic",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国五角大楼“拉黑”AI巨头Anthropic，双方争议焦点：核战争",
+          "url": "https://wallstreetcn.com/articles/3766420",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时51分 ~ 14时21分]"
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 09时05分]"
         }
       ]
     }

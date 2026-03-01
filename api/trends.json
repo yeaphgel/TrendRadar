@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-01T22:14:38.376709+08:00",
-  "total_titles_processed": 1356,
+  "generated_at": "2026-03-01T22:46:53.414488+08:00",
+  "total_titles_processed": 1408,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
       "match_count": 5,
       "titles": [
+        {
+          "title": "【荣耀CEO李健：人工智能须兼备智能度与生命感】3月1日，在2026世界移动通信大会上，荣耀CEO李健提出Augmented Human Intelligence（简称AHI）理念，以实现AI从智能度到生命感的双重跃升，让AI既有IQ，又有EQ，并创造性地将AHI理念融入其阿尔法战略落地进程中。（澎湃）",
+          "url": "https://wallstreetcn.com/livenews/3061192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时53分 ~ 22时46分]"
+        },
         {
           "title": "市场消息：英伟达(NVDA.O)与全球电信业领袖承诺基于开放且安全的原生人工智能平台打造6G。",
           "url": "https://flash.jin10.com/detail/20260301150043079800",
@@ -18,17 +30,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时51分 ~ 16时17分]"
-        },
-        {
-          "title": "【荣耀CEO李健：人工智能须兼备智能度与生命感】3月1日，在2026世界移动通信大会上，荣耀CEO李健提出Augmented Human Intelligence（简称AHI）理念，以实现AI从智能度到生命感的双重跃升，让AI既有IQ，又有EQ，并创造性地将AHI理念融入其阿尔法战略落地进程中。（澎湃）",
-          "url": "https://wallstreetcn.com/livenews/3061192",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时53分 ~ 22时14分]"
         },
         {
           "title": "三星电子计划到2030年在全球范围内实现人工智能自主工厂。",
@@ -84,8 +85,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[09时04分 ~ 22时14分]"
+          "appearance_count": 24,
+          "time_info": "[09时04分 ~ 22时46分]"
         },
         {
           "title": "马斯克：我一点也不信任OpenAI。",

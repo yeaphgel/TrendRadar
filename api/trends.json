@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T18:10:17.477705+08:00",
-  "total_titles_processed": 1199,
+  "generated_at": "2026-03-02T19:07:09.113594+08:00",
+  "total_titles_processed": 1285,
   "failed_sources": [],
   "trends": [
     {
@@ -67,11 +67,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时05分 ~ 18时10分]"
+          "appearance_count": 4,
+          "time_info": "[17时05分 ~ 19时07分]"
         }
       ]
     },
@@ -88,8 +89,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时05分 ~ 18时10分]"
+          "appearance_count": 4,
+          "time_info": "[17时05分 ~ 19时07分]"
         }
       ]
     }

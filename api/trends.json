@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T21:40:05.292474+08:00",
-  "total_titles_processed": 1587,
+  "generated_at": "2026-03-02T22:34:48.674332+08:00",
+  "total_titles_processed": 1689,
   "failed_sources": [],
   "trends": [
     {
@@ -46,6 +46,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时28分 ~ 13时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "苹果公司讨论由谷歌托管新版Siri，进一步加深对云计算的依赖。",
+          "url": "https://flash.jin10.com/detail/20260302220223583800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         }
       ]
     },
@@ -116,8 +133,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时05分 ~ 21时40分]"
+          "appearance_count": 10,
+          "time_info": "[17时05分 ~ 22时34分]"
         }
       ]
     },
@@ -135,8 +152,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时05分 ~ 21时40分]"
+          "appearance_count": 10,
+          "time_info": "[17时05分 ~ 22时34分]"
         }
       ]
     }

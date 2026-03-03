@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T20:29:46.630049+08:00",
-  "total_titles_processed": 1458,
+  "generated_at": "2026-03-03T21:37:57.388820+08:00",
+  "total_titles_processed": 1565,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时34分 ~ 20时29分]"
+          "appearance_count": 8,
+          "time_info": "[16时34分 ~ 21时37分]"
         },
         {
           "title": "标普下调软银展望至负面 OpenAI 押注加剧流动性风险",
@@ -105,11 +105,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时51分 ~ 20时29分]"
+          "appearance_count": 3,
+          "time_info": "[19时51分 ~ 21时37分]"
         },
         {
           "title": "据伊朗媒体Daily Iran News：美国正在将增援部队调往指定位置。共有十五架KC-135R/T空中加油机正前往中央司令部，其中四架飞越欧洲，十一架飞越北美。三架已达到空中加油高度，表明准备进行长期作战活动。",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T18:06:23.152717+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2026-03-03T19:04:19.555461+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
         },
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时34分 ~ 18时06分]"
+          "appearance_count": 5,
+          "time_info": "[16时34分 ~ 19时04分]"
         },
         {
           "title": "标普全球：由于OpenAI在其投资组合中占比更大，软银集团投资组合的流动性将恶化。",

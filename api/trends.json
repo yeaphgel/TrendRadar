@@ -1,23 +1,35 @@
 {
-  "generated_at": "2026-03-03T17:31:13.146032+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2026-03-03T18:06:23.152717+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "标普下调软银展望至负面 OpenAI 押注加剧流动性风险",
+          "url": "https://flash.jin10.com/detail/20260303175117671800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
         {
           "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
           "url": "https://www.cls.cn/detail/2300871",
           "source": "财联社热门",
           "ranks": [
             12,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时34分 ~ 17时31分]"
+          "appearance_count": 4,
+          "time_info": "[16时34分 ~ 18时06分]"
         },
         {
           "title": "标普全球：由于OpenAI在其投资组合中占比更大，软银集团投资组合的流动性将恶化。",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T15:14:07.646203+08:00",
-  "total_titles_processed": 821,
+  "generated_at": "2026-03-03T15:59:25.621622+08:00",
+  "total_titles_processed": 913,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         }
@@ -33,8 +33,19 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "欧洲央行首席经济学家连恩：欧洲的公司能够在开发针对特定行业的AI应用方面发挥重要作用，使中型企业能够从人工智能中受益。",
+          "url": "https://flash.jin10.com/detail/20260303155301764800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-03-03）",
           "url": "https://flash.jin10.com/detail/20260303120218258800",

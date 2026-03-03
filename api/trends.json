@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-03-03T13:09:41.534877+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2026-03-03T14:07:24.865604+08:00",
+  "total_titles_processed": 702,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "标普全球：由于OpenAI在其投资组合中占比更大，软银集团投资组合的流动性将恶化。",
+          "url": "https://flash.jin10.com/detail/20260303135539749800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时07分"
+        }
+      ]
+    },
     {
       "keyword_group": "人工智能",
       "match_count": 1,
@@ -14,7 +31,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         }
@@ -29,11 +46,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32684906",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 14时07分]"
         }
       ]
     },

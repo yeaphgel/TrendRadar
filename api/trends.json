@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T20:32:07.405000+08:00",
-  "total_titles_processed": 1410,
+  "generated_at": "2026-03-05T21:42:28.378867+08:00",
+  "total_titles_processed": 1530,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             20,
             16,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时05分 ~ 20时32分]"
+          "appearance_count": 5,
+          "time_info": "[19时05分 ~ 21时42分]"
         },
         {
           "title": "鸿海：第一季度业绩表现符合市场预期。 人工智能设备出货量持续增长。 智能消费电子产品业务超出预期表现良好。",
@@ -182,8 +183,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时05分 ~ 20时32分]"
+          "appearance_count": 6,
+          "time_info": "[18时05分 ~ 21时42分]"
         },
         {
           "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",

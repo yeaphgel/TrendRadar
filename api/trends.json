@@ -1,201 +1,84 @@
 {
-  "generated_at": "2026-03-04T23:05:13.387724+08:00",
-  "total_titles_processed": 1744,
+  "generated_at": "2026-03-05T08:59:18.195421+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "人工智能",
-      "match_count": 5,
+      "keyword_group": "Claude",
+      "match_count": 2,
       "titles": [
         {
-          "title": "美国财长贝森特：（谈人工智能、Anthropic表示）供应商无权插入使用条款。",
-          "url": "https://flash.jin10.com/detail/20260304201936336800",
-          "source": "金十数据",
+          "title": "美军被曝使用Claude AI空袭伊朗，负责情报评估与目标识别，专家发出严厉警告",
+          "url": "https://wallstreetcn.com/articles/3766696",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时28分"
+          "time_info": "08时59分"
         },
         {
-          "title": "曾毓群：未来将利用更多人工智能加大研发投入",
-          "url": "https://wallstreetcn.com/livenews/3063575",
-          "source": "华尔街见闻-快讯",
+          "title": "AWS 阿联酋数据中心遭物体撞击后起火，同时 Claude 全球宕机，两者有关系吗？如何看待这一风波？",
+          "url": "https://www.zhihu.com/question/2011731606025499798",
+          "source": "知乎",
           "ranks": [
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时31分]"
-        },
-        {
-          "title": "美国克利夫兰联储主席Hammack：我认为我们可能要暂停一段时间了。 从政策角度来看美联储处于良好位置。 美联储的政策设定处于”中性”水平。 现在就判断人工智能对经济的影响为时过早。 通胀预期未实质性上升。 将通胀率拉回目标水平很重要。 缩减资产负债表需有条不紊。",
-          "url": "https://wallstreetcn.com/livenews/3063569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时31分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-03-04）",
-          "url": "https://flash.jin10.com/detail/20260304120408639800",
-          "source": "金十数据",
-          "ranks": [
-            13
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
-          "title": "美联储理事米兰：美联储应以更为宽松的货币政策来适应人工智能带来的就业转型。",
-          "url": "https://flash.jin10.com/detail/20260304214444686800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时31分"
+          "time_info": "08时59分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
       "titles": [
         {
-          "title": "特朗普要求亚马逊、谷歌等签署能源承诺 防止数据中心“吸血”居民账单",
-          "url": "https://flash.jin10.com/detail/20260304201805383800",
+          "title": "国内目前使用的 AI 智能问答软件，豆包、通义千问、元宝、 kimi 、 deepseek，哪个好用？",
+          "url": "https://www.zhihu.com/question/1922608207504867947",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据英国金融时报：继人工智能合作之后，OpenAI寻求美国国防部提供更多监控方面的保障。",
+          "url": "https://flash.jin10.com/detail/20260305084158764800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时28分"
-        },
-        {
-          "title": "谷歌Gemini被新诉讼指控诱导用户自杀",
-          "url": "https://wallstreetcn.com/livenews/3063696",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时31分 ~ 23时05分]"
-        },
-        {
-          "title": "阿里千问地震或因Gemini成员空降",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E5%8D%83%E9%97%AE%E5%9C%B0%E9%9C%87%E6%88%96%E5%9B%A0Gemini%E6%88%90%E5%91%98%E7%A9%BA%E9%99%8D%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "AWS 阿联酋数据中心遭物体撞击后起火，同时 Claude 全球宕机，两者有关系吗？如何看待这一风波？",
-          "url": "https://www.zhihu.com/question/2011731606025499798",
-          "source": "知乎",
-          "ranks": [
-            13,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[19时52分 ~ 23时05分]"
-        },
-        {
-          "title": "Claude崩了，全球AI因何“熔断”？",
-          "url": "https://wallstreetcn.com/articles/3766631",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 08时57分]"
+          "time_info": "08时59分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
           "url": "https://www.cls.cn/detail/2302628",
           "source": "财联社热门",
           "ranks": [
-            13,
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[21时35分 ~ 23时05分]"
-        },
-        {
-          "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
-          "url": "https://www.cls.cn/detail/2301441",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 08时57分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Anthropic",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国财长贝森特：非常看好今年的就业市场。 Anthropic将在数日内从财政系统中移除。",
-          "url": "https://wallstreetcn.com/livenews/3063640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "增长",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "松下机电宣布投资75亿日元，在中国新建Megtron电路板材料生产线，以应对日益增长的AI服务器需求。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3063418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时32分"
+          "time_info": "08时59分"
         }
       ]
     }

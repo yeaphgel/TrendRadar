@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T17:01:58.913168+08:00",
-  "total_titles_processed": 1049,
+  "generated_at": "2026-03-06T17:37:31.454385+08:00",
+  "total_titles_processed": 1134,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时38分 ~ 17时01分]"
+          "appearance_count": 9,
+          "time_info": "[11时38分 ~ 17时37分]"
         },
         {
           "title": "软银寻求创纪录的400亿美元贷款投资OpenAI",
@@ -174,7 +174,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "政府工作报告提出深化拓展“人工智能＋” 代表、委员为AI高质量发展建言献策|两会财经眼",
@@ -214,6 +214,17 @@
           "time_info": "13时05分"
         },
         {
+          "title": "国家发展改革委主任：将推进人工智能超大规模智算集群、卫星互联网、可控核聚变等一系列重大工程和项目",
+          "url": "https://wallstreetcn.com/livenews/3065113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-03-06）",
           "url": "https://flash.jin10.com/detail/20260306115316980800",
           "source": "金十数据",
@@ -240,8 +251,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时38分 ~ 17时01分]"
+          "appearance_count": 8,
+          "time_info": "[11时38分 ~ 17时37分]"
         },
         {
           "title": "印度移动广告公司InMobi将在日本和美国推广AI购物聊天机器人。",
@@ -281,8 +292,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时11分 ~ 17时01分]"
+          "appearance_count": 6,
+          "time_info": "[15时11分 ~ 17时37分]"
         },
         {
           "title": "2026胡润全球富豪榜：马斯克5.5万亿元登顶，张一鸣5500亿元蝉联中国首富",
@@ -290,11 +301,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时11分 ~ 17时01分]"
+          "appearance_count": 6,
+          "time_info": "[15时11分 ~ 17时37分]"
         }
       ]
     }

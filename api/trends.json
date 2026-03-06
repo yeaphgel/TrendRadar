@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T16:23:29.700653+08:00",
-  "total_titles_processed": 950,
+  "generated_at": "2026-03-06T17:01:58.913168+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时38分 ~ 16时23分]"
+          "appearance_count": 8,
+          "time_info": "[11时38分 ~ 17时01分]"
         },
         {
           "title": "软银寻求创纪录的400亿美元贷款投资OpenAI",
@@ -236,11 +236,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时38分 ~ 16时23分]"
+          "appearance_count": 7,
+          "time_info": "[11时38分 ~ 17时01分]"
         },
         {
           "title": "印度移动广告公司InMobi将在日本和美国推广AI购物聊天机器人。",
@@ -261,8 +262,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时55分 ~ 16时23分]"
+          "appearance_count": 4,
+          "time_info": "[15时55分 ~ 17时01分]"
         }
       ]
     },
@@ -276,11 +277,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时11分 ~ 16时23分]"
+          "appearance_count": 5,
+          "time_info": "[15时11分 ~ 17时01分]"
         },
         {
           "title": "2026胡润全球富豪榜：马斯克5.5万亿元登顶，张一鸣5500亿元蝉联中国首富",
@@ -291,8 +293,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时11分 ~ 16时23分]"
+          "appearance_count": 5,
+          "time_info": "[15时11分 ~ 17时01分]"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T19:49:12.092049+08:00",
-  "total_titles_processed": 1393,
+  "generated_at": "2026-03-06T20:26:44.757946+08:00",
+  "total_titles_processed": 1467,
   "failed_sources": [],
   "trends": [
     {
@@ -112,8 +112,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时38分 ~ 19时49分]"
+          "appearance_count": 17,
+          "time_info": "[11时38分 ~ 20时26分]"
         },
         {
           "title": "软银寻求创纪录的400亿美元贷款投资OpenAI",
@@ -268,6 +268,17 @@
           "time_info": "[15时55分 ~ 19时27分]"
         },
         {
+          "title": "“AI颠覆”下的失业潮究竟如何？今晚美国非农揭开真相！",
+          "url": "https://www.cls.cn/detail/2304910",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时22分 ~ 20时26分]"
+        },
+        {
           "title": "3月6日投资避雷针：美国拟将AI芯片出口管制扩展至全球",
           "url": "https://www.cls.cn/detail/2304544",
           "source": "财联社热门",
@@ -279,17 +290,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时38分 ~ 17时37分]"
-        },
-        {
-          "title": "“AI颠覆”下的失业潮究竟如何？今晚美国非农揭开真相！",
-          "url": "https://www.cls.cn/detail/2304910",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时22分 ~ 19时49分]"
         },
         {
           "title": "印度移动广告公司InMobi将在日本和美国推广AI购物聊天机器人。",
@@ -319,8 +319,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时11分 ~ 19时49分]"
+          "appearance_count": 14,
+          "time_info": "[15时11分 ~ 20时26分]"
         },
         {
           "title": "2026胡润全球富豪榜：马斯克5.5万亿元登顶，张一鸣5500亿元蝉联中国首富",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T14:03:35.932197+08:00",
-  "total_titles_processed": 701,
+  "generated_at": "2026-03-06T15:11:31.929310+08:00",
+  "total_titles_processed": 815,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时38分 ~ 14时03分]"
+          "appearance_count": 4,
+          "time_info": "[11时38分 ~ 15时11分]"
         },
         {
           "title": "详解OpenAI新模型GPT-5.4",
@@ -227,6 +227,34 @@
       ]
     },
     {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克千金走秀,台风超辣眼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351464&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8D%83%E9%87%91%E8%B5%B0%E7%A7%80%2C%E5%8F%B0%E9%A3%8E%E8%B6%85%E8%BE%A3%E7%9C%BC",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
+          "title": "2026胡润全球富豪榜：马斯克5.5万亿元登顶，张一鸣5500亿元蝉联中国首富",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32705838",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI",
       "match_count": 2,
       "titles": [
@@ -249,8 +277,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 13时05分]"
+          "appearance_count": 3,
+          "time_info": "[11时38分 ~ 15时11分]"
         }
       ]
     }

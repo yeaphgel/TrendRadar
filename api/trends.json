@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T15:56:09.229744+08:00",
-  "total_titles_processed": 904,
+  "generated_at": "2026-03-06T16:23:29.700653+08:00",
+  "total_titles_processed": 950,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时38分 ~ 15时56分]"
+          "appearance_count": 7,
+          "time_info": "[11时38分 ~ 16时23分]"
         },
         {
           "title": "软银寻求创纪录的400亿美元贷款投资OpenAI",
@@ -231,6 +231,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "3月6日投资避雷针：美国拟将AI芯片出口管制扩展至全球",
+          "url": "https://www.cls.cn/detail/2304544",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时38分 ~ 16时23分]"
+        },
+        {
           "title": "印度移动广告公司InMobi将在日本和美国推广AI购物聊天机器人。",
           "url": "https://flash.jin10.com/detail/20260306124014996800",
           "source": "金十数据",
@@ -242,18 +254,6 @@
           "time_info": "13时05分"
         },
         {
-          "title": "3月6日投资避雷针：美国拟将AI芯片出口管制扩展至全球",
-          "url": "https://www.cls.cn/detail/2304544",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时38分 ~ 15时56分]"
-        },
-        {
           "title": "美国或将AI芯片出口管制扩展至全球 大买家将被要求投资美国",
           "url": "https://www.cls.cn/detail/2304614",
           "source": "财联社热门",
@@ -261,8 +261,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时55分 ~ 15时56分]"
+          "appearance_count": 3,
+          "time_info": "[15时55分 ~ 16时23分]"
         }
       ]
     },
@@ -279,8 +279,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时11分 ~ 15时56分]"
+          "appearance_count": 4,
+          "time_info": "[15时11分 ~ 16时23分]"
         },
         {
           "title": "2026胡润全球富豪榜：马斯克5.5万亿元登顶，张一鸣5500亿元蝉联中国首富",
@@ -291,8 +291,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时11分 ~ 15时56分]"
+          "appearance_count": 4,
+          "time_info": "[15时11分 ~ 16时23分]"
         }
       ]
     }

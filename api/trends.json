@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T20:26:44.757946+08:00",
-  "total_titles_processed": 1467,
+  "generated_at": "2026-03-06T21:33:10.449570+08:00",
+  "total_titles_processed": 1566,
   "failed_sources": [],
   "trends": [
     {
@@ -112,8 +112,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时38分 ~ 20时26分]"
+          "appearance_count": 19,
+          "time_info": "[11时38分 ~ 21时33分]"
         },
         {
           "title": "软银寻求创纪录的400亿美元贷款投资OpenAI",
@@ -255,6 +255,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "“AI颠覆”下的失业潮究竟如何？今晚美国非农揭开真相！",
+          "url": "https://www.cls.cn/detail/2304910",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时22分 ~ 21时33分]"
+        },
+        {
           "title": "美国或将AI芯片出口管制扩展至全球 大买家将被要求投资美国",
           "url": "https://www.cls.cn/detail/2304614",
           "source": "财联社热门",
@@ -266,17 +278,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[15时55分 ~ 19时27分]"
-        },
-        {
-          "title": "“AI颠覆”下的失业潮究竟如何？今晚美国非农揭开真相！",
-          "url": "https://www.cls.cn/detail/2304910",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时22分 ~ 20时26分]"
         },
         {
           "title": "3月6日投资避雷针：美国拟将AI芯片出口管制扩展至全球",

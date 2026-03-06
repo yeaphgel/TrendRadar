@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-06T15:11:31.929310+08:00",
-  "total_titles_processed": 815,
+  "generated_at": "2026-03-06T15:56:09.229744+08:00",
+  "total_titles_processed": 904,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 7,
       "titles": [
+        {
+          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
+          "url": "https://wallstreetcn.com/articles/3766836",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时38分 ~ 15时56分]"
+        },
         {
           "title": "软银寻求创纪录的400亿美元贷款投资OpenAI",
           "url": "https://flash.jin10.com/detail/20260306122409333800",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
-        },
-        {
-          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
-          "url": "https://wallstreetcn.com/articles/3766836",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时38分 ~ 15时11分]"
         },
         {
           "title": "详解OpenAI新模型GPT-5.4",
@@ -227,36 +227,8 @@
       ]
     },
     {
-      "keyword_group": "马斯克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "马斯克千金走秀,台风超辣眼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351464&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8D%83%E9%87%91%E8%B5%B0%E7%A7%80%2C%E5%8F%B0%E9%A3%8E%E8%B6%85%E8%BE%A3%E7%9C%BC",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时11分"
-        },
-        {
-          "title": "2026胡润全球富豪榜：马斯克5.5万亿元登顶，张一鸣5500亿元蝉联中国首富",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32705838",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "印度移动广告公司InMobi将在日本和美国推广AI购物聊天机器人。",
@@ -274,11 +246,53 @@
           "url": "https://www.cls.cn/detail/2304544",
           "source": "财联社热门",
           "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时38分 ~ 15时56分]"
+        },
+        {
+          "title": "美国或将AI芯片出口管制扩展至全球 大买家将被要求投资美国",
+          "url": "https://www.cls.cn/detail/2304614",
+          "source": "财联社热门",
+          "ranks": [
             13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时55分 ~ 15时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克千金走秀,台风超辣眼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351464&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8D%83%E9%87%91%E8%B5%B0%E7%A7%80%2C%E5%8F%B0%E9%A3%8E%E8%B6%85%E8%BE%A3%E7%9C%BC",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时38分 ~ 15时11分]"
+          "time_info": "[15时11分 ~ 15时56分]"
+        },
+        {
+          "title": "2026胡润全球富豪榜：马斯克5.5万亿元登顶，张一鸣5500亿元蝉联中国首富",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32705838",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时11分 ~ 15时56分]"
         }
       ]
     }

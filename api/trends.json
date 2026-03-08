@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-03-08T16:52:19.246768+08:00",
-  "total_titles_processed": 769,
+  "generated_at": "2026-03-08T17:17:59.075807+08:00",
+  "total_titles_processed": 802,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek建议普通用户养虾前先观望",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%BB%BA%E8%AE%AE%E6%99%AE%E9%80%9A%E7%94%A8%E6%88%B7%E5%85%BB%E8%99%BE%E5%89%8D%E5%85%88%E8%A7%82%E6%9C%9B%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
@@ -52,8 +69,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时28分 ~ 16时52分]"
+          "appearance_count": 11,
+          "time_info": "[11时28分 ~ 17时17分]"
         }
       ]
     },
@@ -74,8 +91,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时59分 ~ 16时52分]"
+          "appearance_count": 12,
+          "time_info": "[08时59分 ~ 17时17分]"
         }
       ]
     }

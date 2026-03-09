@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T20:31:59.991391+08:00",
-  "total_titles_processed": 1377,
+  "generated_at": "2026-03-09T21:45:42.749735+08:00",
+  "total_titles_processed": 1483,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,23 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "微软(MSFT.O)：今日推出Claude及新一代OpenAI模型，模型多样性进一步扩展。",
+          "url": "https://flash.jin10.com/detail/20260309210301892800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克",
       "match_count": 1,
       "titles": [
@@ -45,6 +62,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时07分 ~ 17时08分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "微软发布基于Claude Cowork打造的Copilot Cowork 拓展企业智能体业务",
+          "url": "https://flash.jin10.com/detail/20260309210642478800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Anthropic",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "微软(MSFT.O)：宣布Microsoft 365 Copilot第三波更新，其中包括与Anthropic合作打造的Copilot Co‑work功能",
+          "url": "https://flash.jin10.com/detail/20260309210121085800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         }
       ]
     },

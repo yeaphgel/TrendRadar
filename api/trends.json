@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T13:39:23.302126+08:00",
-  "total_titles_processed": 645,
+  "generated_at": "2026-03-10T14:33:44.422075+08:00",
+  "total_titles_processed": 724,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/livenews/3067033",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 14时33分]"
         },
         {
           "title": "据英国《金融时报》：亚马逊在人工智能相关宕机事件后召开工程会议。",

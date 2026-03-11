@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T08:55:14.586126+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-11T11:17:23.224702+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "原工信部部长苗圩：完善新就业形态下的社会保障网，落实和优化休假制度，让人工智能发展红利为全社会所共享",
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -25,9 +25,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "东方汇理投资首席投资官：建议以人工智能和政策为导向，在亚洲进行投资。人工智能正在给某些行业施加压力，但不太可能将其彻底淘汰。",
+          "url": "https://flash.jin10.com/detail/20260311110821431800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "苏州人工智能协会发布OpenClaw理性应用倡议书：呼吁不制造焦虑、不鼓吹神话",
+          "url": "https://wallstreetcn.com/livenews/3067709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         },
         {
           "title": "五角大楼备忘录命令在180天内移除Anthropic人工智能工具，该备忘录日期为3月6日。（CBS）",
@@ -36,7 +58,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -47,7 +69,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         }

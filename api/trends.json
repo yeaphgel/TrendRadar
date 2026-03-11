@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T16:26:38.175646+08:00",
-  "total_titles_processed": 946,
+  "generated_at": "2026-03-11T17:05:21.085662+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
     {
@@ -114,6 +114,18 @@
           "time_info": "[12时57分 ~ 13时41分]"
         },
         {
+          "title": "福布斯年度富豪榜：马斯克8390亿美元蝉联全球首富，张一鸣中国首富",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32746579",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 17时05分]"
+        },
+        {
           "title": "马斯克批评“养虾热潮”",
           "url": "https://www.toutiao.com/trending/7615377810491998214/",
           "source": "今日头条",
@@ -123,17 +135,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时41分 ~ 14时36分]"
-        },
-        {
-          "title": "福布斯年度富豪榜：马斯克8390亿美元蝉联全球首富，张一鸣中国首富",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32746579",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
         },
         {
           "title": "马斯克身价达8390亿美元",

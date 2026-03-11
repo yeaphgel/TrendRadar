@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T17:05:21.085662+08:00",
-  "total_titles_processed": 1029,
+  "generated_at": "2026-03-11T18:05:35.302435+08:00",
+  "total_titles_processed": 1116,
   "failed_sources": [],
   "trends": [
     {
@@ -103,6 +103,19 @@
       "titles": [
         {
           "title": "福布斯年度富豪榜：马斯克8390亿美元蝉联全球首富，张一鸣中国首富",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32746579",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 18时05分]"
+        },
+        {
+          "title": "福布斯年度富豪榜：马斯克8390亿美元蝉联全球首富，张一鸣中国首富",
           "url": "https://wallstreetcn.com/livenews/3067779",
           "source": "华尔街见闻-快讯",
           "ranks": [
@@ -112,18 +125,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时57分 ~ 13时41分]"
-        },
-        {
-          "title": "福布斯年度富豪榜：马斯克8390亿美元蝉联全球首富，张一鸣中国首富",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32746579",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 17时05分]"
         },
         {
           "title": "马斯克批评“养虾热潮”",
@@ -185,6 +186,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Anthropic",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据AXIOS网站：Anthropic将把其公共政策团队规模扩大三倍。",
+          "url": "https://flash.jin10.com/detail/20260311175245808800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         }
       ]
     }

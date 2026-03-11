@@ -1,241 +1,55 @@
 {
-  "generated_at": "2026-03-10T22:38:31.627148+08:00",
-  "total_titles_processed": 1597,
+  "generated_at": "2026-03-11T08:55:14.586126+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 12,
+      "match_count": 4,
       "titles": [
         {
-          "title": "Meta公司监督委员会：已推翻Meta公司2025年6月关于在未加“高风险人工智能”标签的情况下保留部分有关以色列-伊朗战争的人工智能内容的决定。",
-          "url": "https://flash.jin10.com/detail/20260310175028157800",
-          "source": "金十数据",
+          "title": "原工信部部长苗圩：完善新就业形态下的社会保障网，落实和优化休假制度，让人工智能发展红利为全社会所共享",
+          "url": "https://wallstreetcn.com/livenews/3067648",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时04分"
+          "time_info": "08时55分"
         },
         {
-          "title": "沙特阿美：正在利用人工智能提升各项运营效率。我们相信，持续投资于我们的业务，将使我们在未来处于有利地位。",
-          "url": "https://flash.jin10.com/detail/20260310131741446800",
-          "source": "金十数据",
+          "title": "原工信部部长苗圩：让制造业成为人工智能科技创新和产业创新深度融合的主战场",
+          "url": "https://wallstreetcn.com/livenews/3067646",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时39分"
+          "time_info": "08时55分"
         },
         {
-          "title": "Meta公司的监督委员会：Meta公司需要制定一套新的、独立的规则，以确保用户能够可靠地识别人工智能生成的内容。",
-          "url": "https://flash.jin10.com/detail/20260310174949696800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时04分"
-        },
-        {
-          "title": "沙特阿美：我们持续运用包括人工智能在内的先进技术，提升全业务运营效率并挖掘价值。 我们相信对业务的持续投资将为公司未来发展奠定坚实基础。 天然气扩建项目按计划推进，以满足国内日益增长的需求。 项目推进势头强劲，彰显未来运营现金流增长潜力。",
-          "url": "https://wallstreetcn.com/livenews/3067033",
+          "title": "五角大楼备忘录命令在180天内移除Anthropic人工智能工具，该备忘录日期为3月6日。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3067615",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            25
+            28
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时39分 ~ 14时33分]"
-        },
-        {
-          "title": "据英国《金融时报》：亚马逊在人工智能相关宕机事件后召开工程会议。",
-          "url": "https://flash.jin10.com/detail/20260310123947391800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 13时39分]"
-        },
-        {
-          "title": "广东：重点布局GPU、FPGA、NPU等高端通用人工智能芯片及ASIC专用人工智能芯片的研发、设计和制造",
-          "url": "https://wallstreetcn.com/livenews/3067205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时04分"
+          "time_info": "08时55分"
         },
         {
-          "title": "Meta公司监督委员会正在分析人工智能生成内容在以伊战争中的传播情况，并呼吁Meta公司采取更多措施，以便用户能够识别此类内容。",
-          "url": "https://flash.jin10.com/detail/20260310174911860800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时04分"
-        },
-        {
-          "title": "美国负责军备控制和国际安全的国务卿：若没有核能，就无法满足数据中心、人工智能等领域日益增长的能源需求。",
-          "url": "https://flash.jin10.com/detail/20260310190550014800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
-          "title": "市场消息：英伟达将对美国人工智能初创公司思维机器公司Thinking Machines进行“重大”投资，并提供AI芯片。",
-          "url": "https://flash.jin10.com/detail/20260310210118864800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-03-10）",
-          "url": "https://flash.jin10.com/detail/20260310120517295800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
-          "title": "花旗集团将2026-2030年全球人工智能资本支出预测从之前的8万亿美元上调至8.9万亿美元。",
-          "url": "https://flash.jin10.com/detail/20260310190038911800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
-          "title": "报道：英伟达将推出人工智能体开源平台",
-          "url": "https://wallstreetcn.com/livenews/3066798",
+          "title": "安大略省教师退休基金（OTPP）公共与私人投资首席投资官Gillian Brown：由于人工智能（AI）的不确定性，我们对软件类资产进行了调整。 而在医疗保健领域，我们认为该行业在特定时期内存在过度购买，从而产生了‘投资年份风险’（vintage risk），因此也进行了估值下修。 除此之外，其他调整更多是属于公司特有的风险。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3067610",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "谷歌(GOOG.O)：将在Sheets中推出Gemini的全新测试功能。",
-          "url": "https://flash.jin10.com/detail/20260310210724445800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "谷歌公司将向美国五角大楼未披露的工作提供AI智能体（AI Agents）。",
-          "url": "https://wallstreetcn.com/livenews/3067368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时38分"
-        },
-        {
-          "title": "一项由谷歌和特斯拉等公司组成的新联盟将通过利用电网闲置容量来解决能源可负担性问题。（AXIOS）",
-          "url": "https://wallstreetcn.com/livenews/3067324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "谷歌、特斯拉等公司推动利用闲置电网容量降低电价",
-          "url": "https://flash.jin10.com/detail/20260310205644764800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "据AXIOS网站：由谷歌和特斯拉等公司组成的联盟将通过挖掘未充分利用的电网容量来解决能源可负担性问题。",
-          "url": "https://flash.jin10.com/detail/20260310205317042800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小红书",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "小红书：将封禁主页所有公开笔记均为AI托管代发的账号",
-          "url": "https://wallstreetcn.com/livenews/3067229",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时06分 ~ 19时52分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国传媒大学砍掉翻译、摄影等 16 个本科专业，怎样看待这一变化？这些专业真的能被 AI 替代吗？",
-          "url": "https://www.zhihu.com/question/2014268583652320290",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
+          "time_info": "08时55分"
         }
       ]
     }

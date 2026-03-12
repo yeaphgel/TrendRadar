@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T20:29:40.241013+08:00",
-  "total_titles_processed": 1374,
+  "generated_at": "2026-03-12T21:41:27.153951+08:00",
+  "total_titles_processed": 1484,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "央行：深化业技融合 积极稳妥、安全有序推进金融领域人工智能应用",
@@ -85,6 +85,17 @@
           "time_info": "19时04分"
         },
         {
+          "title": "中国人工智能产业发展联盟：持续跟踪OpenClaw安全风险动态 编制企业级OpenClaw部署风险管理指南",
+          "url": "https://wallstreetcn.com/livenews/3068940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "今年将加快研究人工智能等领域立法",
           "url": "https://www.toutiao.com/trending/7616278214587924534/",
           "source": "今日头条",
@@ -108,7 +119,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -159,7 +170,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },

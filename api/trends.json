@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-03-13T17:03:46.894015+08:00",
-  "total_titles_processed": 1037,
-  "failed_sources": [],
+  "generated_at": "2026-03-13T18:00:45.356060+08:00",
+  "total_titles_processed": 1149,
+  "failed_sources": [
+    "tieba"
+  ],
   "trends": [
     {
       "keyword_group": "人工智能",
@@ -64,11 +66,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 17时03分]"
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 18时00分]"
         },
         {
           "title": "马斯克最新访谈：“擎天柱3”要来了，AI“自我改进”已经发生，AI奇点后“钱将不再重要”",
@@ -139,11 +142,12 @@
           "ranks": [
             20,
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时36分 ~ 17时03分]"
+          "appearance_count": 6,
+          "time_info": "[15时36分 ~ 18时00分]"
         }
       ]
     },

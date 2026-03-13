@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T20:29:30.835085+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2026-03-13T21:39:04.172628+08:00",
+  "total_titles_processed": 1578,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时57分 ~ 11时25分]"
+        },
+        {
+          "title": "人工智能产业发展联盟：持续跟踪OpenClaw及同类AI智能体的安全风险动态",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32755562",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时29分 ~ 21时39分]"
         },
         {
           "title": "人工智能药物研发公司Earendil Labs据悉考虑在香港IPO。（彭博）",
@@ -48,18 +60,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
-        },
-        {
-          "title": "人工智能产业发展联盟：持续跟踪OpenClaw及同类AI智能体的安全风险动态",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32755562",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -166,8 +167,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时36分 ~ 20时29分]"
+          "appearance_count": 12,
+          "time_info": "[15时36分 ~ 21时39分]"
         }
       ]
     },

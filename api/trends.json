@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T19:50:26.327816+08:00",
-  "total_titles_processed": 1389,
+  "generated_at": "2026-03-13T20:29:30.835085+08:00",
+  "total_titles_processed": 1468,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "今年加快研究人工智能立法",
@@ -40,6 +40,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        },
+        {
+          "title": "欧盟理事会就简化人工智能领域规则达成一致立场。",
+          "url": "https://wallstreetcn.com/livenews/3069736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
+          "title": "人工智能产业发展联盟：持续跟踪OpenClaw及同类AI智能体的安全风险动态",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32755562",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "据纽约时报：Meta Platforms(META.O)公司因性能问题推迟推出新的人工智能模型。",
@@ -144,8 +166,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时36分 ~ 19时50分]"
+          "appearance_count": 10,
+          "time_info": "[15时36分 ~ 20时29分]"
         }
       ]
     },

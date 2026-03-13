@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T16:26:03.375030+08:00",
-  "total_titles_processed": 965,
+  "generated_at": "2026-03-13T17:03:46.894015+08:00",
+  "total_titles_processed": 1037,
   "failed_sources": [],
   "trends": [
     {
@@ -59,6 +59,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "发生了什么？伊朗最高领袖这一举动让马斯克站上“风口浪尖”",
+          "url": "https://www.cls.cn/detail/2311539",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 17时03分]"
+        },
+        {
           "title": "马斯克最新访谈：“擎天柱3”要来了，AI“自我改进”已经发生，AI奇点后“钱将不再重要”",
           "url": "https://wallstreetcn.com/articles/3767302",
           "source": "华尔街见闻",
@@ -68,17 +80,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时24分 ~ 11时25分]"
-        },
-        {
-          "title": "发生了什么？伊朗最高领袖这一举动让马斯克站上“风口浪尖”",
-          "url": "https://www.cls.cn/detail/2311539",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时36分"
         },
         {
           "title": "马斯克：AI奇点后“钱将不再重要”",
@@ -137,11 +138,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时36分 ~ 16时26分]"
+          "appearance_count": 4,
+          "time_info": "[15时36分 ~ 17时03分]"
         }
       ]
     },

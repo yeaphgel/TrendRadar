@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T21:59:32.327612+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2026-03-14T22:24:30.435346+08:00",
+  "total_titles_processed": 1227,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时23分 ~ 21时26分]"
+          "appearance_count": 4,
+          "time_info": "[20时23分 ~ 22时24分]"
         },
         {
           "title": "亚马逊计划利用Cerebras Systems Inc.的芯片搭配自家Trainium处理器来改善人工智能（AI）软件/模型的运行效果。",
@@ -75,6 +75,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时56分 ~ 08时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克：超大型半导体制造工厂TeraFAB项目将在7天内启动。",
+          "url": "https://flash.jin10.com/detail/20260314214348744800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "xAI联创团队几乎全跑了！马斯克致歉并放话“数字擎天柱”半年上线",
+          "url": "https://www.cls.cn/detail/2312736",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 20时23分]"
         }
       ]
     },
@@ -149,24 +178,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时57分 ~ 13时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "xAI联创团队几乎全跑了！马斯克致歉并放话“数字擎天柱”半年上线",
-          "url": "https://www.cls.cn/detail/2312736",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时14分 ~ 20时23分]"
         }
       ]
     }

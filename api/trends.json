@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T16:57:33.606818+08:00",
-  "total_titles_processed": 811,
+  "generated_at": "2026-03-14T17:23:30.559301+08:00",
+  "total_titles_processed": 847,
   "failed_sources": [],
   "trends": [
     {
@@ -44,11 +44,12 @@
           "url": "https://www.zhihu.com/question/2015916136630281791",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 17时23分]"
         },
         {
           "title": "亚马逊计划利用Cerebras Systems Inc.的芯片搭配自家Trainium处理器来改善人工智能（AI）软件/模型的运行效果。",
@@ -89,11 +90,12 @@
           "ranks": [
             3,
             8,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时53分 ~ 16时57分]"
+          "appearance_count": 4,
+          "time_info": "[15时53分 ~ 17时23分]"
         }
       ]
     },

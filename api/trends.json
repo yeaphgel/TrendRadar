@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T13:38:09.471047+08:00",
-  "total_titles_processed": 604,
+  "generated_at": "2026-03-14T14:32:15.439652+08:00",
+  "total_titles_processed": 651,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             11,
             16,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 13时38分]"
+          "appearance_count": 4,
+          "time_info": "[11时19分 ~ 14时32分]"
         },
         {
           "title": "DeepSeek V4 为什么还不发布？",
@@ -84,6 +85,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "政府网站显示，美国商务部撤回关于AI芯片出口的拟议规则",
+          "url": "https://flash.jin10.com/detail/20260314140852478800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         }
       ]
     }

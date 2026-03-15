@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T18:55:03.728957+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2026-03-15T19:15:56.454916+08:00",
+  "total_titles_processed": 939,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             12,
             11,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时37分 ~ 18时55分]"
+          "appearance_count": 10,
+          "time_info": "[15时37分 ~ 19时15分]"
         },
         {
           "title": "马斯克xAI联创团队几乎全跑了",
@@ -53,11 +54,12 @@
           "url": "https://wallstreetcn.com/articles/3767539",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时57分 ~ 18时55分]"
+          "appearance_count": 5,
+          "time_info": "[17时57分 ~ 19时15分]"
         },
         {
           "title": "xAI核心团队跑光 马斯克致歉",

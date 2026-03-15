@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T22:32:33.150592+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2026-03-15T22:56:50.503912+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[15时37分 ~ 22时32分]"
+          "appearance_count": 16,
+          "time_info": "[15时37分 ~ 22时56分]"
         },
         {
           "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
@@ -44,8 +44,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时57分 ~ 22时32分]"
+          "appearance_count": 11,
+          "time_info": "[17时57分 ~ 22时56分]"
         },
         {
           "title": "马斯克xAI联创团队几乎全跑了",
@@ -194,9 +194,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时32分 ~ 22时56分]"
         }
       ]
     }

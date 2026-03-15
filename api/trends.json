@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T18:19:40.826805+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2026-03-15T18:55:03.728957+08:00",
+  "total_titles_processed": 905,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时08分 ~ 18时19分]"
+          "appearance_count": 12,
+          "time_info": "[12时08分 ~ 18时55分]"
         },
         {
           "title": "特斯拉“造芯”真来了！马斯克官宣：Terafab项目7天后启动",
@@ -31,8 +31,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时37分 ~ 18时19分]"
+          "appearance_count": 9,
+          "time_info": "[15时37分 ~ 18时55分]"
         },
         {
           "title": "马斯克xAI联创团队几乎全跑了",
@@ -56,8 +56,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时57分 ~ 18时19分]"
+          "appearance_count": 4,
+          "time_info": "[17时57分 ~ 18时55分]"
         },
         {
           "title": "xAI核心团队跑光 马斯克致歉",

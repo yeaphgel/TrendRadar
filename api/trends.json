@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T19:38:21.579724+08:00",
-  "total_titles_processed": 1156,
+  "generated_at": "2026-03-16T20:40:09.837130+08:00",
+  "total_titles_processed": 1256,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "LG CEO：通过人工智能合作 打造能读懂生活的机器人",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "广东出台人工智能OPC行动方案，打造一批年营业收入超千万元的优质企业",
+          "url": "https://wallstreetcn.com/livenews/3070915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "据网信上海消息，截至3月16日，上海市新增1款已完成备案的生成式人工智能服务，累计已完成150款生成式人工智能服务备案。",
@@ -39,6 +50,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "马斯克：人生不需要晴天朋友",
+          "url": "https://www.toutiao.com/trending/7616405377337278518/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时36分 ~ 18时43分]"
+        },
+        {
+          "title": "特斯拉“造芯”真来了！马斯克官宣：Terafab项目7天后启动",
+          "url": "https://www.cls.cn/detail/2313116",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        },
+        {
+          "title": "欧盟委员会表示，马斯克旗下X平台已按期缴纳1.2亿欧元罚款。",
+          "url": "https://wallstreetcn.com/livenews/3070901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         }
       ]
     },
@@ -82,32 +134,19 @@
       ]
     },
     {
-      "keyword_group": "马斯克",
-      "match_count": 2,
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
       "titles": [
         {
-          "title": "马斯克：人生不需要晴天朋友",
-          "url": "https://www.toutiao.com/trending/7616405377337278518/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时36分 ~ 18时43分]"
-        },
-        {
-          "title": "特斯拉“造芯”真来了！马斯克官宣：Terafab项目7天后启动",
-          "url": "https://www.cls.cn/detail/2313116",
-          "source": "财联社热门",
+          "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
+          "url": "https://wallstreetcn.com/articles/3767569",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 20时40分]"
         }
       ]
     },

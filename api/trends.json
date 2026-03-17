@@ -1,243 +1,66 @@
 {
-  "generated_at": "2026-03-16T23:36:32.834577+08:00",
-  "total_titles_processed": 1500,
+  "generated_at": "2026-03-17T08:59:45.125270+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "人工智能",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "LG CEO：通过人工智能合作 打造能读懂生活的机器人",
-          "url": "https://flash.jin10.com/detail/20260316113431620800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "广东出台人工智能OPC行动方案，打造一批年营业收入超千万元的优质企业",
-          "url": "https://wallstreetcn.com/livenews/3070915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "据网信上海消息，截至3月16日，上海市新增1款已完成备案的生成式人工智能服务，累计已完成150款生成式人工智能服务备案。",
-          "url": "https://wallstreetcn.com/livenews/3070772",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "Nebius美股盘前大涨10%，报道称，Meta将在未来五年就与Nebius的人工智能交易支出高达270亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3070811",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "马斯克：人生不需要晴天朋友",
-          "url": "https://www.toutiao.com/trending/7616405377337278518/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时36分 ~ 18时43分]"
-        },
-        {
-          "title": "特斯拉“造芯”真来了！马斯克官宣：Terafab项目7天后启动",
-          "url": "https://www.cls.cn/detail/2313116",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        },
-        {
-          "title": "Kimi发布技术报告获马斯克点赞，联合创始人杨植麟、吴育昕、周昕宇署名",
-          "url": "https://wallstreetcn.com/livenews/3071006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时36分"
-        },
-        {
-          "title": "欧盟委员会表示，马斯克旗下X平台已按期缴纳1.2亿欧元罚款。",
-          "url": "https://wallstreetcn.com/livenews/3070901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "增长",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "鸿海董事长：2026年对我们来说将是美好的一年，预计将实现强劲增长。 AI服务器将保持强劲增长，个人电脑（PC）业务将下滑。",
-          "url": "https://wallstreetcn.com/livenews/3070687",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "李迅雷解读“十五五”规划：AI真正成长为国民经济增长支柱性产业",
-          "url": "https://www.cls.cn/detail/2313247",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        },
-        {
-          "title": "鸿海科技：预计一季度AI服务器营收将环比增长。",
-          "url": "https://flash.jin10.com/detail/20260316142942831800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "市场消息：GLOBAL AI 计划在美国部署英伟达(NVDA.O) Vera Rubin平台。",
-          "url": "https://flash.jin10.com/detail/20260316220302880800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时11分"
-        },
-        {
-          "title": "Global AI在美国纽约部署旗下最大规模的英伟达GB300 NVL72 Cluster。 该公司计划在全美范围部署英伟达Vera Rubin平台。",
-          "url": "https://wallstreetcn.com/livenews/3070986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时11分"
-        },
-        {
-          "title": "中国AI大模型调用量连续两周超越美国 神秘模型Hunter Alpha上榜",
-          "url": "https://wallstreetcn.com/livenews/3070595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
           "url": "https://wallstreetcn.com/articles/3767569",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时39分 ~ 23时36分]"
-        },
-        {
-          "title": "OpenAI与私募公司洽谈成立合资企业",
-          "url": "https://wallstreetcn.com/livenews/3070961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "grok",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国参议院民主党成员Warren就质询xAI和五角大楼披露声明：就马斯克旗下初创公司xAI大模型Grok获取机密信息的权限质询国防部。",
-          "url": "https://wallstreetcn.com/livenews/3071020",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时36分"
-        },
-        {
-          "title": "美国民主党参议员沃伦就XAI的Grok获得机密访问权限一事向美国国防部提出质询。",
-          "url": "https://flash.jin10.com/detail/20260316230959981800",
-          "source": "金十数据",
-          "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时36分"
+          "time_info": "08时59分"
+        },
+        {
+          "title": "OpenAI拟削减副业项目 聚焦编程与企业",
+          "url": "https://flash.jin10.com/detail/20260317075142873800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI预计将在未来几周内通知员工战略调整。",
+          "url": "https://flash.jin10.com/detail/20260317074432798800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI拟缩减副业，全力聚焦核心业务。OpenAI高管正敲定一项重大战略转型计划，拟将公司重心转向编程和企业用户。",
+          "url": "https://flash.jin10.com/detail/20260317074344011800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "OpenAI将缩减非核心项目，计划重新专注于编程和企业用户，将在未来几周内通知员工相关变更。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3071234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         }
       ]
     }

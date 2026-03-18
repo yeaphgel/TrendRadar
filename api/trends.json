@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T13:24:47.720980+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-03-18T14:38:06.039800+08:00",
+  "total_titles_processed": 705,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 13时24分]"
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 14时38分]"
         },
         {
           "title": "微软考虑就亚马逊与OpenAI达成的500亿美元云交易采取法律行动。 (英国金融时报)",
@@ -37,7 +38,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -59,7 +60,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         }
@@ -74,11 +75,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 13时24分]"
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 14时38分]"
         }
       ]
     },
@@ -91,11 +93,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%BB%99%E9%A9%AC%E6%96%AF%E5%85%8B%E5%81%9A%E5%8A%A8%E7%94%BB%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 14时38分]"
         }
       ]
     },

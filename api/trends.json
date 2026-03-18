@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T20:39:34.143475+08:00",
-  "total_titles_processed": 1350,
+  "generated_at": "2026-03-18T22:13:41.806975+08:00",
+  "total_titles_processed": 1476,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "“小龙虾”爆火！黄仁勋最新断言：OpenClaw“绝对是下一个ChatGPT”",
@@ -65,6 +65,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        },
+        {
+          "title": "如何评价 OpenAI 最新发布的 GPT-5.4 mini 和 GPT-5.4 Nano?",
+          "url": "https://www.zhihu.com/question/2017426077002253714",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         }
       ]
     },
@@ -122,11 +133,12 @@
             9,
             12,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时59分 ~ 20时39分]"
+          "appearance_count": 12,
+          "time_info": "[11时59分 ~ 22时13分]"
         }
       ]
     },
@@ -142,11 +154,12 @@
             2,
             5,
             3,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时24分 ~ 20时39分]"
+          "appearance_count": 7,
+          "time_info": "[13时24分 ~ 22时13分]"
         }
       ]
     },

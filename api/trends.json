@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-03-18T14:38:06.039800+08:00",
-  "total_titles_processed": 705,
+  "generated_at": "2026-03-18T15:44:10.649964+08:00",
+  "total_titles_processed": 825,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 5,
       "titles": [
-        {
-          "title": "微软考虑就亚马逊与OpenAI的云交易采取法律行动",
-          "url": "https://flash.jin10.com/detail/20260318131015463800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
         {
           "title": "“小龙虾”爆火！黄仁勋最新断言：OpenClaw“绝对是下一个ChatGPT”",
           "url": "https://www.cls.cn/detail/2316213",
@@ -28,8 +17,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 14时38分]"
+          "appearance_count": 6,
+          "time_info": "[11时59分 ~ 15时44分]"
+        },
+        {
+          "title": "微软考虑就亚马逊与OpenAI的云交易采取法律行动",
+          "url": "https://flash.jin10.com/detail/20260318131015463800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "微软考虑就亚马逊与OpenAI达成的500亿美元云交易采取法律行动。 (英国金融时报)",
@@ -76,11 +76,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 14时38分]"
+          "appearance_count": 6,
+          "time_info": "[11时59分 ~ 15时44分]"
         }
       ]
     },

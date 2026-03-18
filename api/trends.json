@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T16:34:27.665285+08:00",
-  "total_titles_processed": 922,
+  "generated_at": "2026-03-18T17:40:40.592965+08:00",
+  "total_titles_processed": 1044,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             9,
             6,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时59分 ~ 16时34分]"
+          "appearance_count": 8,
+          "time_info": "[11时59分 ~ 17时40分]"
         },
         {
           "title": "微软考虑就亚马逊与OpenAI的云交易采取法律行动",
@@ -78,7 +79,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -89,7 +90,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         }
@@ -106,11 +107,12 @@
           "ranks": [
             3,
             4,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时59分 ~ 16时34分]"
+          "appearance_count": 8,
+          "time_info": "[11时59分 ~ 17时40分]"
         }
       ]
     },

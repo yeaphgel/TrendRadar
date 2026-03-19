@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T19:55:31.620256+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2026-03-19T20:32:58.325828+08:00",
+  "total_titles_processed": 1423,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时02分 ~ 19时55分]"
+          "appearance_count": 14,
+          "time_info": "[09时02分 ~ 20时32分]"
         },
         {
           "title": "工信部召开新材料领域中小企业圆桌会：探索人工智能等在材料研发、中试、生产等典型场景应用",
@@ -134,9 +134,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 20时32分]"
         }
       ]
     },
@@ -165,6 +165,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "推特",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国小女孩打车视频在推特爆火",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%B0%8F%E5%A5%B3%E5%AD%A9%E6%89%93%E8%BD%A6%E8%A7%86%E9%A2%91%E5%9C%A8%E6%8E%A8%E7%89%B9%E7%88%86%E7%81%AB&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         }
       ]
     }

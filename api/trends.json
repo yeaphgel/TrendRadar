@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T09:02:32.041717+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-19T11:59:11.689850+08:00",
+  "total_titles_processed": 495,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32789587",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 11时59分]"
         },
         {
           "title": "挪威主权财富基金警告人工智能泡沫和地缘政治风险对市场构成威胁",
@@ -51,11 +52,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
           "source": "贴吧",
           "ranks": [
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 11时59分]"
         }
       ]
     }

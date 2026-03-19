@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T17:08:23.958829+08:00",
-  "total_titles_processed": 1033,
+  "generated_at": "2026-03-19T18:05:16.960192+08:00",
+  "total_titles_processed": 1129,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             19,
             14,
             13,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时02分 ~ 17时08分]"
+          "appearance_count": 11,
+          "time_info": "[09时02分 ~ 18时05分]"
         },
         {
           "title": "工信部召开新材料领域中小企业圆桌会：探索人工智能等在材料研发、中试、生产等典型场景应用",
@@ -28,7 +29,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -53,6 +54,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "增长",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "阿里巴巴：AI相关产品收入保持强劲势头 实现连续第十个季度的三位数同比增长",
+          "url": "https://flash.jin10.com/detail/20260319174043329800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
+          "title": "阿里巴巴(09988.HK)吴泳铭：千问app与阿里消费生态各应用场景加速融合，显著带动新用户增长和交易活跃度。未来，依托大模型+云+芯片全栈AI能力，以及与阿里商业生态的全面融合，我们将继续在AI to B和to C方向齐发力。",
+          "url": "https://flash.jin10.com/detail/20260319173729011800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
+          "title": "阿里巴巴(09988.HK)：阿里云收入同比加速增长36%；C端旗舰AI应用千问app实现真实世界大规模办事能力，千问C端应用月活跃用户数突破3亿。",
+          "url": "https://flash.jin10.com/detail/20260319173700429800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         }
       ]
     },

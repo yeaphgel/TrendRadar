@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-20T15:17:17.172507+08:00",
-  "total_titles_processed": 792,
+  "generated_at": "2026-03-20T16:02:18.662099+08:00",
+  "total_titles_processed": 882,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "人工智能太绕,AI急需中文名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时01分 ~ 16时02分]"
+        },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-03-20）",
           "url": "https://flash.jin10.com/detail/20260320115827577800",
@@ -94,8 +105,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时58分 ~ 15时17分]"
+          "appearance_count": 9,
+          "time_info": "[08时58分 ~ 16时02分]"
         }
       ]
     }

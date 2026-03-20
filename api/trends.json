@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T16:02:18.662099+08:00",
-  "total_titles_processed": 882,
+  "generated_at": "2026-03-20T16:38:32.935248+08:00",
+  "total_titles_processed": 963,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
+          "appearance_count": 3,
+          "time_info": "[16时01分 ~ 16时38分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-03-20）",
@@ -105,8 +106,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时58分 ~ 16时02分]"
+          "appearance_count": 10,
+          "time_info": "[08时58分 ~ 16时38分]"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T08:59:10.752157+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-20T11:28:11.049094+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32793883",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 08时59分]"
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 11时28分]"
         }
       ]
     },
@@ -31,7 +32,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
         }
@@ -46,11 +47,12 @@
           "url": "https://www.zhihu.com/question/2017891290054943068",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 08时59分]"
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 11时28分]"
         }
       ]
     }

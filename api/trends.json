@@ -1,189 +1,56 @@
 {
-  "generated_at": "2026-03-19T22:46:25.354613+08:00",
-  "total_titles_processed": 1633,
+  "generated_at": "2026-03-20T08:59:10.752157+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "人工智能",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "外资企业为何“偏爱”上海？他们提到人工智能、供应链、市场……",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32789587",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            14,
-            13,
-            10,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时02分 ~ 20时32分]"
-        },
-        {
-          "title": "工信部召开新材料领域中小企业圆桌会：探索人工智能等在材料研发、中试、生产等典型场景应用",
-          "url": "https://wallstreetcn.com/livenews/3073119",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时08分"
-        },
-        {
-          "title": "微信安全中心发布针对滥用人工智能生成内容服务传播恶意链接的治理公告",
-          "url": "https://wallstreetcn.com/livenews/3073214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时09分"
-        },
-        {
-          "title": "挪威主权财富基金警告人工智能泡沫和地缘政治风险对市场构成威胁",
-          "url": "https://wallstreetcn.com/livenews/3072764",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "澳洲联储金融稳定评估报告：若生产率表现不及预期，全球与人工智能相关的投资可能出现显著回撤。",
-          "url": "https://flash.jin10.com/detail/20260319083154854800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "增长",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "阿里巴巴：AI相关产品收入保持强劲势头 实现连续第十个季度的三位数同比增长",
-          "url": "https://flash.jin10.com/detail/20260319174043329800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时05分"
-        },
-        {
-          "title": "阿里巴巴(09988.HK)吴泳铭：千问app与阿里消费生态各应用场景加速融合，显著带动新用户增长和交易活跃度。未来，依托大模型+云+芯片全栈AI能力，以及与阿里商业生态的全面融合，我们将继续在AI to B和to C方向齐发力。",
-          "url": "https://flash.jin10.com/detail/20260319173729011800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时05分"
-        },
-        {
-          "title": "阿里巴巴(09988.HK)：阿里云收入同比加速增长36%；C端旗舰AI应用千问app实现真实世界大规模办事能力，千问C端应用月活跃用户数突破3亿。",
-          "url": "https://flash.jin10.com/detail/20260319173700429800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "日本AI造假,套壳DeepSeek",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            24,
-            23,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时02分 ~ 15时32分]"
-        },
         {
           "title": "小米凌晨模型三连发：罗福莉称为智能体时代打造，曾被误认为DeepSeek V4",
           "url": "https://m.thepaper.cn/newsDetail_forward_32793883",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            18,
-            14
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时55分 ~ 22时46分]"
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 08时59分]"
         }
       ]
     },
     {
-      "keyword_group": "马斯克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "马斯克：我们可能在12月就能完成AI6芯片的流片。",
-          "url": "https://flash.jin10.com/detail/20260319152132569800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "马斯克：我们可能在12月完成AI6芯片的流片。",
-          "url": "https://wallstreetcn.com/livenews/3073039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "推特",
+      "keyword_group": "人工智能",
       "match_count": 1,
       "titles": [
         {
-          "title": "中国小女孩打车视频在推特爆火",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%B0%8F%E5%A5%B3%E5%AD%A9%E6%89%93%E8%BD%A6%E8%A7%86%E9%A2%91%E5%9C%A8%E6%8E%A8%E7%89%B9%E7%88%86%E7%81%AB&t=31&band_rank=1&Refer=top",
-          "source": "微博",
+          "title": "据华尔街日报援引公司提交给美国联邦通信委员会的文件报道，杰夫·贝索斯旗下蓝色起源公司正寻求许可，拟向轨道部署近5.2万颗可进行人工智能计算的卫星。",
+          "url": "https://flash.jin10.com/detail/20260320074759967800",
+          "source": "金十数据",
           "ranks": [
-            1
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "品牌营销",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小米 SU7 应网友呼声官宣舒淇为代言人，从品牌营销角度如何评价这一做法？会给品牌带来哪些变化？",
+          "url": "https://www.zhihu.com/question/2017891290054943068",
+          "source": "知乎",
+          "ranks": [
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时32分"
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 08时59分]"
         }
       ]
     }

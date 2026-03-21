@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T21:56:44.245824+08:00",
-  "total_titles_processed": 1129,
+  "generated_at": "2026-03-21T22:16:00.939091+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时50分 ~ 21时56分]"
+          "appearance_count": 9,
+          "time_info": "[18时50分 ~ 22时16分]"
         },
         {
           "title": "马斯克的律师们将对“美国陪审团认定他欺诈推特投资者们”的判决结果提出上诉。",
@@ -103,8 +103,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[08时55分 ~ 21时56分]"
+          "appearance_count": 24,
+          "time_info": "[08时55分 ~ 22时16分]"
         },
         {
           "title": "国家级电力人工智能中试基地迎首批企业，华为、中兴、百度等入驻",
@@ -178,8 +178,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时21分 ~ 21时56分]"
+          "appearance_count": 4,
+          "time_info": "[20时21分 ~ 22时16分]"
         },
         {
           "title": "OpenAI计划到2026年底将员工人数增至8000人，以缩小与竞争对手Anthropic的差距。",
@@ -188,11 +188,12 @@
           "ranks": [
             5,
             17,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时21分 ~ 21时56分]"
+          "appearance_count": 4,
+          "time_info": "[20时21分 ~ 22时16分]"
         }
       ]
     },
@@ -234,8 +235,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时15分 ~ 21时56分]"
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 22时16分]"
         }
       ]
     }

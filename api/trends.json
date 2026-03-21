@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T13:34:59.699345+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2026-03-21T14:28:06.755355+08:00",
+  "total_titles_processed": 638,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             5,
             15,
             20,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时55分 ~ 13时34分]"
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 14时28分]"
         },
         {
           "title": "马斯克说这就是kimi",
@@ -55,11 +56,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时55分 ~ 13时34分]"
+          "appearance_count": 7,
+          "time_info": "[08时55分 ~ 14时28分]"
         },
         {
           "title": "Palantir人工智能系统获美国防部关键项目地位",
@@ -67,11 +69,12 @@
           "source": "金十数据",
           "ranks": [
             11,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 13时34分]"
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 14时28分]"
         }
       ]
     },

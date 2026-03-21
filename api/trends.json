@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T17:20:26.442091+08:00",
-  "total_titles_processed": 837,
+  "generated_at": "2026-03-21T17:51:35.410349+08:00",
+  "total_titles_processed": 872,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             9,
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时55分 ~ 17时20分]"
+          "appearance_count": 13,
+          "time_info": "[08时55分 ~ 17时51分]"
         },
         {
           "title": "国家级电力人工智能中试基地迎首批企业，华为、中兴、百度等入驻",
@@ -30,11 +31,12 @@
             10,
             11,
             17,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时50分 ~ 17时20分]"
+          "appearance_count": 5,
+          "time_info": "[15时50分 ~ 17时51分]"
         },
         {
           "title": "Palantir人工智能系统获美国防部关键项目地位",

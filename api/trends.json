@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T16:54:50.429941+08:00",
-  "total_titles_processed": 798,
+  "generated_at": "2026-03-21T17:20:26.442091+08:00",
+  "total_titles_processed": 837,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,26 @@
             4,
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时55分 ~ 16时54分]"
+          "appearance_count": 12,
+          "time_info": "[08时55分 ~ 17时20分]"
+        },
+        {
+          "title": "国家级电力人工智能中试基地迎首批企业，华为、中兴、百度等入驻",
+          "url": "https://wallstreetcn.com/livenews/3074413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            11,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时50分 ~ 17时20分]"
         },
         {
           "title": "Palantir人工智能系统获美国防部关键项目地位",
@@ -47,19 +62,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时50分 ~ 16时54分]"
-        },
-        {
-          "title": "国家级电力人工智能中试基地迎首批企业，华为、中兴、百度等入驻",
-          "url": "https://wallstreetcn.com/livenews/3074413",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时50分 ~ 16时54分]"
         }
       ]
     },
@@ -83,6 +85,19 @@
           "time_info": "[08时55分 ~ 15时07分]"
         },
         {
+          "title": "马斯克：Optimus+PV将是首个冯·诺依曼探测器，一种能够利用太空中的原材料完全自我复制的机器。",
+          "url": "https://flash.jin10.com/detail/20260321154514979800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 17时20分]"
+        },
+        {
           "title": "马斯克说这就是kimi",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%AF%B4%E8%BF%99%E5%B0%B1%E6%98%AFkimi%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -92,18 +107,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时13分 ~ 11时14分]"
-        },
-        {
-          "title": "马斯克：Optimus+PV将是首个冯·诺依曼探测器，一种能够利用太空中的原材料完全自我复制的机器。",
-          "url": "https://flash.jin10.com/detail/20260321154514979800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 16时54分]"
         },
         {
           "title": "陪审团裁定：马斯克在2022年收购前误导了推特投资者",

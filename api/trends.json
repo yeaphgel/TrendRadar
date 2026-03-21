@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T19:14:10.368435+08:00",
-  "total_titles_processed": 958,
+  "generated_at": "2026-03-21T19:43:17.655684+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
@@ -23,6 +23,17 @@
           "time_info": "[08时55分 ~ 15时07分]"
         },
         {
+          "title": "“罕见”！马斯克败诉",
+          "url": "https://www.cls.cn/detail/2320283",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时50分 ~ 19时43分]"
+        },
+        {
           "title": "马斯克：Optimus+PV将是首个冯·诺依曼探测器，一种能够利用太空中的原材料完全自我复制的机器。",
           "url": "https://flash.jin10.com/detail/20260321154514979800",
           "source": "金十数据",
@@ -34,17 +45,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时18分 ~ 17时20分]"
-        },
-        {
-          "title": "“罕见”！马斯克败诉",
-          "url": "https://www.cls.cn/detail/2320283",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时50分 ~ 19时14分]"
         },
         {
           "title": "马斯克说这就是kimi",
@@ -84,11 +84,12 @@
             10,
             11,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时55分 ~ 19时14分]"
+          "appearance_count": 19,
+          "time_info": "[08时55分 ~ 19时43分]"
         },
         {
           "title": "国家级电力人工智能中试基地迎首批企业，华为、中兴、百度等入驻",
@@ -136,6 +137,36 @@
       ]
     },
     {
+      "keyword_group": "grok",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克：企业版Grok Voice现已推出。",
+          "url": "https://flash.jin10.com/detail/20260321191236896800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
+          "title": "马斯克：xAI的“Grok Computer”应用即将推出。",
+          "url": "https://flash.jin10.com/detail/20260321183027923800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时50分 ~ 19时43分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -151,24 +182,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时55分 ~ 12时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "grok",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克：xAI的“Grok Computer”应用即将推出。",
-          "url": "https://flash.jin10.com/detail/20260321183027923800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时50分 ~ 19时14分]"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T17:52:56.292066+08:00",
-  "total_titles_processed": 843,
+  "generated_at": "2026-03-22T18:15:51.946724+08:00",
+  "total_titles_processed": 884,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时01分 ~ 17时52分]"
+          "appearance_count": 16,
+          "time_info": "[09时01分 ~ 18时15分]"
         },
         {
           "title": "马斯克官宣TERAFAB项目，目标年产1太瓦计算能力",
@@ -31,11 +31,38 @@
             7,
             9,
             10,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时10分 ~ 17时52分]"
+          "appearance_count": 8,
+          "time_info": "[14时10分 ~ 18时15分]"
+        },
+        {
+          "title": "马斯克官宣开建史上最大芯片厂：年产能目标为现有全球产能50倍，80%将直接服务太空任务",
+          "url": "https://wallstreetcn.com/articles/3768085",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时55分 ~ 18时15分]"
+        },
+        {
+          "title": "马斯克正式发布Terafab项目：目标年产1太瓦算力 主要于太空部署",
+          "url": "https://www.cls.cn/detail/2320520",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时55分 ~ 18时15分]"
         },
         {
           "title": "马斯克：“Terafab”项目将落户奥斯汀，由特斯拉和SpaceX共同运营",
@@ -49,31 +76,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时10分 ~ 15时54分]"
-        },
-        {
-          "title": "马斯克官宣开建史上最大芯片厂：年产能目标为现有全球产能50倍，80%将直接服务太空任务",
-          "url": "https://wallstreetcn.com/articles/3768085",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时55分 ~ 17时52分]"
-        },
-        {
-          "title": "马斯克正式发布Terafab项目：目标年产1太瓦算力 主要于太空部署",
-          "url": "https://www.cls.cn/detail/2320520",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时55分 ~ 17时52分]"
         },
         {
           "title": "马斯克官宣开建史上最大芯片厂",
@@ -138,8 +140,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时01分 ~ 17时52分]"
+          "appearance_count": 16,
+          "time_info": "[09时01分 ~ 18时15分]"
         },
         {
           "title": "韩文秀：全方位应对人工智能冲击，促进高质量充分就业",
@@ -152,11 +154,12 @@
             12,
             14,
             15,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时15分 ~ 17时52分]"
+          "appearance_count": 9,
+          "time_info": "[13时15分 ~ 18时15分]"
         },
         {
           "title": "韩文秀：全方位应对人工智能冲击，促进高质量充分就业",
@@ -186,11 +189,12 @@
             2,
             4,
             5,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时12分 ~ 17时52分]"
+          "appearance_count": 7,
+          "time_info": "[15时12分 ~ 18时15分]"
         },
         {
           "title": "苹果CEO库克：迫不及待想看看中国AI下一步进展",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T16:20:11.314041+08:00",
-  "total_titles_processed": 735,
+  "generated_at": "2026-03-22T16:55:51.408209+08:00",
+  "total_titles_processed": 787,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "“罕见”！马斯克败诉",
@@ -17,8 +17,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时01分 ~ 16时20分]"
+          "appearance_count": 12,
+          "time_info": "[09时01分 ~ 16时55分]"
         },
         {
           "title": "马斯克官宣TERAFAB项目，目标年产1太瓦计算能力",
@@ -28,11 +28,12 @@
             2,
             6,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时10分 ~ 16时20分]"
+          "appearance_count": 5,
+          "time_info": "[14时10分 ~ 16时55分]"
         },
         {
           "title": "马斯克：“Terafab”项目将落户奥斯汀，由特斯拉和SpaceX共同运营",
@@ -48,22 +49,22 @@
           "time_info": "[14时10分 ~ 15时54分]"
         },
         {
-          "title": "马斯克拟建全球最大芯片厂",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8B%9F%E5%BB%BA%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E8%8A%AF%E7%89%87%E5%8E%82",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 16时20分]"
-        },
-        {
           "title": "马斯克官宣开建史上最大芯片厂",
           "url": "https://www.toutiao.com/trending/7619963914993798694/",
           "source": "今日头条",
           "ranks": [
             11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 16时55分]"
+        },
+        {
+          "title": "马斯克拟建全球最大芯片厂",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8B%9F%E5%BB%BA%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E8%8A%AF%E7%89%87%E5%8E%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -82,6 +83,17 @@
           "time_info": "[11时56分 ~ 13时15分]"
         },
         {
+          "title": "马斯克官宣开建史上最大芯片厂：年产能目标为现有全球产能50倍，80%将直接服务太空任务",
+          "url": "https://wallstreetcn.com/articles/3768085",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
           "title": "马斯克：Terafab项目即将公布 年产能超1太瓦算力",
           "url": "https://flash.jin10.com/detail/20260322081338227800",
           "source": "金十数据",
@@ -91,6 +103,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "马斯克正式发布Terafab项目：目标年产1太瓦算力 主要于太空部署",
+          "url": "https://www.cls.cn/detail/2320520",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         }
       ]
     },
@@ -110,8 +133,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时01分 ~ 16时20分]"
+          "appearance_count": 12,
+          "time_info": "[09时01分 ~ 16时55分]"
         },
         {
           "title": "韩文秀：全方位应对人工智能冲击，促进高质量充分就业",
@@ -122,11 +145,12 @@
             7,
             11,
             12,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时15分 ~ 16时20分]"
+          "appearance_count": 6,
+          "time_info": "[13时15分 ~ 16时55分]"
         },
         {
           "title": "韩文秀：全方位应对人工智能冲击，促进高质量充分就业",
@@ -154,11 +178,12 @@
           "ranks": [
             1,
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时12分 ~ 16时20分]"
+          "appearance_count": 4,
+          "time_info": "[15时12分 ~ 16时55分]"
         },
         {
           "title": "苹果CEO库克：迫不及待想看看中国AI下一步进展",

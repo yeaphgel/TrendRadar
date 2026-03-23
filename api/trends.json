@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T14:56:01.540035+08:00",
-  "total_titles_processed": 745,
+  "generated_at": "2026-03-23T15:54:17.287731+08:00",
+  "total_titles_processed": 863,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             24,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时04分 ~ 14时56分]"
+          "appearance_count": 6,
+          "time_info": "[09时04分 ~ 15时54分]"
         },
         {
           "title": "广东：加强对国家重大科技任务和电子信息、人工智能、低空经济等先进制造业集群的增信",
@@ -93,11 +94,12 @@
           "ranks": [
             5,
             6,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时04分 ~ 14时56分]"
+          "appearance_count": 6,
+          "time_info": "[09时04分 ~ 15时54分]"
         }
       ]
     },

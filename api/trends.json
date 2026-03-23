@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T13:52:44.729324+08:00",
-  "total_titles_processed": 635,
+  "generated_at": "2026-03-23T14:56:01.540035+08:00",
+  "total_titles_processed": 745,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时04分 ~ 13时52分]"
+          "appearance_count": 5,
+          "time_info": "[09时04分 ~ 14时56分]"
         },
         {
           "title": "广东：加强对国家重大科技任务和电子信息、人工智能、低空经济等先进制造业集群的增信",
@@ -26,7 +26,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -37,7 +37,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         }
@@ -92,11 +92,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时04分 ~ 13时52分]"
+          "appearance_count": 5,
+          "time_info": "[09时04分 ~ 14时56分]"
         }
       ]
     },
@@ -128,7 +129,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         }

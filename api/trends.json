@@ -1,252 +1,78 @@
 {
-  "generated_at": "2026-03-24T23:39:12.144659+08:00",
-  "total_titles_processed": 1602,
+  "generated_at": "2026-03-25T09:02:07.046857+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "人工智能",
-      "match_count": 4,
+      "keyword_group": "Claude",
+      "match_count": 2,
       "titles": [
         {
-          "title": "据Moneycontrol：英伟达正在就投资人工智能初创公司Sarvam进行谈判。",
-          "url": "https://flash.jin10.com/detail/20260324202351908800",
-          "source": "金十数据",
+          "title": "Claude刚刚杀死了OpenClaw！",
+          "url": "https://wallstreetcn.com/articles/3768255",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时39分"
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 09时02分]"
         },
         {
-          "title": "国家数据局局长刘烈宏：第九届数字中国建设峰会现场体验区新增“人工智能”板块",
-          "url": "https://wallstreetcn.com/livenews/3075601",
-          "source": "华尔街见闻-快讯",
+          "title": "Claude加入“龙虾大战” NASA押注月球基地、核动力飞船 | 环球市场",
+          "url": "https://www.cls.cn/detail/2323662",
+          "source": "财联社热门",
           "ranks": [
-            8
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
-          "title": "国家数据局局长刘烈宏：第九届数字中国建设峰会现场体验区新增“人工智能”板块",
-          "url": "https://flash.jin10.com/detail/20260324105310554800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-03-24）",
-          "url": "https://flash.jin10.com/detail/20260324120403724800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "微软将租用美国得州被甲骨文和OpenAI抛弃的数据中心。 微软和英伟达宣布，就核能展开AI合作。",
-          "url": "https://wallstreetcn.com/livenews/3076067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
-        },
-        {
-          "title": "市场消息：微软将租用甲骨文和OpenAI放弃的得州数据中心。微软、英伟达宣布在核能领域开展人工智能合作。微软与英伟达将共同开发用于核能许可申请及设计的AI工具。",
-          "url": "https://flash.jin10.com/detail/20260324231739296800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
-        },
-        {
-          "title": "OpenAI高管Lightcap：存储芯片供应短缺成为扩张的瓶颈。 对于AI（业务）成长而言，能源（电力）是另外一个潜在的瓶颈。",
-          "url": "https://wallstreetcn.com/livenews/3076032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时16分"
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 09时02分]"
         }
       ]
     },
     {
       "keyword_group": "增长",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "小米集团：2025年智能电动汽车及AI等创新业务分部收入同比增长223.8%",
-          "url": "https://wallstreetcn.com/livenews/3075834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
-          "title": "小米集团：2025年智能电动汽车及AI等创新业务分部收入同比增长223.8%",
-          "url": "https://flash.jin10.com/detail/20260324172743485800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
-          "title": "国家数据局局长刘烈宏：日均Token调用量增加，表明我国AI发展进入快速增长阶段",
-          "url": "https://flash.jin10.com/detail/20260324104425414800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
         {
-          "title": "DeepSeek郭达雅被曝离职",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
-          "source": "bilibili 热搜",
+          "title": "SK海力士：得益于AI，存储需求预计将在中长期内持续扩大。 2026年，HBM预计将继续成为存储市场增长的核心驱动力。",
+          "url": "https://wallstreetcn.com/livenews/3076282",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            13,
-            12,
-            14,
-            18,
-            16,
-            17
+            1
           ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时55分 ~ 23时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时02分"
         },
         {
-          "title": "DeepSeek加大对智能体AI人才招聘力度。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3076013",
-          "source": "华尔街见闻-快讯",
+          "title": "深圳：到2028年AI服务器全产业链产品产能与出货量实现跨越式增长",
+          "url": "https://flash.jin10.com/detail/20260325082104187800",
+          "source": "金十数据",
           "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "西门子中国联手宇树、阿里云，打造工业AI生态系统",
-          "url": "https://wallstreetcn.com/livenews/3075929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时36分 ~ 20时39分]"
-        },
-        {
-          "title": "美国白宫科技事务顾问Michael Kratsios在科技论坛上讲话：建议推行国家监督管理AI的方式。 （谈及近日向国会山移交的AI监管框架）AI监管应当（有助于）保护儿童（隐私）。 AI制度还应该保护“电力费率支付者”（或称“电费缴交户”，Electric Ratepayer）和知识产权（IP）。",
-          "url": "https://wallstreetcn.com/livenews/3076050",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时39分"
+          "time_info": "09时02分"
         }
       ]
     },
     {
-      "keyword_group": "马斯克",
+      "keyword_group": "人工智能",
       "match_count": 1,
       "titles": [
         {
-          "title": "史上最大造芯计划启动，马斯克胃口为何这么大",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32816082",
-          "source": "澎湃新闻",
+          "title": "SK海力士：得益于人工智能，内存需求预计将在中长期内扩大。",
+          "url": "https://flash.jin10.com/detail/20260325085413773800",
+          "source": "金十数据",
           "ranks": [
-            17,
-            15,
-            10,
-            9,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时29分 ~ 23时39分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Anthropic：Claude现已可操控用户电脑完成任务，加速布局AI智能体",
-          "url": "https://wallstreetcn.com/livenews/3076056",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国白宫AI事务主管David Sacks在华盛顿特区科技论坛上讲话，为总统特朗普“允许向海湾地区多个国家出口销售芯片”的计划辩解。",
-          "url": "https://wallstreetcn.com/livenews/3076046",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
+          "time_info": "09时02分"
         }
       ]
     }

@@ -1,8 +1,67 @@
 {
-  "generated_at": "2026-03-25T20:36:56.583314+08:00",
-  "total_titles_processed": 1364,
+  "generated_at": "2026-03-25T22:09:27.630673+08:00",
+  "total_titles_processed": 1501,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
+          "url": "https://www.zhihu.com/question/2020036375211157322",
+          "source": "知乎",
+          "ranks": [
+            17,
+            4,
+            3,
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时38分 ~ 19时33分]"
+        },
+        {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            20,
+            18,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[11时38分 ~ 22时09分]"
+        },
+        {
+          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
+          "url": "https://www.cls.cn/detail/2323711",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时38分 ~ 18时36分]"
+        },
+        {
+          "title": "Arm控股美股盘初涨15%，使得最近五个交易日迄今累计涨幅达到25%。 该公司昨日发布第一款自研芯片AGI CPU，首批大客户包括Meta、OpenAI、以及德国思爱普Sap，预计年收入将在2031年达到150亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3076723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        }
+      ]
+    },
     {
       "keyword_group": "增长",
       "match_count": 4,
@@ -50,56 +109,9 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
-          "url": "https://www.zhihu.com/question/2020036375211157322",
-          "source": "知乎",
-          "ranks": [
-            17,
-            4,
-            3,
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时38分 ~ 19时33分]"
-        },
-        {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            20,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时38分 ~ 20时36分]"
-        },
-        {
-          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
-          "url": "https://www.cls.cn/detail/2323711",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时38分 ~ 18时36分]"
         }
       ]
     },
@@ -199,6 +211,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时36分 ~ 20时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股存储板块走低，美光科技跌超4%，闪迪跌6.5%，西部数据跌超4%，希捷科技跌超5%。此前Google Research推出了TurboQuant，这是一种全新的KV缓存压缩方法。据称，该方法可在不损失准确性的前提下，将大语言模型（LLM）的缓存内存占用至少减少6倍，并实现最高8倍的加速，旨在解决人工智能推理和向量搜索中的内存瓶颈问题。",
+          "url": "https://wallstreetcn.com/livenews/3076731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         }
       ]
     },

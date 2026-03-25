@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T18:36:59.035961+08:00",
-  "total_titles_processed": 1186,
+  "generated_at": "2026-03-25T19:33:16.242159+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
@@ -15,23 +15,12 @@
             17,
             4,
             3,
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时38分 ~ 18时36分]"
-        },
-        {
-          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
-          "url": "https://www.cls.cn/detail/2323711",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时38分 ~ 18时36分]"
+          "appearance_count": 10,
+          "time_info": "[11时38分 ~ 19时33分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -44,8 +33,59 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时38分 ~ 19时33分]"
+        },
+        {
+          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
+          "url": "https://www.cls.cn/detail/2323711",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时38分 ~ 18时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "工信部公开征求《人工智能 安全治理 模型上下文协议应用安全要求》等121项行业标准计划项目意见。",
+          "url": "https://flash.jin10.com/detail/20260325191248950800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
+          "title": "SK海力士：得益于人工智能，内存需求预计将在中长期内扩大。",
+          "url": "https://flash.jin10.com/detail/20260325085413773800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "贝莱德CEO：不认为人工智能存在泡沫",
+          "url": "https://flash.jin10.com/detail/20260325152953852800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         }
       ]
     },
@@ -60,11 +100,12 @@
           "ranks": [
             11,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时36分 ~ 18时36分]"
+          "appearance_count": 8,
+          "time_info": "[14时36分 ~ 19时33分]"
         },
         {
           "title": "SK海力士：得益于AI，存储需求预计将在中长期内持续扩大。 2026年，HBM预计将继续成为存储市场增长的核心驱动力。",
@@ -87,34 +128,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "SK海力士：得益于人工智能，内存需求预计将在中长期内扩大。",
-          "url": "https://flash.jin10.com/detail/20260325085413773800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "贝莱德CEO：不认为人工智能存在泡沫",
-          "url": "https://flash.jin10.com/detail/20260325152953852800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
         }
       ]
     },
@@ -168,11 +181,12 @@
           "url": "https://www.zhihu.com/question/2010673619001419372",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时36分 ~ 19时33分]"
         }
       ]
     },

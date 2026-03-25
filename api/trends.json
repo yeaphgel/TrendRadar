@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T13:19:26.405945+08:00",
-  "total_titles_processed": 637,
+  "generated_at": "2026-03-25T14:37:09.388665+08:00",
+  "total_titles_processed": 737,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "知乎",
           "ranks": [
             17,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[11时38分 ~ 14时37分]"
         },
         {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
           "url": "https://www.cls.cn/detail/2323711",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[11时38分 ~ 14时37分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -36,11 +38,51 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            20
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时38分 ~ 14时37分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "增长",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "SK海力士：得益于AI，存储需求预计将在中长期内持续扩大。 2026年，HBM预计将继续成为存储市场增长的核心驱动力。",
+          "url": "https://wallstreetcn.com/livenews/3076282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "光模块获点名！深圳部署AI高质量发展：服务器全链条出货要跨越式增长",
+          "url": "https://www.cls.cn/detail/2323916",
+          "source": "财联社热门",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时38分 ~ 13时19分]"
+          "time_info": "[14时36分 ~ 14时37分]"
+        },
+        {
+          "title": "深圳：到2028年AI服务器全产业链产品产能与出货量实现跨越式增长",
+          "url": "https://flash.jin10.com/detail/20260325082104187800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
         }
       ]
     },
@@ -57,8 +99,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时01分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 14时37分]"
         },
         {
           "title": "Claude加入“龙虾大战” NASA押注月球基地、核动力飞船 | 环球市场",
@@ -70,34 +112,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时01分 ~ 11时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "增长",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "SK海力士：得益于AI，存储需求预计将在中长期内持续扩大。 2026年，HBM预计将继续成为存储市场增长的核心驱动力。",
-          "url": "https://wallstreetcn.com/livenews/3076282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "深圳：到2028年AI服务器全产业链产品产能与出货量实现跨越式增长",
-          "url": "https://flash.jin10.com/detail/20260325082104187800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
         }
       ]
     },

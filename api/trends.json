@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T11:38:40.188246+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-03-25T13:19:26.405945+08:00",
+  "total_titles_processed": 637,
   "failed_sources": [],
   "trends": [
     {
@@ -8,37 +8,39 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
+          "url": "https://www.zhihu.com/question/2020036375211157322",
+          "source": "知乎",
+          "ranks": [
+            17,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 13时19分]"
+        },
+        {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
           "url": "https://www.cls.cn/detail/2323711",
           "source": "财联社热门",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 13时19分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            10,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
-          "url": "https://www.zhihu.com/question/2020036375211157322",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 13时19分]"
         }
       ]
     },
@@ -55,8 +57,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 11时38分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 13时19分]"
         },
         {
           "title": "Claude加入“龙虾大战” NASA押注月球基地、核动力飞船 | 环球市场",
@@ -127,9 +129,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 13时19分]"
         }
       ]
     }

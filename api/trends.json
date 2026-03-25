@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T22:09:27.630673+08:00",
-  "total_titles_processed": 1501,
+  "generated_at": "2026-03-25T23:40:58.268155+08:00",
+  "total_titles_processed": 1611,
   "failed_sources": [],
   "trends": [
     {
@@ -34,8 +34,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时38分 ~ 22时09分]"
+          "appearance_count": 13,
+          "time_info": "[11时38分 ~ 23时40分]"
         },
         {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
@@ -56,9 +56,59 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "工信部公开征求《人工智能 安全治理 模型上下文协议应用安全要求》等121项行业标准计划项目意见。",
+          "url": "https://flash.jin10.com/detail/20260325191248950800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
+          "title": "SK海力士：得益于人工智能，内存需求预计将在中长期内扩大。",
+          "url": "https://flash.jin10.com/detail/20260325085413773800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "贝莱德CEO：不认为人工智能存在泡沫",
+          "url": "https://flash.jin10.com/detail/20260325152953852800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
+          "title": "瑞士央行：瑞士境内的人工智能（AI）应用尚未“绞杀”那么多的就业岗位。",
+          "url": "https://wallstreetcn.com/livenews/3076768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         }
       ]
     },
@@ -112,45 +162,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "工信部公开征求《人工智能 安全治理 模型上下文协议应用安全要求》等121项行业标准计划项目意见。",
-          "url": "https://flash.jin10.com/detail/20260325191248950800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时33分"
-        },
-        {
-          "title": "SK海力士：得益于人工智能，内存需求预计将在中长期内扩大。",
-          "url": "https://flash.jin10.com/detail/20260325085413773800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "贝莱德CEO：不认为人工智能存在泡沫",
-          "url": "https://flash.jin10.com/detail/20260325152953852800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
         }
       ]
     },
@@ -225,7 +236,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时09分"
         }

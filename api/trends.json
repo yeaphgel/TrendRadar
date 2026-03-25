@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T15:44:44.601662+08:00",
-  "total_titles_processed": 856,
+  "generated_at": "2026-03-25T16:35:38.603256+08:00",
+  "total_titles_processed": 962,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时38分 ~ 15时44分]"
+          "appearance_count": 6,
+          "time_info": "[11时38分 ~ 16时35分]"
         },
         {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
@@ -29,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时38分 ~ 15时44分]"
+          "appearance_count": 6,
+          "time_info": "[11时38分 ~ 16时35分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -42,8 +42,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时38分 ~ 15时44分]"
+          "appearance_count": 6,
+          "time_info": "[11时38分 ~ 16时35分]"
         }
       ]
     },
@@ -67,11 +67,12 @@
           "url": "https://www.cls.cn/detail/2323916",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 15时44分]"
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 16时35分]"
         },
         {
           "title": "深圳：到2028年AI服务器全产业链产品产能与出货量实现跨越式增长",
@@ -108,7 +109,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         }
@@ -124,11 +125,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时01分 ~ 15时44分]"
+          "appearance_count": 8,
+          "time_info": "[09时01分 ~ 16时35分]"
         },
         {
           "title": "Claude加入“龙虾大战” NASA押注月球基地、核动力飞船 | 环球市场",
@@ -138,8 +140,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 11时38分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 16时35分]"
         }
       ]
     },
@@ -154,7 +156,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         }
@@ -171,9 +173,26 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "营销",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "快手(01024.HK)：2025年第四季度，由AIGC营销素材带来的线上营销服务消耗金额达到人民币40亿元。",
+          "url": "https://flash.jin10.com/detail/20260325163347009800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         }
       ]
     },

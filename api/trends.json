@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T14:37:09.388665+08:00",
-  "total_titles_processed": 737,
+  "generated_at": "2026-03-25T15:44:44.601662+08:00",
+  "total_titles_processed": 856,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时38分 ~ 14时37分]"
+          "appearance_count": 5,
+          "time_info": "[11时38分 ~ 15时44分]"
         },
         {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
@@ -29,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时38分 ~ 14时37分]"
+          "appearance_count": 5,
+          "time_info": "[11时38分 ~ 15时44分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -42,8 +42,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时38分 ~ 14时37分]"
+          "appearance_count": 5,
+          "time_info": "[11时38分 ~ 15时44分]"
         }
       ]
     },
@@ -70,8 +70,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 14时37分]"
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 15时44分]"
         },
         {
           "title": "深圳：到2028年AI服务器全产业链产品产能与出货量实现跨越式增长",
@@ -83,6 +83,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "SK海力士：得益于人工智能，内存需求预计将在中长期内扩大。",
+          "url": "https://flash.jin10.com/detail/20260325085413773800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "贝莱德CEO：不认为人工智能存在泡沫",
+          "url": "https://flash.jin10.com/detail/20260325152953852800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         }
       ]
     },
@@ -99,8 +127,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时01分 ~ 14时37分]"
+          "appearance_count": 7,
+          "time_info": "[09时01分 ~ 15时44分]"
         },
         {
           "title": "Claude加入“龙虾大战” NASA押注月球基地、核动力飞船 | 环球市场",
@@ -116,19 +144,36 @@
       ]
     },
     {
-      "keyword_group": "人工智能",
+      "keyword_group": "grok",
       "match_count": 1,
       "titles": [
         {
-          "title": "SK海力士：得益于人工智能，内存需求预计将在中长期内扩大。",
-          "url": "https://flash.jin10.com/detail/20260325085413773800",
+          "title": "马斯克：下一版本的Grok Imagine将会非常出色。我们将加大投入。",
+          "url": "https://flash.jin10.com/detail/20260325152816240800",
           "source": "金十数据",
           "ranks": [
-            2
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时02分"
+          "time_info": "15时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克表示，X将暂停并重新考虑此前依据创作者在本国所获浏览量来更新创作者变现机制的决定。",
+          "url": "https://flash.jin10.com/detail/20260325153040129800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         }
       ]
     },

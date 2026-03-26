@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T14:54:32.649571+08:00",
-  "total_titles_processed": 740,
+  "generated_at": "2026-03-26T15:52:44.653515+08:00",
+  "total_titles_processed": 852,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时06分 ~ 14时54分]"
+          "appearance_count": 7,
+          "time_info": "[09时06分 ~ 15时52分]"
         },
         {
           "title": "美国邮政拟征收快递“燃油附加费” 苹果据称正在蒸馏谷歌模型 | 环球市场",
@@ -34,11 +34,12 @@
           "url": "https://www.cls.cn/detail/2325322",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时54分 ~ 15时52分]"
         }
       ]
     },
@@ -56,8 +57,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时06分 ~ 14时54分]"
+          "appearance_count": 7,
+          "time_info": "[09时06分 ~ 15时52分]"
         },
         {
           "title": "OpenAI支持人工智能初创公司Isara，寻求实现“机器人大军”技术突破",
@@ -84,6 +85,45 @@
       ]
     },
     {
+      "keyword_group": "AI",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "外交部：中国已是全球AI专利最大拥有国",
+          "url": "https://wallstreetcn.com/livenews/3077240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "中国禁止AI公司Manus两名高管离境？外交部回应",
+          "url": "https://flash.jin10.com/detail/20260326153632416800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "中国禁止AI公司Manus两名高管离境？外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3077236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -93,11 +133,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时07分 ~ 14时54分]"
+          "appearance_count": 6,
+          "time_info": "[12时07分 ~ 15时52分]"
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T09:06:49.623827+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-26T12:08:12.627346+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,23 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时06分 ~ 12时08分]"
+        },
+        {
           "title": "OpenAI支持人工智能初创公司Isara，寻求实现“机器人大军”技术突破",
           "url": "https://wallstreetcn.com/livenews/3076984",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时06分"
-        },
-        {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -54,8 +55,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时06分"
+          "appearance_count": 3,
+          "time_info": "[09时06分 ~ 12时08分]"
         },
         {
           "title": "美国邮政拟征收快递“燃油附加费” 苹果据称正在蒸馏谷歌模型 | 环球市场",
@@ -65,8 +66,25 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时06分"
+          "appearance_count": 3,
+          "time_info": "[09时06分 ~ 12时08分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
+          "url": "https://wallstreetcn.com/articles/3768419",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 12时08分]"
         }
       ]
     },

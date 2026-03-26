@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T16:40:03.799089+08:00",
-  "total_titles_processed": 963,
+  "generated_at": "2026-03-26T17:49:21.953134+08:00",
+  "total_titles_processed": 1080,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3768391",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 16时40分]"
+          "appearance_count": 10,
+          "time_info": "[09时06分 ~ 17时49分]"
         },
         {
           "title": "谷歌突破性算法震惊硅谷 华尔街激辩：内存需求要降温了？",
@@ -24,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时54分 ~ 16时40分]"
+          "appearance_count": 5,
+          "time_info": "[14时54分 ~ 17时49分]"
         },
         {
           "title": "美国邮政拟征收快递“燃油附加费” 苹果据称正在蒸馏谷歌模型 | 环球市场",
@@ -55,11 +57,12 @@
             12,
             13,
             14,
-            15
+            15,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 16时40分]"
+          "appearance_count": 10,
+          "time_info": "[09时06分 ~ 17时49分]"
         },
         {
           "title": "OpenAI支持人工智能初创公司Isara，寻求实现“机器人大军”技术突破",
@@ -107,7 +110,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -174,11 +177,12 @@
           "ranks": [
             8,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时07分 ~ 16时40分]"
+          "appearance_count": 9,
+          "time_info": "[12时07分 ~ 17时49分]"
         }
       ]
     },
@@ -193,7 +197,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         }

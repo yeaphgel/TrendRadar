@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T12:08:12.627346+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2026-03-26T13:55:08.214051+08:00",
+  "total_titles_processed": 637,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时06分 ~ 12时08分]"
+          "appearance_count": 5,
+          "time_info": "[09时06分 ~ 13时55分]"
         },
         {
           "title": "OpenAI支持人工智能初创公司Isara，寻求实现“机器人大军”技术突破",
@@ -55,8 +56,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时06分 ~ 12时08分]"
+          "appearance_count": 5,
+          "time_info": "[09时06分 ~ 13时55分]"
         },
         {
           "title": "美国邮政拟征收快递“燃油附加费” 苹果据称正在蒸馏谷歌模型 | 环球市场",
@@ -83,8 +84,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 12时08分]"
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 13时55分]"
         }
       ]
     },

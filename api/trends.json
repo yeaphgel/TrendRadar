@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T17:49:21.953134+08:00",
-  "total_titles_processed": 1080,
+  "generated_at": "2026-03-26T18:40:47.049543+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时06分 ~ 17时49分]"
+          "appearance_count": 11,
+          "time_info": "[09时06分 ~ 18时40分]"
         },
         {
           "title": "谷歌突破性算法震惊硅谷 华尔街激辩：内存需求要降温了？",
@@ -29,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时54分 ~ 17时49分]"
+          "appearance_count": 6,
+          "time_info": "[14时54分 ~ 18时40分]"
         },
         {
           "title": "美国邮政拟征收快递“燃油附加费” 苹果据称正在蒸馏谷歌模型 | 环球市场",
@@ -61,8 +62,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时06分 ~ 17时49分]"
+          "appearance_count": 11,
+          "time_info": "[09时06分 ~ 18时40分]"
         },
         {
           "title": "OpenAI支持人工智能初创公司Isara，寻求实现“机器人大军”技术突破",
@@ -181,8 +182,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时07分 ~ 17时49分]"
+          "appearance_count": 10,
+          "time_info": "[12时07分 ~ 18时40分]"
         }
       ]
     },

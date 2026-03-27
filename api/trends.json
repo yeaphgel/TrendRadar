@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T12:08:43.159519+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-03-27T13:55:21.525970+08:00",
+  "total_titles_processed": 634,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时06分 ~ 12时08分]"
+          "appearance_count": 3,
+          "time_info": "[09时06分 ~ 13时55分]"
         },
         {
           "title": "据华尔街日报：消息人士称，SpaceX IPO预计融资400亿至800亿美元。SpaceX考虑在股票配售中给予马斯克旗下其他公司投资者优惠待遇。",
@@ -52,22 +53,24 @@
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 13时55分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
           "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B8%8E%E8%B0%B7%E6%AD%8C%E8%AE%BA%E6%96%87%E6%9C%89%E5%85%B3%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 13时55分]"
         }
       ]
     },
@@ -82,7 +85,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -93,9 +96,37 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-03-27）",
+          "url": "https://flash.jin10.com/detail/20260327115446579800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "马斯克：人工智能可能在约3年后超越全人类智能。",
+          "url": "https://flash.jin10.com/detail/20260327132350419800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         }
       ]
     },
@@ -109,11 +140,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时06分 ~ 12时08分]"
+          "appearance_count": 3,
+          "time_info": "[09时06分 ~ 13时55分]"
         }
       ]
     },
@@ -131,23 +163,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-03-27）",
-          "url": "https://flash.jin10.com/detail/20260327115446579800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
         }
       ]
     },

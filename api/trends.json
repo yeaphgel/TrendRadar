@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T16:37:06.700336+08:00",
-  "total_titles_processed": 918,
+  "generated_at": "2026-03-27T17:42:26.414947+08:00",
+  "total_titles_processed": 1032,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             5,
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时08分 ~ 16时37分]"
+          "appearance_count": 7,
+          "time_info": "[12时08分 ~ 17时42分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -29,11 +30,12 @@
             12,
             15,
             20,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时08分 ~ 16时37分]"
+          "appearance_count": 7,
+          "time_info": "[12时08分 ~ 17时42分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -45,8 +47,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时54分 ~ 16时37分]"
+          "appearance_count": 5,
+          "time_info": "[14时54分 ~ 17时42分]"
+        },
+        {
+          "title": "谷歌新算法掀起“存储热降温恐慌” 华尔街分析师却不慌",
+          "url": "https://www.cls.cn/detail/2326397",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时36分 ~ 17时42分]"
         },
         {
           "title": "3月27日投资避雷针：谷歌推出压缩算法TurboQuant 美股存储板块遭重挫",
@@ -54,17 +68,6 @@
           "source": "财联社热门",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 16时37分]"
-        },
-        {
-          "title": "谷歌新算法掀起“存储热降温恐慌” 华尔街分析师却不慌",
-          "url": "https://www.cls.cn/detail/2326397",
-          "source": "财联社热门",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 2,

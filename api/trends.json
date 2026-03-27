@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T15:51:51.111534+08:00",
-  "total_titles_processed": 829,
+  "generated_at": "2026-03-27T16:37:06.700336+08:00",
+  "total_titles_processed": 918,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "UP主实测谷歌压缩算法",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时08分 ~ 15时51分]"
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 16时37分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -28,11 +28,12 @@
             5,
             12,
             15,
-            20
+            20,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时08分 ~ 15时51分]"
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 16时37分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -40,11 +41,34 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            10
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时54分 ~ 16时37分]"
+        },
+        {
+          "title": "3月27日投资避雷针：谷歌推出压缩算法TurboQuant 美股存储板块遭重挫",
+          "url": "https://www.cls.cn/detail/2326356",
+          "source": "财联社热门",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时54分 ~ 15时51分]"
+          "time_info": "[16时36分 ~ 16时37分]"
+        },
+        {
+          "title": "谷歌新算法掀起“存储热降温恐慌” 华尔街分析师却不慌",
+          "url": "https://www.cls.cn/detail/2326397",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 16时37分]"
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T17:42:26.414947+08:00",
-  "total_titles_processed": 1032,
+  "generated_at": "2026-03-27T18:36:17.669693+08:00",
+  "total_titles_processed": 1140,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             4,
             5,
             2,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时08分 ~ 17时42分]"
+          "appearance_count": 8,
+          "time_info": "[12时08分 ~ 18时36分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -31,11 +32,12 @@
             15,
             20,
             13,
-            17
+            17,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时08分 ~ 17时42分]"
+          "appearance_count": 8,
+          "time_info": "[12时08分 ~ 18时36分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -44,11 +46,12 @@
           "ranks": [
             8,
             10,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时54分 ~ 17时42分]"
+          "appearance_count": 6,
+          "time_info": "[14时54分 ~ 18时36分]"
         },
         {
           "title": "谷歌新算法掀起“存储热降温恐慌” 华尔街分析师却不慌",
@@ -56,11 +59,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时36分 ~ 17时42分]"
+          "appearance_count": 4,
+          "time_info": "[16时36分 ~ 18时36分]"
         },
         {
           "title": "3月27日投资避雷针：谷歌推出压缩算法TurboQuant 美股存储板块遭重挫",
@@ -223,6 +227,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
+          "url": "https://news.ifeng.com/c/8rpvER227kd",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T13:17:19.101235+08:00",
-  "total_titles_processed": 590,
+  "generated_at": "2026-03-28T14:15:29.527994+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
@@ -35,22 +35,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时35分 ~ 13时17分]"
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 14时15分]"
         },
         {
           "title": "雄安“人工智能+”产业生态融合发展论坛举行",
           "url": "https://flash.jin10.com/detail/20260328122058917800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 14时15分]"
         },
         {
           "title": "人工智能机器人实验室（AI Robotics Lab）洽谈按110亿美元估值融资。",
@@ -70,7 +72,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         }
@@ -90,8 +92,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 14时15分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -100,23 +102,12 @@
           "ranks": [
             14,
             18,
-            22
+            22,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 13时17分]"
-        },
-        {
-          "title": "内存股大跌与谷歌论文有关吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B8%8E%E8%B0%B7%E6%AD%8C%E8%AE%BA%E6%96%87%E6%9C%89%E5%85%B3%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 14时15分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -125,11 +116,25 @@
           "ranks": [
             18,
             16,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 14时15分]"
+        },
+        {
+          "title": "内存股大跌与谷歌论文有关吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B8%8E%E8%B0%B7%E6%AD%8C%E8%AE%BA%E6%96%87%E6%9C%89%E5%85%B3%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 14时15分]"
         }
       ]
     },

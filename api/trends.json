@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T16:34:19.001217+08:00",
-  "total_titles_processed": 794,
+  "generated_at": "2026-03-28T17:25:18.575535+08:00",
+  "total_titles_processed": 847,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             9,
             13,
             14,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时35分 ~ 16时34分]"
+          "appearance_count": 7,
+          "time_info": "[11时35分 ~ 17时25分]"
         },
         {
           "title": "国家人工智能应用上海中试基地发布五大核心创新成果",
@@ -83,7 +84,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "UP主实测谷歌压缩算法",
@@ -94,11 +95,12 @@
             18,
             22,
             13,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 16时34分]"
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 17时25分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -112,8 +114,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 16时34分]"
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 17时25分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -126,8 +128,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 16时34分]"
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 17时25分]"
         },
         {
           "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",
@@ -141,6 +143,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时01分 ~ 14时15分]"
+        },
+        {
+          "title": "谷歌推出压缩算法 TurboQuant，宣称实现约 6 倍内存节省，会成为大模型端侧落地的突破口吗？",
+          "url": "https://www.zhihu.com/question/2020455049218712383",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         }
       ]
     },

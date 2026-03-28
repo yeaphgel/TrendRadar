@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T17:57:46.487169+08:00",
-  "total_titles_processed": 882,
+  "generated_at": "2026-03-28T18:23:01.412955+08:00",
+  "total_titles_processed": 906,
   "failed_sources": [],
   "trends": [
     {
@@ -19,11 +19,12 @@
             14,
             18,
             20,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时35分 ~ 17时57分]"
+          "appearance_count": 9,
+          "time_info": "[11时35分 ~ 18时23分]"
         },
         {
           "title": "国家人工智能应用上海中试基地发布五大核心创新成果",
@@ -100,8 +101,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时01分 ~ 17时57分]"
+          "appearance_count": 12,
+          "time_info": "[09时01分 ~ 18时23分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -112,11 +113,12 @@
             16,
             17,
             14,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时01分 ~ 17时57分]"
+          "appearance_count": 12,
+          "time_info": "[09时01分 ~ 18时23分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -127,11 +129,12 @@
             20,
             18,
             24,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时01分 ~ 17时57分]"
+          "appearance_count": 12,
+          "time_info": "[09时01分 ~ 18时23分]"
         },
         {
           "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",
@@ -154,8 +157,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 17时57分]"
+          "appearance_count": 4,
+          "time_info": "[17时25分 ~ 18时23分]"
         }
       ]
     },

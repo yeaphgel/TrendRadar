@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T14:15:29.527994+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2026-03-28T15:28:08.282833+08:00",
+  "total_titles_processed": 722,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "ranks": [
             1,
             7,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时35分 ~ 14时15分]"
+          "appearance_count": 4,
+          "time_info": "[11时35分 ~ 15时28分]"
         },
         {
           "title": "雄安“人工智能+”产业生态融合发展论坛举行",
@@ -83,19 +84,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",
-          "url": "https://www.cls.cn/detail/2327153",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时01分 ~ 14时15分]"
-        },
-        {
           "title": "UP主实测谷歌压缩算法",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
           "source": "bilibili 热搜",
@@ -103,11 +91,12 @@
             14,
             18,
             22,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时01分 ~ 14时15分]"
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 15时28分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -120,8 +109,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时01分 ~ 14时15分]"
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 15时28分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -131,6 +120,19 @@
             15,
             20,
             18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 15时28分]"
+        },
+        {
+          "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",
+          "url": "https://www.cls.cn/detail/2327153",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11,
+            13
           ],
           "is_new": false,
           "appearance_count": 4,

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T19:18:01.785493+08:00",
-  "total_titles_processed": 976,
+  "generated_at": "2026-03-28T19:48:24.738241+08:00",
+  "total_titles_processed": 1006,
   "failed_sources": [],
   "trends": [
     {
@@ -101,8 +101,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时01分 ~ 19时18分]"
+          "appearance_count": 17,
+          "time_info": "[09时01分 ~ 19时48分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -117,8 +117,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时01分 ~ 19时18分]"
+          "appearance_count": 17,
+          "time_info": "[09时01分 ~ 19时48分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -132,11 +132,12 @@
             22,
             21,
             23,
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时01分 ~ 19时18分]"
+          "appearance_count": 17,
+          "time_info": "[09时01分 ~ 19时48分]"
         },
         {
           "title": "谷歌推出压缩算法 TurboQuant，宣称实现约 6 倍内存节省，会成为大模型端侧落地的突破口吗？",
@@ -144,11 +145,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时25分 ~ 19时18分]"
+          "appearance_count": 9,
+          "time_info": "[17时25分 ~ 19时48分]"
         },
         {
           "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T22:25:16.223047+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2026-03-29T22:57:48.596386+08:00",
+  "total_titles_processed": 1144,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[13时56分 ~ 22时25分]"
+          "appearance_count": 20,
+          "time_info": "[13时56分 ~ 22时57分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -36,19 +37,20 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[12时13分 ~ 22时25分]"
+          "appearance_count": 21,
+          "time_info": "[12时13分 ~ 22时57分]"
         },
         {
           "title": "新算法公布,谷歌干崩股市",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
           "source": "贴吧",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时58分 ~ 22时25分]"
+          "appearance_count": 9,
+          "time_info": "[18时58分 ~ 22时57分]"
         },
         {
           "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
@@ -122,6 +124,35 @@
       ]
     },
     {
+      "keyword_group": "Anthropic",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。",
+          "url": "https://wallstreetcn.com/livenews/3078735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时25分]"
+        },
+        {
+          "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3078735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -130,11 +161,12 @@
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时24分 ~ 22时25分]"
+          "appearance_count": 3,
+          "time_info": "[22时24分 ~ 22时57分]"
         }
       ]
     },
@@ -150,8 +182,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时26分 ~ 22时25分]"
+          "appearance_count": 5,
+          "time_info": "[20时26分 ~ 22时57分]"
         }
       ]
     },
@@ -169,24 +201,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时13分 ~ 14时50分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Anthropic",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。",
-          "url": "https://wallstreetcn.com/livenews/3078735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时32分 ~ 22时25分]"
         }
       ]
     }

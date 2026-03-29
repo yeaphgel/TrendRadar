@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T17:03:29.478900+08:00",
-  "total_titles_processed": 790,
+  "generated_at": "2026-03-29T17:59:02.428338+08:00",
+  "total_titles_processed": 843,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时56分 ~ 17时03分]"
+          "appearance_count": 9,
+          "time_info": "[13时56分 ~ 17时59分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -28,11 +28,12 @@
             3,
             15,
             16,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时13分 ~ 17时03分]"
+          "appearance_count": 10,
+          "time_info": "[12时13分 ~ 17时59分]"
         },
         {
           "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
@@ -83,11 +84,12 @@
             9,
             12,
             15,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 17时03分]"
+          "appearance_count": 7,
+          "time_info": "[12时13分 ~ 17时59分]"
         },
         {
           "title": "马斯克：特斯拉人工智能自动驾驶的安全性将比人类驾驶高出10倍以上。",

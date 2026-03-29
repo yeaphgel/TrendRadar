@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T19:49:51.833722+08:00",
-  "total_titles_processed": 965,
+  "generated_at": "2026-03-29T20:26:46.567312+08:00",
+  "total_titles_processed": 1000,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时56分 ~ 19时49分]"
+          "appearance_count": 16,
+          "time_info": "[13时56分 ~ 20时26分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -30,11 +30,12 @@
             16,
             20,
             18,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时13分 ~ 19时49分]"
+          "appearance_count": 17,
+          "time_info": "[12时13分 ~ 20时26分]"
         },
         {
           "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
@@ -55,8 +56,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时58分 ~ 19时49分]"
+          "appearance_count": 5,
+          "time_info": "[18时58分 ~ 20时26分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -115,6 +116,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时50分 ~ 15时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "所有“联创”均离职，马斯克“彻底重组”xAI",
+          "url": "https://wallstreetcn.com/articles/3768659",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         }
       ]
     },

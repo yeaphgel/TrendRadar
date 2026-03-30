@@ -1,172 +1,72 @@
 {
-  "generated_at": "2026-03-29T22:57:48.596386+08:00",
-  "total_titles_processed": 1144,
+  "generated_at": "2026-03-30T09:10:10.396257+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
       "titles": [
         {
-          "title": "谷歌称可节省 6 倍内存的 TurboQuant 论文疑似造假，RaBitQ 作者独家发文",
-          "url": "https://zhuanlan.zhihu.com/p/2020969476166808284",
+          "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，怎么回事？",
+          "url": "https://www.zhihu.com/question/2021724542909903612",
           "source": "知乎",
           "ranks": [
-            7,
-            5,
-            8
+            10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[13时56分 ~ 22时57分]"
+          "appearance_count": 2,
+          "time_info": "[09时09分 ~ 09时10分]"
+        },
+        {
+          "title": "DeepSeek公告服务出现重大中断",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%85%AC%E5%91%8A%E6%9C%8D%E5%8A%A1%E5%87%BA%E7%8E%B0%E9%87%8D%E5%A4%A7%E4%B8%AD%E6%96%AD%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时09分 ~ 09时10分]"
+        },
+        {
+          "title": "DeepSeek“崩了”",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%B4%A9%E4%BA%86%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时09分 ~ 09时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "新算法公布,谷歌干崩股市",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时09分 ~ 09时10分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
           "source": "bilibili 热搜",
           "ranks": [
-            8,
-            3,
-            15,
-            16,
-            20,
-            18,
-            17,
-            19,
-            26,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[12时13分 ~ 22时57分]"
-        },
-        {
-          "title": "新算法公布,谷歌干崩股市",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时58分 ~ 22时57分]"
-        },
-        {
-          "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
-          "url": "https://www.zhihu.com/question/2021000785224287940",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时56分 ~ 17时03分]"
-        },
-        {
-          "title": "谷歌TurboQuant论文解读",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            28
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时09分 ~ 12时13分]"
-        },
-        {
-          "title": "UP主实测谷歌压缩算法",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "上海人工智能实验室联合相关主体启动“超智融合算力”平台",
-          "url": "https://wallstreetcn.com/livenews/3078656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            9,
-            12,
-            15,
-            21,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时13分 ~ 18时27分]"
-        },
-        {
-          "title": "马斯克：特斯拉人工智能自动驾驶的安全性将比人类驾驶高出10倍以上。",
-          "url": "https://flash.jin10.com/detail/20260329141015916800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时50分 ~ 15时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Anthropic",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。",
-          "url": "https://wallstreetcn.com/livenews/3078735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时32分 ~ 22时25分]"
-        },
-        {
-          "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3078735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek崩了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时24分 ~ 22时57分]"
+          "time_info": "[09时09分 ~ 09时10分]"
         }
       ]
     },
@@ -175,32 +75,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "所有“联创”均离职，马斯克“彻底重组”xAI",
-          "url": "https://wallstreetcn.com/articles/3768659",
-          "source": "华尔街见闻",
+          "title": "马斯克撕破了一块遮羞布",
+          "url": "https://news.ifeng.com/c/8ruED34F9fY",
+          "source": "凤凰网",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时26分 ~ 22时57分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "过于火爆！Anthropic算力吃紧，本周限制Claude用户高峰时段用量",
-          "url": "https://wallstreetcn.com/articles/3768640",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 14时50分]"
+          "appearance_count": 2,
+          "time_info": "[09时09分 ~ 09时10分]"
         }
       ]
     }

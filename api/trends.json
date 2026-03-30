@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T19:45:11.672385+08:00",
-  "total_titles_processed": 1141,
+  "generated_at": "2026-03-30T20:45:42.195628+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             12,
             13,
             20,
-            25
+            25,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时20分 ~ 19时45分]"
+          "appearance_count": 9,
+          "time_info": "[12时20分 ~ 20时45分]"
         },
         {
           "title": "DeepSeek“崩了”一夜，相关功能仍无法正常使用",
@@ -131,11 +132,12 @@
             22,
             25,
             15,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时09分 ~ 19时45分]"
+          "appearance_count": 11,
+          "time_info": "[09时09分 ~ 20时45分]"
         },
         {
           "title": "新算法公布,谷歌干崩股市",
@@ -216,8 +218,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时09分 ~ 19时45分]"
+          "appearance_count": 11,
+          "time_info": "[09时09分 ~ 20时45分]"
         },
         {
           "title": "印度否认“马斯克参与特朗普与莫迪通话”",

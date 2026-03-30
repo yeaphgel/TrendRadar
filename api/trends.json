@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T16:06:43.945800+08:00",
-  "total_titles_processed": 776,
+  "generated_at": "2026-03-30T17:52:30.769938+08:00",
+  "total_titles_processed": 926,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时20分 ~ 16时06分]"
+          "appearance_count": 5,
+          "time_info": "[12时20分 ~ 17时52分]"
         },
         {
           "title": "DeepSeek宕机12小时后恢复服务",
@@ -25,11 +26,12 @@
           "source": "今日头条",
           "ranks": [
             12,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时20分 ~ 16时06分]"
+          "appearance_count": 5,
+          "time_info": "[12时20分 ~ 17时52分]"
         },
         {
           "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，在宕机 12 小时后恢复服务，怎么回事？",
@@ -41,8 +43,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时20分 ~ 16时06分]"
+          "appearance_count": 5,
+          "time_info": "[12时20分 ~ 17时52分]"
         },
         {
           "title": "豆包谈DeepSeek频繁崩溃",
@@ -164,11 +166,12 @@
             14,
             20,
             22,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时09分 ~ 16时06分]"
+          "appearance_count": 7,
+          "time_info": "[09时09分 ~ 17时52分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -178,11 +181,12 @@
             24,
             19,
             22,
-            25
+            25,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时09分 ~ 16时06分]"
+          "appearance_count": 7,
+          "time_info": "[09时09分 ~ 17时52分]"
         }
       ]
     },
@@ -198,8 +202,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时09分 ~ 16时06分]"
+          "appearance_count": 7,
+          "time_info": "[09时09分 ~ 17时52分]"
         },
         {
           "title": "印度否认“马斯克参与特朗普与莫迪通话”",

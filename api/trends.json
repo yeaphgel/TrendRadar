@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T17:52:30.769938+08:00",
-  "total_titles_processed": 926,
+  "generated_at": "2026-03-30T18:53:21.074333+08:00",
+  "total_titles_processed": 1037,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             12,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时20分 ~ 17时52分]"
+          "appearance_count": 6,
+          "time_info": "[12时20分 ~ 18时53分]"
         },
         {
           "title": "DeepSeek宕机12小时后恢复服务",
@@ -30,8 +31,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时20分 ~ 17时52分]"
+          "appearance_count": 6,
+          "time_info": "[12时20分 ~ 18时53分]"
         },
         {
           "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，在宕机 12 小时后恢复服务，怎么回事？",
@@ -116,6 +117,54 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌AI内存压缩算法遭质疑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            19,
+            22,
+            25,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时09分 ~ 18时53分]"
+        },
+        {
+          "title": "新算法公布,谷歌干崩股市",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            20,
+            22,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时09分 ~ 17时52分]"
+        },
+        {
+          "title": "带崩全球存储股的谷歌论文陷学术争议，中国学者指其“严重失实”且“知错不改”：使用了我们的方法，但刻意回避相似性",
+          "url": "https://wallstreetcn.com/livenews/3079231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人工智能",
       "match_count": 3,
       "titles": [
@@ -155,42 +204,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "新算法公布,谷歌干崩股市",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            20,
-            22,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时09分 ~ 17时52分]"
-        },
-        {
-          "title": "谷歌AI内存压缩算法遭质疑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            19,
-            22,
-            25,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时09分 ~ 17时52分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "马斯克",
       "match_count": 2,
       "titles": [
@@ -202,8 +215,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时09分 ~ 17时52分]"
+          "appearance_count": 8,
+          "time_info": "[09时09分 ~ 18时53分]"
         },
         {
           "title": "印度否认“马斯克参与特朗普与莫迪通话”",

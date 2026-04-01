@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T18:46:36.247569+08:00",
-  "total_titles_processed": 1098,
+  "generated_at": "2026-04-01T19:41:58.233004+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Claude",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "史诗级泄露！51.2万行，Claude Code源代码开源了！",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时14分 ~ 18时46分]"
+          "appearance_count": 12,
+          "time_info": "[09时14分 ~ 19时41分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -26,11 +26,25 @@
           "ranks": [
             12,
             8,
-            4
+            4,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时58分 ~ 18时46分]"
+          "appearance_count": 7,
+          "time_info": "[15时58分 ~ 19时41分]"
+        },
+        {
+          "title": "ClaudeCode源码泄露",
+          "url": "https://www.douyin.com/hot/2451216",
+          "source": "抖音",
+          "ranks": [
+            8,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时58分 ~ 19时41分]"
         },
         {
           "title": "深度解析Claude源码泄漏",
@@ -44,18 +58,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时14分 ~ 14时09分]"
-        },
-        {
-          "title": "ClaudeCode源码泄露",
-          "url": "https://www.douyin.com/hot/2451216",
-          "source": "抖音",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时58分 ~ 18时46分]"
         },
         {
           "title": "Anthropic意外泄露了Claude AI智能体的源代码",
@@ -91,13 +93,24 @@
           "time_info": "[12时24分 ~ 12时25分]"
         },
         {
+          "title": "Claude Code源码分析与复刻实现",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E4%B8%8E%E5%A4%8D%E5%88%BB%E5%AE%9E%E7%8E%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "Claude Opus是否会淘汰程序员",
           "url": "https://search.bilibili.com/all?keyword=Claude%20Opus%E6%98%AF%E5%90%A6%E4%BC%9A%E6%B7%98%E6%B1%B0%E7%A8%8B%E5%BA%8F%E5%91%98",
           "source": "bilibili 热搜",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         }
@@ -202,8 +215,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时58分 ~ 18时46分]"
+          "appearance_count": 5,
+          "time_info": "[15时58分 ~ 19时41分]"
         }
       ]
     },
@@ -220,8 +233,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时24分 ~ 18时46分]"
+          "appearance_count": 11,
+          "time_info": "[12时24分 ~ 19时41分]"
         },
         {
           "title": "中信证券：DeepSeek下一代新模型有望延续高性价比开源模型路线",

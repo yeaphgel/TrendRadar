@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T22:14:35.359789+08:00",
-  "total_titles_processed": 1486,
+  "generated_at": "2026-04-02T23:32:38.964226+08:00",
+  "total_titles_processed": 1579,
   "failed_sources": [],
   "trends": [
     {
@@ -24,8 +24,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时04分 ~ 22时14分]"
+          "appearance_count": 14,
+          "time_info": "[09时04分 ~ 23时32分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -38,11 +38,12 @@
             23,
             30,
             28,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时04分 ~ 22时14分]"
+          "appearance_count": 12,
+          "time_info": "[09时04分 ~ 23时32分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
@@ -55,11 +56,12 @@
             27,
             29,
             28,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时04分 ~ 22时14分]"
+          "appearance_count": 12,
+          "time_info": "[09时04分 ~ 23时32分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
@@ -72,11 +74,12 @@
             27,
             28,
             24,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时04分 ~ 22时14分]"
+          "appearance_count": 9,
+          "time_info": "[09时04分 ~ 23时32分]"
         },
         {
           "title": "深挖Claude Code有何隐藏秘密",
@@ -134,15 +137,15 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时14分 ~ 23时32分]"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "商务部：持续深化中国与东盟国家在云基础设施、人工智能、绿色电源等前沿领域合作",
@@ -166,6 +169,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "美联储洛根：人工智能应有助于提升未来生产率水平。",
+          "url": "https://flash.jin10.com/detail/20260402225841011800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
+          "title": "美联储洛根：人工智能带来的生产率提升尚未实现。",
+          "url": "https://flash.jin10.com/detail/20260402225822373800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "国家药监局：到2030年初步构建药品监管与人工智能融合创新体系",
@@ -242,7 +267,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时14分"
         }
@@ -305,7 +330,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时14分"
         }

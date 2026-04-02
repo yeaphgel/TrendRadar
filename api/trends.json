@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T17:49:04.939246+08:00",
-  "total_titles_processed": 1057,
+  "generated_at": "2026-04-02T18:40:52.936856+08:00",
+  "total_titles_processed": 1147,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             19,
             27,
             26,
-            28
+            28,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时04分 ~ 17时49分]"
+          "appearance_count": 9,
+          "time_info": "[09时04分 ~ 18时40分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -33,11 +34,42 @@
             20,
             25,
             23,
-            30
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时04分 ~ 18时40分]"
+        },
+        {
+          "title": "Claude Code源码分析与复刻实现",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E4%B8%8E%E5%A4%8D%E5%88%BB%E5%AE%9E%E7%8E%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            18,
+            22,
+            27,
+            28,
+            24
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时04分 ~ 17时49分]"
+          "time_info": "[09时04分 ~ 18时40分]"
+        },
+        {
+          "title": "Claude Opus是否会淘汰程序员",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Opus%E6%98%AF%E5%90%A6%E4%BC%9A%E6%B7%98%E6%B1%B0%E7%A8%8B%E5%BA%8F%E5%91%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            24,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时04分 ~ 18时40分]"
         },
         {
           "title": "深挖Claude Code有何隐藏秘密",
@@ -50,34 +82,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时04分 ~ 12时03分]"
-        },
-        {
-          "title": "Claude Code源码分析与复刻实现",
-          "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E4%B8%8E%E5%A4%8D%E5%88%BB%E5%AE%9E%E7%8E%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            18,
-            22,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时04分 ~ 16时51分]"
-        },
-        {
-          "title": "Claude Opus是否会淘汰程序员",
-          "url": "https://search.bilibili.com/all?keyword=Claude%20Opus%E6%98%AF%E5%90%A6%E4%BC%9A%E6%B7%98%E6%B1%B0%E7%A8%8B%E5%BA%8F%E5%91%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时04分 ~ 16时51分]"
         },
         {
           "title": "ClaudeCode里到底藏了什么",
@@ -218,11 +222,12 @@
           "url": "https://www.cls.cn/detail/2333025",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 17时49分]"
+          "appearance_count": 3,
+          "time_info": "[17时48分 ~ 18时40分]"
         }
       ]
     }

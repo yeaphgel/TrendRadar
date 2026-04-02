@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T20:41:43.857879+08:00",
-  "total_titles_processed": 1366,
+  "generated_at": "2026-04-02T22:14:35.359789+08:00",
+  "total_titles_processed": 1486,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Claude",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -20,11 +20,12 @@
             26,
             28,
             25,
-            30
+            30,
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时04分 ~ 20时41分]"
+          "appearance_count": 13,
+          "time_info": "[09时04分 ~ 22时14分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -36,11 +37,12 @@
             25,
             23,
             30,
-            28
+            28,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时04分 ~ 19时37分]"
+          "appearance_count": 11,
+          "time_info": "[09时04分 ~ 22时14分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
@@ -52,11 +54,12 @@
             26,
             27,
             29,
-            28
+            28,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时04分 ~ 20时41分]"
+          "appearance_count": 11,
+          "time_info": "[09时04分 ~ 22时14分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
@@ -68,11 +71,12 @@
             22,
             27,
             28,
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时04分 ~ 18时40分]"
+          "appearance_count": 8,
+          "time_info": "[09时04分 ~ 22时14分]"
         },
         {
           "title": "深挖Claude Code有何隐藏秘密",
@@ -122,6 +126,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时04分 ~ 13时54分]"
+        },
+        {
+          "title": "用Claude Code源码自制客户端",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8Claude%20Code%E6%BA%90%E7%A0%81%E8%87%AA%E5%88%B6%E5%AE%A2%E6%88%B7%E7%AB%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         }
       ]
     },
@@ -199,9 +214,37 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "增长",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Sora退出 可灵AI周度活跃用户环比增长",
+          "url": "https://flash.jin10.com/detail/20260402132833065800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "滴滴AI打车用户增长37倍",
+          "url": "https://wallstreetcn.com/livenews/3081601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         }
       ]
     },
@@ -228,7 +271,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         }
@@ -252,19 +295,19 @@
       ]
     },
     {
-      "keyword_group": "增长",
+      "keyword_group": "Anthropic",
       "match_count": 1,
       "titles": [
         {
-          "title": "Sora退出 可灵AI周度活跃用户环比增长",
-          "url": "https://flash.jin10.com/detail/20260402132833065800",
+          "title": "美国司法部就特朗普政府对Anthropic的联邦禁令提起上诉。",
+          "url": "https://flash.jin10.com/detail/20260402214221520800",
           "source": "金十数据",
           "ranks": [
-            16
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时54分"
+          "time_info": "22时14分"
         }
       ]
     }

@@ -1,402 +1,94 @@
 {
-  "generated_at": "2026-04-01T23:49:26.259198+08:00",
-  "total_titles_processed": 1558,
+  "generated_at": "2026-04-02T09:04:53.492228+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "人工智能",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "韩国总统府：韩国与印度尼西亚签署数字、人工智能和医疗保健合作备忘录，以加强技术合作。",
-          "url": "https://flash.jin10.com/detail/20260401115019637800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "美国圣路易斯联储主席Musalem：若伊朗冲突结束，将关注持续存在的风险溢价。 冲突结束后需要一段时间才能恢复生产能力。 人工智能目前对经济的影响主要体现在资本支出热潮上。",
-          "url": "https://wallstreetcn.com/livenews/3080961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        },
-        {
-          "title": "英国央行：金融体系迄今表现出韧性，但风险上升，多项脆弱性可能同时暴露。 中东冲突已对全球经济造成“重大负面供应冲击”。 主权债务市场、高风险资产估值、私募信贷领域仍存在风险。 外债市场或股票估值出现冲击，可能传导至英国。 MFS违约凸显高风险信贷市场的弱点。 美国科技公司估值“依然明显偏高”，伊朗冲突加剧风险，因AI数据中心和供应链能源消耗巨大。 市场预计中东冲突为短期事件，但对其走势和长期影响存在高度不确定性。 按当前市场利率预期，到2028年第四季度，58%的英国房贷持有人还款将增加，且大多数幅度较为温和。 银行使用人工智能带来的风险可能会“迅速增加”。",
-          "url": "https://wallstreetcn.com/livenews/3080798",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "微软(MSFT.O)：预计到2029年在新加坡的云和人工智能基础设施上投入55亿美元。",
-          "url": "https://flash.jin10.com/detail/20260401153238869800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "美联储穆萨莱姆：人工智能对经济的影响主要体现在数据中心的扩建和能源投资上。",
-          "url": "https://flash.jin10.com/detail/20260401215234450800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        },
-        {
-          "title": "市场消息：微软将在泰国投资超过10亿美元用于人工智能基础设施建设。",
-          "url": "https://flash.jin10.com/detail/20260401215057298800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        },
-        {
-          "title": "韩国总统府：韩国与印度尼西亚将双边关系提升为“特别全面战略伙伴关系”，双方同意在贸易、国防、投资、人工智能、核电站及能源转型等领域开展合作。",
-          "url": "https://wallstreetcn.com/livenews/3080471",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "港股人工智能板块午后冲高，智谱(02513.HK)涨近30%，MINIMAX-W(00100.HK)涨超16%，兆易创新(03986.HK)涨超8%，哔哩哔哩(09626.HK)涨超7%，百度(09888.HK)涨超5%。",
-          "url": "https://flash.jin10.com/detail/20260401132954043800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "美国圣路易斯联储主席Musalem：我决心将通货膨胀率降至 2%。 预计未来两个季度关税影响将逐渐减弱。 降低通胀有利于经济增长。 长期通胀预期仍然看起来得到锚定。 尚未看到石油冲击将如何在经济中传导。 部分潜在的通胀压力无法用关税来解释。 目前尚无法在宏观层面看到人工智能带来的生产力提升。 我们的职责不是以较低的利率为赤字融资。",
-          "url": "https://wallstreetcn.com/livenews/3080943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        },
-        {
-          "title": "美联储理事Barr：目前人工智能还不太可能提高美国的生产效率。 人工智能对劳动力市场的影响迄今相对较小。",
-          "url": "https://wallstreetcn.com/livenews/3080941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "Claude",
-      "match_count": 10,
+      "match_count": 6,
       "titles": [
         {
-          "title": "史诗级泄露！51.2万行，Claude Code源代码开源了！",
-          "url": "https://wallstreetcn.com/articles/3768915",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时14分 ~ 22时24分]"
-        },
-        {
-          "title": "UP主复现Claude Code代码漏洞",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%8E%B0Claude%20Code%E4%BB%A3%E7%A0%81%E6%BC%8F%E6%B4%9E",
+          "title": "深挖Claude Code有何隐藏秘密",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E6%8C%96Claude%20Code%E6%9C%89%E4%BD%95%E9%9A%90%E8%97%8F%E7%A7%98%E5%AF%86",
           "source": "bilibili 热搜",
           "ranks": [
-            12,
-            8,
-            4,
-            22,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时58分 ~ 23时49分]"
-        },
-        {
-          "title": "ClaudeCode源码泄露",
-          "url": "https://www.douyin.com/hot/2451216",
-          "source": "抖音",
-          "ranks": [
-            8,
-            10,
-            13,
-            15,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时58分 ~ 23时49分]"
-        },
-        {
-          "title": "深度解析Claude源码泄漏",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90Claude%E6%BA%90%E7%A0%81%E6%B3%84%E6%BC%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时14分 ~ 14时09分]"
-        },
-        {
-          "title": "Anthropic意外泄露了Claude AI智能体的源代码",
-          "url": "https://wallstreetcn.com/livenews/3080773",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "如何看待 Anthropic 官方工具 Claude Code 源码泄露事件？",
-          "url": "https://www.zhihu.com/question/2022394365436248248",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
+          "time_info": "09时04分"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
           "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E4%B8%8E%E5%A4%8D%E5%88%BB%E5%AE%9E%E7%8E%B0",
           "source": "bilibili 热搜",
           "ranks": [
-            8,
-            16,
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时41分 ~ 23时49分]"
-        },
-        {
-          "title": "Claude Opus是否会淘汰程序员",
-          "url": "https://search.bilibili.com/all?keyword=Claude%20Opus%E6%98%AF%E5%90%A6%E4%BC%9A%E6%B7%98%E6%B1%B0%E7%A8%8B%E5%BA%8F%E5%91%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时46分 ~ 23时49分]"
-        },
-        {
-          "title": "UP主让Claude Code进行自修复",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%AE%A9Claude%20Code%E8%BF%9B%E8%A1%8C%E8%87%AA%E4%BF%AE%E5%A4%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 12时25分]"
+          "appearance_count": 1,
+          "time_info": "09时04分"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
           "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E6%B3%84%E9%9C%B2%E6%BA%90%E7%A0%81%E6%89%92%E5%87%BAClaude%E9%9A%90%E8%97%8F%E5%BD%A9%E8%9B%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            22,
-            19
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时24分 ~ 23时49分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
-          "url": "https://www.cls.cn/detail/2331423",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时24分 ~ 15时59分]"
+          "appearance_count": 1,
+          "time_info": "09时04分"
         },
         {
-          "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
-          "url": "https://www.cls.cn/detail/2331334",
-          "source": "财联社热门",
+          "title": "ClaudeCode源码泄露",
+          "url": "https://www.douyin.com/hot/2451216",
+          "source": "抖音",
           "ranks": [
-            12,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时14分 ~ 14时09分]"
-        },
-        {
-          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
-          "url": "https://www.zhihu.com/question/2022593285970027591",
-          "source": "知乎",
-          "ranks": [
-            8,
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时58分 ~ 19时41分]"
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "UP主复现Claude Code代码漏洞",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%8E%B0Claude%20Code%E4%BB%A3%E7%A0%81%E6%BC%8F%E6%B4%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "Claude Opus是否会淘汰程序员",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Opus%E6%98%AF%E5%90%A6%E4%BC%9A%E6%B7%98%E6%B1%B0%E7%A8%8B%E5%BA%8F%E5%91%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "市场消息：埃隆·马斯克的SpaceX已秘密提交IPO申请。",
-          "url": "https://flash.jin10.com/detail/20260401231714911800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "马斯克：特斯拉Model S和Model X已停止接受新的定制订单，目前仅剩部分库存现车可供选购。",
-          "url": "https://wallstreetcn.com/livenews/3080785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "马斯克：FSD 14.3版本现已进入特斯拉员工测试阶段。",
-          "url": "https://wallstreetcn.com/livenews/3080701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "3 月 31 日 DeepSeek 服务中断一小时后恢复，什么情况？最近的三天两「崩」可能是什么原因？",
-          "url": "https://www.zhihu.com/question/2022371409997947809",
-          "source": "知乎",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时24分 ~ 19时41分]"
-        },
-        {
-          "title": "中信证券：DeepSeek下一代新模型有望延续高性价比开源模型路线",
-          "url": "https://wallstreetcn.com/livenews/3080475",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "谷歌正在研发无屏幕版Fitbit手环，并计划于今年晚些时候发布。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3080469",
-          "source": "华尔街见闻-快讯",
+          "title": "史上最大IPO要来了！马斯克旗下SpaceX据悉已递交上市申请",
+          "url": "https://www.cls.cn/detail/2332689",
+          "source": "财联社热门",
           "ranks": [
-            25
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "借助AI监控伊朗高官后“定点清除”：以色列如何替美国“干脏活”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865901",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时24分 ~ 14时09分]"
+          "time_info": "09时04分"
         }
       ]
     }

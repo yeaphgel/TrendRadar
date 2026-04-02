@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T13:54:59.001316+08:00",
-  "total_titles_processed": 634,
+  "generated_at": "2026-04-02T14:57:47.917090+08:00",
+  "total_titles_processed": 743,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             15,
             18,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时04分 ~ 13时54分]"
+          "appearance_count": 4,
+          "time_info": "[09时04分 ~ 14时57分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -39,23 +40,12 @@
           "ranks": [
             16,
             21,
-            23
+            23,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时04分 ~ 13时54分]"
-        },
-        {
-          "title": "ClaudeCode源码泄露",
-          "url": "https://www.douyin.com/hot/2451216",
-          "source": "抖音",
-          "ranks": [
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时04分 ~ 13时54分]"
+          "appearance_count": 4,
+          "time_info": "[09时04分 ~ 14时57分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -67,15 +57,28 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时04分 ~ 13时54分]"
+          "appearance_count": 4,
+          "time_info": "[09时04分 ~ 14时57分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
           "url": "https://search.bilibili.com/all?keyword=Claude%20Opus%E6%98%AF%E5%90%A6%E4%BC%9A%E6%B7%98%E6%B1%B0%E7%A8%8B%E5%BA%8F%E5%91%98",
           "source": "bilibili 热搜",
           "ranks": [
-            19
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时04分 ~ 14时57分]"
+        },
+        {
+          "title": "ClaudeCode源码泄露",
+          "url": "https://www.douyin.com/hot/2451216",
+          "source": "抖音",
+          "ranks": [
+            17,
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -133,7 +136,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         }
@@ -152,8 +155,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时04分 ~ 13时54分]"
+          "appearance_count": 4,
+          "time_info": "[09时04分 ~ 14时57分]"
         }
       ]
     },
@@ -168,7 +171,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         }

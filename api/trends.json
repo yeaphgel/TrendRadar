@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T18:40:52.936856+08:00",
-  "total_titles_processed": 1147,
+  "generated_at": "2026-04-02T19:37:00.256961+08:00",
+  "total_titles_processed": 1250,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Claude",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -22,8 +22,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时04分 ~ 18时40分]"
+          "appearance_count": 11,
+          "time_info": "[09时04分 ~ 19时37分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -38,8 +38,23 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时04分 ~ 18时40分]"
+          "appearance_count": 10,
+          "time_info": "[09时04分 ~ 19时37分]"
+        },
+        {
+          "title": "Claude Opus是否会淘汰程序员",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Opus%E6%98%AF%E5%90%A6%E4%BC%9A%E6%B7%98%E6%B1%B0%E7%A8%8B%E5%BA%8F%E5%91%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            24,
+            26,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时04分 ~ 19时37分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
@@ -52,20 +67,6 @@
             27,
             28,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时04分 ~ 18时40分]"
-        },
-        {
-          "title": "Claude Opus是否会淘汰程序员",
-          "url": "https://search.bilibili.com/all?keyword=Claude%20Opus%E6%98%AF%E5%90%A6%E4%BC%9A%E6%B7%98%E6%B1%B0%E7%A8%8B%E5%BA%8F%E5%91%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            24,
-            26,
-            27
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -107,6 +108,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时04分 ~ 13时54分]"
+        },
+        {
+          "title": "周鸿祎谈Claude Code源码泄露",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E9%B8%BF%E7%A5%8E%E8%B0%88Claude%20Code%E6%BA%90%E7%A0%81%E6%B3%84%E9%9C%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时36分 ~ 19时37分]"
         }
       ]
     },
@@ -226,8 +238,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时48分 ~ 18时40分]"
+          "appearance_count": 5,
+          "time_info": "[17时48分 ~ 19时37分]"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T12:03:35.477829+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-04-02T13:54:59.001316+08:00",
+  "total_titles_processed": 634,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时04分 ~ 12时03分]"
+          "appearance_count": 3,
+          "time_info": "[09时04分 ~ 13时54分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -37,11 +38,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时04分 ~ 12时03分]"
+          "appearance_count": 3,
+          "time_info": "[09时04分 ~ 13时54分]"
         },
         {
           "title": "ClaudeCode源码泄露",
@@ -52,8 +54,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时04分 ~ 12时03分]"
+          "appearance_count": 3,
+          "time_info": "[09时04分 ~ 13时54分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -61,11 +63,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             18,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时04分 ~ 12时03分]"
+          "appearance_count": 3,
+          "time_info": "[09时04分 ~ 13时54分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
@@ -75,8 +78,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时04分 ~ 12时03分]"
+          "appearance_count": 3,
+          "time_info": "[09时04分 ~ 13时54分]"
         }
       ]
     },
@@ -91,7 +94,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -102,7 +105,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -113,9 +116,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "图解OpenAI债务危机",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E8%A7%A3OpenAI%E5%80%BA%E5%8A%A1%E5%8D%B1%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
         }
       ]
     },
@@ -132,8 +152,25 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时04分 ~ 12时03分]"
+          "appearance_count": 3,
+          "time_info": "[09时04分 ~ 13时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "增长",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Sora退出 可灵AI周度活跃用户环比增长",
+          "url": "https://flash.jin10.com/detail/20260402132833065800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
         }
       ]
     }

@@ -1,135 +1,12 @@
 {
-  "generated_at": "2026-04-02T23:32:38.964226+08:00",
-  "total_titles_processed": 1579,
+  "generated_at": "2026-04-03T09:07:22.121449+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Claude",
-      "match_count": 9,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "从泄露源码扒出Claude隐藏彩蛋",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E6%B3%84%E9%9C%B2%E6%BA%90%E7%A0%81%E6%89%92%E5%87%BAClaude%E9%9A%90%E8%97%8F%E5%BD%A9%E8%9B%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            21,
-            23,
-            19,
-            27,
-            26,
-            28,
-            25,
-            30,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时04分 ~ 23时32分]"
-        },
-        {
-          "title": "UP主复现Claude Code代码漏洞",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%8E%B0Claude%20Code%E4%BB%A3%E7%A0%81%E6%BC%8F%E6%B4%9E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            20,
-            25,
-            23,
-            30,
-            28,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时04分 ~ 23时32分]"
-        },
-        {
-          "title": "Claude Opus是否会淘汰程序员",
-          "url": "https://search.bilibili.com/all?keyword=Claude%20Opus%E6%98%AF%E5%90%A6%E4%BC%9A%E6%B7%98%E6%B1%B0%E7%A8%8B%E5%BA%8F%E5%91%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            24,
-            26,
-            27,
-            29,
-            28,
-            23,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时04分 ~ 23时32分]"
-        },
-        {
-          "title": "Claude Code源码分析与复刻实现",
-          "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E4%B8%8E%E5%A4%8D%E5%88%BB%E5%AE%9E%E7%8E%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            18,
-            22,
-            27,
-            28,
-            24,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时04分 ~ 23时32分]"
-        },
-        {
-          "title": "深挖Claude Code有何隐藏秘密",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E6%8C%96Claude%20Code%E6%9C%89%E4%BD%95%E9%9A%90%E8%97%8F%E7%A7%98%E5%AF%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时04分 ~ 12时03分]"
-        },
-        {
-          "title": "ClaudeCode里到底藏了什么",
-          "url": "https://search.bilibili.com/all?keyword=ClaudeCode%E9%87%8C%E5%88%B0%E5%BA%95%E8%97%8F%E4%BA%86%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时59分 ~ 17时49分]"
-        },
-        {
-          "title": "周鸿祎谈Claude Code源码泄露",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E9%B8%BF%E7%A5%8E%E8%B0%88Claude%20Code%E6%BA%90%E7%A0%81%E6%B3%84%E9%9C%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时36分 ~ 20时41分]"
-        },
-        {
-          "title": "ClaudeCode源码泄露",
-          "url": "https://www.douyin.com/hot/2451216",
-          "source": "抖音",
-          "ranks": [
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时04分 ~ 13时54分]"
-        },
         {
           "title": "用Claude Code源码自制客户端",
           "url": "https://search.bilibili.com/all?keyword=%E7%94%A8Claude%20Code%E6%BA%90%E7%A0%81%E8%87%AA%E5%88%B6%E5%AE%A2%E6%88%B7%E7%AB%AF",
@@ -138,184 +15,69 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时14分 ~ 23时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "商务部：持续深化中国与东盟国家在云基础设施、人工智能、绿色电源等前沿领域合作",
-          "url": "https://wallstreetcn.com/livenews/3081438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时59分 ~ 16时51分]"
+          "appearance_count": 1,
+          "time_info": "09时07分"
         },
         {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-04-02）",
-          "url": "https://flash.jin10.com/detail/20260402113728752800",
-          "source": "金十数据",
+          "title": "Claude Opus是否会淘汰程序员",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Opus%E6%98%AF%E5%90%A6%E4%BC%9A%E6%B7%98%E6%B1%B0%E7%A8%8B%E5%BA%8F%E5%91%98",
+          "source": "bilibili 热搜",
           "ranks": [
-            7
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时03分"
+          "time_info": "09时07分"
         },
         {
-          "title": "美联储洛根：人工智能应有助于提升未来生产率水平。",
-          "url": "https://flash.jin10.com/detail/20260402225841011800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时32分"
-        },
-        {
-          "title": "美联储洛根：人工智能带来的生产率提升尚未实现。",
-          "url": "https://flash.jin10.com/detail/20260402225822373800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时32分"
-        },
-        {
-          "title": "国家药监局：到2030年初步构建药品监管与人工智能融合创新体系",
-          "url": "https://wallstreetcn.com/livenews/3081273",
-          "source": "华尔街见闻-快讯",
+          "title": "从泄露源码扒出Claude隐藏彩蛋",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E6%B3%84%E9%9C%B2%E6%BA%90%E7%A0%81%E6%89%92%E5%87%BAClaude%E9%9A%90%E8%97%8F%E5%BD%A9%E8%9B%8B",
+          "source": "bilibili 热搜",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时03分"
+          "time_info": "09时07分"
         },
         {
-          "title": "《全球人工智能企业科技创新指数报告2026》发布",
-          "url": "https://flash.jin10.com/detail/20260402112351005800",
-          "source": "金十数据",
+          "title": "UP主复现Claude Code代码漏洞",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%8E%B0Claude%20Code%E4%BB%A3%E7%A0%81%E6%BC%8F%E6%B4%9E",
+          "source": "bilibili 热搜",
           "ranks": [
-            24
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时03分"
+          "time_info": "09时07分"
+        },
+        {
+          "title": "Claude Code源码分析与复刻实现",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E4%B8%8E%E5%A4%8D%E5%88%BB%E5%AE%9E%E7%8E%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时07分"
         }
       ]
     },
     {
-      "keyword_group": "马斯克",
-      "match_count": 2,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
       "titles": [
         {
-          "title": "史上最大IPO要来了！马斯克旗下SpaceX据悉已递交上市申请",
-          "url": "https://www.cls.cn/detail/2332689",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时04分 ~ 14时57分]"
-        },
-        {
-          "title": "马斯克确认停产特斯拉两款车型",
-          "url": "https://www.douyin.com/hot/2451990",
-          "source": "抖音",
+          "title": "谷歌最新模型Gemma4发布",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "增长",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Sora退出 可灵AI周度活跃用户环比增长",
-          "url": "https://flash.jin10.com/detail/20260402132833065800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "滴滴AI打车用户增长37倍",
-          "url": "https://wallstreetcn.com/livenews/3081601",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国AI又被电力设备“卡脖子”：今年近半数据中心受阻 开发商盯上二手变压器",
-          "url": "https://www.cls.cn/detail/2333025",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时48分 ~ 19时37分]"
-        },
-        {
-          "title": "美国科技公司宣布的裁员人数持续增加 AI成主要推手",
-          "url": "https://wallstreetcn.com/livenews/3081587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "图解OpenAI债务危机",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E8%A7%A3OpenAI%E5%80%BA%E5%8A%A1%E5%8D%B1%E6%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
+          "time_info": "09时07分"
         }
       ]
     },
@@ -324,15 +86,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美国司法部就特朗普政府对Anthropic的联邦禁令提起上诉。",
-          "url": "https://flash.jin10.com/detail/20260402214221520800",
-          "source": "金十数据",
+          "title": "AI巨头Anthropic以约4亿美元的价格收购了初创公司Coefficient Bio。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3081859",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时14分"
+          "time_info": "09时07分"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T19:59:14.475563+08:00",
-  "total_titles_processed": 1319,
+  "generated_at": "2026-04-03T20:46:13.532506+08:00",
+  "total_titles_processed": 1402,
   "failed_sources": [],
   "trends": [
     {
@@ -181,11 +181,12 @@
             10,
             4,
             16,
-            22
+            22,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时53分 ~ 19时59分]"
+          "appearance_count": 10,
+          "time_info": "[15时53分 ~ 20时46分]"
         },
         {
           "title": "谷歌最新模型Gemma4发布",
@@ -243,11 +244,12 @@
             18,
             8,
             21,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时04分 ~ 19时59分]"
+          "appearance_count": 12,
+          "time_info": "[12时04分 ~ 20时46分]"
         },
         {
           "title": "AI巨头Anthropic以约4亿美元的价格收购了初创公司Coefficient Bio。（The Information）",

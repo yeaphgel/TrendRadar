@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T21:55:40.321564+08:00",
-  "total_titles_processed": 1515,
+  "generated_at": "2026-04-03T22:35:00.900784+08:00",
+  "total_titles_processed": 1581,
   "failed_sources": [],
   "trends": [
     {
@@ -113,11 +113,12 @@
           "url": "https://search.bilibili.com/all?keyword=Claude%E6%BA%90%E7%A0%81%E8%83%BD%E5%90%A6%E8%AE%A9%E5%85%A8%E7%90%83AI%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%8D%87%E7%BA%A7",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时55分 ~ 22时35分]"
         },
         {
           "title": "用Claude Code源码自制客户端",
@@ -167,7 +168,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
@@ -197,8 +198,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时53分 ~ 21时55分]"
+          "appearance_count": 13,
+          "time_info": "[15时53分 ~ 22时35分]"
         },
         {
           "title": "谷歌最新模型Gemma4发布",
@@ -211,6 +212,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时07分 ~ 12时05分]"
+        },
+        {
+          "title": "土耳其竞争委员会：已就谷歌可能存在的广告计费差异展开调查。",
+          "url": "https://flash.jin10.com/detail/20260403215408333800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         }
       ]
     },
@@ -257,11 +269,12 @@
             8,
             21,
             17,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时04分 ~ 21时55分]"
+          "appearance_count": 15,
+          "time_info": "[12时04分 ~ 22时35分]"
         },
         {
           "title": "AI巨头Anthropic以约4亿美元的价格收购了初创公司Coefficient Bio。（The Information）",

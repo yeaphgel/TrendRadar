@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T12:05:06.134464+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-04-03T13:55:04.778429+08:00",
+  "total_titles_processed": 655,
   "failed_sources": [],
   "trends": [
     {
@@ -77,8 +77,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 12时05分]"
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 13时55分]"
         },
         {
           "title": "谷歌最新模型Gemma4发布",
@@ -105,7 +105,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -116,7 +116,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T13:55:04.778429+08:00",
-  "total_titles_processed": 655,
+  "generated_at": "2026-04-03T14:55:02.935294+08:00",
+  "total_titles_processed": 755,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时07分 ~ 12时05分]"
+          "appearance_count": 5,
+          "time_info": "[09时07分 ~ 14时55分]"
         },
         {
           "title": "用Claude Code源码自制客户端",
@@ -74,11 +74,12 @@
           "url": "https://www.zhihu.com/question/2023204569811828949",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时04分 ~ 13时55分]"
+          "appearance_count": 6,
+          "time_info": "[12时04分 ~ 14时55分]"
         },
         {
           "title": "谷歌最新模型Gemma4发布",

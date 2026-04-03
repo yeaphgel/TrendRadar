@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T19:29:28.668987+08:00",
-  "total_titles_processed": 1253,
+  "generated_at": "2026-04-03T19:59:14.475563+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20260403190851634800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 19时59分]"
         },
         {
           "title": "沐曦股份：联合上海人工智能实验室发布高性能GPU算子生成系统Kernel-Smith",
@@ -179,11 +180,12 @@
             20,
             10,
             4,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时53分 ~ 19时29分]"
+          "appearance_count": 8,
+          "time_info": "[15时53分 ~ 19时59分]"
         },
         {
           "title": "谷歌最新模型Gemma4发布",
@@ -244,8 +246,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时04分 ~ 19时29分]"
+          "appearance_count": 10,
+          "time_info": "[12时04分 ~ 19时59分]"
         },
         {
           "title": "AI巨头Anthropic以约4亿美元的价格收购了初创公司Coefficient Bio。（The Information）",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T18:58:42.967219+08:00",
-  "total_titles_processed": 979,
+  "generated_at": "2026-04-04T19:24:40.109275+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时32分 ~ 18时58分]"
+          "appearance_count": 8,
+          "time_info": "[15时32分 ~ 19时24分]"
         },
         {
           "title": "如何评价 Anthropic 封杀 OpenClaw，将其踢出 Claude 订阅服务的白名单？",
@@ -30,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时32分 ~ 18时58分]"
+          "appearance_count": 8,
+          "time_info": "[15时32分 ~ 19时24分]"
         },
         {
           "title": "Claude源码能否让全球AI工具大升级",
@@ -199,11 +199,12 @@
           "ranks": [
             15,
             20,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时59分 ~ 18时58分]"
+          "appearance_count": 4,
+          "time_info": "[17时59分 ~ 19时24分]"
         }
       ]
     },
@@ -218,11 +219,12 @@
           "ranks": [
             1,
             9,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时59分 ~ 18时58分]"
+          "appearance_count": 4,
+          "time_info": "[17时59分 ~ 19时24分]"
         }
       ]
     }

@@ -1,291 +1,84 @@
 {
-  "generated_at": "2026-04-03T22:35:00.900784+08:00",
-  "total_titles_processed": 1581,
+  "generated_at": "2026-04-04T09:02:01.869032+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "人工智能",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "上海市新增7款已完成备案的生成式人工智能服务",
-          "url": "https://flash.jin10.com/detail/20260403190851634800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时29分 ~ 19时59分]"
-        },
-        {
-          "title": "沐曦股份：联合上海人工智能实验室发布高性能GPU算子生成系统Kernel-Smith",
-          "url": "https://wallstreetcn.com/livenews/3082144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 19时29分]"
-        },
-        {
-          "title": "十部门：人工智能产品和服务应采取充分措施确保隐私数据得到有效保护",
-          "url": "https://wallstreetcn.com/livenews/3082106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 18时32分]"
-        },
-        {
-          "title": "十部门：开展人工智能科技活动应将科技伦理要求贯穿全过程",
-          "url": "https://wallstreetcn.com/livenews/3082105",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 18时32分]"
-        },
-        {
-          "title": "樱花互联网股价上涨近20%。日媒报道称，在截至2029年的四年内，微软将与软银和樱花互联网合作，在日本国内构建人工智能数据基础架构。",
-          "url": "https://flash.jin10.com/detail/20260403113301841800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        },
-        {
-          "title": "沐曦股份：联合上海人工智能实验室发布高性能GPU算子生成系统Kernel-Smith",
-          "url": "https://flash.jin10.com/detail/20260403180836014800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "中电信人工智能科技公司增资至约33.7亿",
-          "url": "https://flash.jin10.com/detail/20260403110303989800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "Claude",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "Claude Opus是否会淘汰程序员",
-          "url": "https://search.bilibili.com/all?keyword=Claude%20Opus%E6%98%AF%E5%90%A6%E4%BC%9A%E6%B7%98%E6%B1%B0%E7%A8%8B%E5%BA%8F%E5%91%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            27,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时07分 ~ 16时38分]"
-        },
         {
           "title": "Claude源码能否让全球AI工具大升级",
           "url": "https://search.bilibili.com/all?keyword=Claude%E6%BA%90%E7%A0%81%E8%83%BD%E5%90%A6%E8%AE%A9%E5%85%A8%E7%90%83AI%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%8D%87%E7%BA%A7",
           "source": "bilibili 热搜",
           "ranks": [
-            5,
-            7
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时55分 ~ 22时35分]"
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 09时02分]"
         },
         {
-          "title": "用Claude Code源码自制客户端",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8Claude%20Code%E6%BA%90%E7%A0%81%E8%87%AA%E5%88%B6%E5%AE%A2%E6%88%B7%E7%AB%AF",
-          "source": "bilibili 热搜",
+          "title": "Anthropic通过要求订阅用户额外付费，实际上将Openclaw从Claude中禁用。（The Verge）",
+          "url": "https://wallstreetcn.com/livenews/3082355",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时07分"
-        },
-        {
-          "title": "从泄露源码扒出Claude隐藏彩蛋",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E6%B3%84%E9%9C%B2%E6%BA%90%E7%A0%81%E6%89%92%E5%87%BAClaude%E9%9A%90%E8%97%8F%E5%BD%A9%E8%9B%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        },
-        {
-          "title": "UP主复现Claude Code代码漏洞",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%8E%B0Claude%20Code%E4%BB%A3%E7%A0%81%E6%BC%8F%E6%B4%9E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        },
-        {
-          "title": "Claude Code源码分析与复刻实现",
-          "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E4%B8%8E%E5%A4%8D%E5%88%BB%E5%AE%9E%E7%8E%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "09时02分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
-          "url": "https://www.zhihu.com/question/2023204569811828949",
-          "source": "知乎",
-          "ranks": [
-            3,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时04分 ~ 15时54分]"
-        },
         {
           "title": "谷歌官方发布最新模型Gemma4",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
           "source": "bilibili 热搜",
           "ranks": [
-            5,
-            20,
-            10,
-            4,
-            16,
-            22,
-            19,
-            18
+            15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时53分 ~ 22时35分]"
-        },
-        {
-          "title": "谷歌最新模型Gemma4发布",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时07分 ~ 12时05分]"
-        },
-        {
-          "title": "土耳其竞争委员会：已就谷歌可能存在的广告计费差异展开调查。",
-          "url": "https://flash.jin10.com/detail/20260403215408333800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时35分"
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 09时02分]"
         }
       ]
     },
     {
-      "keyword_group": "马斯克",
-      "match_count": 2,
+      "keyword_group": "人工智能",
+      "match_count": 1,
       "titles": [
         {
-          "title": "马斯克：下一次星舰飞行以及V3飞船和助推器的首飞，预计还需4至6周时间。",
-          "url": "https://wallstreetcn.com/livenews/3082078",
+          "title": "江苏：加快打造人工智能创新发展高地 大力支持OPC创新创业",
+          "url": "https://wallstreetcn.com/livenews/3082360",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
-          "title": "马斯克：下一次星舰飞行以及V3飞船和助推器的首飞，预计还需4至6周时间。",
-          "url": "https://flash.jin10.com/detail/20260403161133677800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时38分"
+          "time_info": "09时02分"
         }
       ]
     },
     {
       "keyword_group": "Anthropic",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "Anthropic误删数千GitHub仓库",
-          "url": "https://search.bilibili.com/all?keyword=Anthropic%E8%AF%AF%E5%88%A0%E6%95%B0%E5%8D%83GitHub%E4%BB%93",
+          "url": "https://search.bilibili.com/all?keyword=Anthropic%20GitHub%E4%BB%93%E5%BA%93",
           "source": "bilibili 热搜",
           "ranks": [
-            9,
-            7,
-            18,
-            8,
-            21,
-            17,
-            15,
-            19
+            24
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时04分 ~ 22时35分]"
-        },
-        {
-          "title": "AI巨头Anthropic以约4亿美元的价格收购了初创公司Coefficient Bio。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3081859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 09时02分]"
         }
       ]
     }

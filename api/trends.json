@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T19:50:23.513736+08:00",
-  "total_titles_processed": 1050,
+  "generated_at": "2026-04-05T20:28:04.167929+08:00",
+  "total_titles_processed": 1097,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             14,
             13,
             16,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时09分 ~ 19时50分]"
+          "appearance_count": 18,
+          "time_info": "[09时09分 ~ 20时28分]"
         },
         {
           "title": "从ClaudeCode源码看其竞争优势",
@@ -48,8 +49,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时01分 ~ 19时50分]"
+          "appearance_count": 7,
+          "time_info": "[18时01分 ~ 20时28分]"
         }
       ]
     },

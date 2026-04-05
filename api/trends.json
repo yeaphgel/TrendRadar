@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-04-05T17:07:35.932642+08:00",
-  "total_titles_processed": 852,
+  "generated_at": "2026-04-05T18:02:13.715108+08:00",
+  "total_titles_processed": 918,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "今年清明「纸扎 AI 全家桶」火了，人们给祖宗烧 DeepSeek 等热门大模型，反映出怎样的情感需求？",
+          "url": "https://www.zhihu.com/question/2022702768251564692",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时01分 ~ 18时02分]"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
@@ -53,8 +70,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时09分 ~ 17时07分]"
+          "appearance_count": 13,
+          "time_info": "[09时09分 ~ 18时02分]"
         }
       ]
     },

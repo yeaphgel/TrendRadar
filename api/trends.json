@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T12:13:11.763940+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-04-05T13:58:12.307313+08:00",
+  "total_titles_processed": 604,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,25 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 12时13分]"
+          "appearance_count": 5,
+          "time_info": "[09时09分 ~ 13时58分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Anthropic",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英媒：英国寻求吸引Anthropic扩大在英业务",
+          "url": "https://flash.jin10.com/detail/20260405130944035800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T19:43:33.193936+08:00",
-  "total_titles_processed": 1215,
+  "generated_at": "2026-04-07T20:49:32.551071+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时14分 ~ 19时43分]"
+          "appearance_count": 6,
+          "time_info": "[15时14分 ~ 20时49分]"
         },
         {
           "title": "Faker回应马斯克",
@@ -49,7 +49,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "博通美股盘前涨2.6%，公司将为谷歌供应TPU芯片、为Anthropic提供算力。",
@@ -61,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
+        },
+        {
+          "title": "印尼就谷歌涉嫌违反用户保护规定展开调查。",
+          "url": "https://flash.jin10.com/detail/20260407203455543800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         }
       ]
     },
@@ -74,11 +85,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             19,
-            23
+            23,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 19时43分]"
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 20时49分]"
         }
       ]
     },

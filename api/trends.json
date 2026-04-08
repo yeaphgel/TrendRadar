@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T17:56:57.231605+08:00",
-  "total_titles_processed": 1002,
+  "generated_at": "2026-04-08T18:47:08.886755+08:00",
+  "total_titles_processed": 1099,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时11分 ~ 17时56分]"
+          "appearance_count": 9,
+          "time_info": "[12时11分 ~ 18时47分]"
         },
         {
           "title": "DeepSeek更新专家模式",
@@ -59,11 +59,12 @@
             23,
             28,
             20,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时09分 ~ 17时56分]"
+          "appearance_count": 10,
+          "time_info": "[09时09分 ~ 18时47分]"
         },
         {
           "title": "UP主解读Claude新模型Mythos",
@@ -95,6 +96,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "太强了不敢公开！Anthropic推出“神话”新模型，暂时仅限科技巨头试用",
+          "url": "https://wallstreetcn.com/articles/3769434",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时56分 ~ 18时47分]"
+        },
+        {
           "title": "如何评价 Anthropic 这个据称强到不敢直接发布的大模型 Mythos Preview？",
           "url": "https://www.zhihu.com/question/2025124518817973047",
           "source": "知乎",
@@ -106,17 +118,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时02分 ~ 16时50分]"
-        },
-        {
-          "title": "太强了不敢公开！Anthropic推出“神话”新模型，暂时仅限科技巨头试用",
-          "url": "https://wallstreetcn.com/articles/3769434",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时56分 ~ 17时56分]"
         }
       ]
     },
@@ -135,8 +136,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时09分 ~ 17时56分]"
+          "appearance_count": 10,
+          "time_info": "[09时09分 ~ 18时47分]"
         }
       ]
     },
@@ -174,8 +175,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时09分 ~ 17时56分]"
+          "appearance_count": 10,
+          "time_info": "[09时09分 ~ 18时47分]"
         }
       ]
     },
@@ -190,9 +191,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时56分 ~ 18时47分]"
         }
       ]
     }

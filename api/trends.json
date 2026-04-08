@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T14:02:28.788855+08:00",
-  "total_titles_processed": 627,
+  "generated_at": "2026-04-08T15:57:03.111184+08:00",
+  "total_titles_processed": 772,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 15时57分]"
         },
         {
           "title": "DeepSeek 更新「快速模式」和「专家模式」，二者有何区别？这是否意味着 V4 快来了？",
@@ -25,11 +26,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 15时57分]"
         },
         {
           "title": "DeepSeek迎来大更新 V4不远了？业内人士：这一更新或是官方应对现实成本的必然选择",
@@ -55,11 +57,12 @@
           "ranks": [
             5,
             23,
-            28
+            28,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 14时02分]"
+          "appearance_count": 5,
+          "time_info": "[09时09分 ~ 15时57分]"
         },
         {
           "title": "UP主解读Claude新模型Mythos",
@@ -76,6 +79,35 @@
       ]
     },
     {
+      "keyword_group": "Anthropic",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何评价 Anthropic 这个据称强到不敢直接发布的大模型 Mythos Preview？",
+          "url": "https://www.zhihu.com/question/2025124518817973047",
+          "source": "知乎",
+          "ranks": [
+            15,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 15时57分]"
+        },
+        {
+          "title": "太强了不敢公开！Anthropic推出“神话”新模型，暂时仅限科技巨头试用",
+          "url": "https://wallstreetcn.com/articles/3769434",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 15时57分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -85,11 +117,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            22
+            22,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 14时02分]"
+          "appearance_count": 5,
+          "time_info": "[09时09分 ~ 15时57分]"
         }
       ]
     },
@@ -121,28 +154,12 @@
           "ranks": [
             13,
             21,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 14时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Anthropic",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价 Anthropic 这个据称强到不敢直接发布的大模型 Mythos Preview？",
-          "url": "https://www.zhihu.com/question/2025124518817973047",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时02分"
+          "appearance_count": 5,
+          "time_info": "[09时09分 ~ 15时57分]"
         }
       ]
     }

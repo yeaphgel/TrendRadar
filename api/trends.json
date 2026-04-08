@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T22:26:37.184899+08:00",
-  "total_titles_processed": 1438,
+  "generated_at": "2026-04-08T23:53:33.537470+08:00",
+  "total_titles_processed": 1554,
   "failed_sources": [],
   "trends": [
     {
@@ -61,11 +61,12 @@
             20,
             17,
             19,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时09分 ~ 22时26分]"
+          "appearance_count": 15,
+          "time_info": "[09时09分 ~ 23时53分]"
         },
         {
           "title": "UP主解读Claude新模型Mythos",
@@ -109,8 +110,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时09分 ~ 22时26分]"
+          "appearance_count": 15,
+          "time_info": "[09时09分 ~ 23时53分]"
         },
         {
           "title": "OpenAI：启动美国儿童保护框架蓝图，已建立并将持续加强安全防护措施。",

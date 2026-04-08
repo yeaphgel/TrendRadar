@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T18:47:08.886755+08:00",
-  "total_titles_processed": 1099,
+  "generated_at": "2026-04-08T20:20:02.904599+08:00",
+  "total_titles_processed": 1232,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时11分 ~ 18时47分]"
+          "appearance_count": 11,
+          "time_info": "[12时11分 ~ 20时20分]"
         },
         {
           "title": "DeepSeek更新专家模式",
@@ -63,8 +63,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时09分 ~ 18时47分]"
+          "appearance_count": 12,
+          "time_info": "[09时09分 ~ 20时20分]"
         },
         {
           "title": "UP主解读Claude新模型Mythos",
@@ -136,8 +136,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时09分 ~ 18时47分]"
+          "appearance_count": 12,
+          "time_info": "[09时09分 ~ 20时20分]"
         }
       ]
     },
@@ -192,8 +192,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时56分 ~ 18时47分]"
+          "appearance_count": 5,
+          "time_info": "[17时56分 ~ 20时20分]"
         }
       ]
     }

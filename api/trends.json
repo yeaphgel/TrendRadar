@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T08:59:49.974162+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-04-09T11:45:57.472690+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "url": "https://search.bilibili.com/all?keyword=Claude%E9%98%B2%E8%AF%9D%E7%97%A8%E6%8F%92%E4%BB%B6%E7%88%86%E7%81%AB",
           "source": "bilibili 热搜",
           "ranks": [
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 11时45分]"
         }
       ]
     },

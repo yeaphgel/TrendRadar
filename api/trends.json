@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T12:22:40.971646+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-04-10T14:13:57.024477+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "阿里巴巴任命周靖人领导人工智能事业部。（英国金融时报）",
@@ -14,18 +14,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-04-10）",
-          "url": "https://flash.jin10.com/detail/20260410115057923800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -34,11 +23,45 @@
           "url": "https://www.douyin.com/hot/2461467",
           "source": "抖音",
           "ranks": [
-            11
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 14时13分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-04-10）",
+          "url": "https://flash.jin10.com/detail/20260410115057923800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "人工智能将纳入教师资格考试",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%B0%86%E7%BA%B3%E5%85%A5%E6%95%99%E5%B8%88%E8%B5%84%E6%A0%BC%E8%80%83%E8%AF%95",
+          "source": "百度热搜",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时22分"
+          "time_info": "14时13分"
+        },
+        {
+          "title": "人工智能将纳入教师资格考试和认证内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32939934",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         },
         {
           "title": "SpaceX去年因人工智能相关支出录得近50亿美元亏损。",
@@ -103,7 +126,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         }
@@ -118,11 +141,12 @@
           "url": "https://wallstreetcn.com/articles/3769638",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 14时13分]"
         }
       ]
     }

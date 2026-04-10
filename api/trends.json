@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-04-10T17:43:21.543584+08:00",
-  "total_titles_processed": 942,
+  "generated_at": "2026-04-10T18:42:38.402640+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "人工智能将纳入教师资格考试",
+          "url": "https://www.douyin.com/hot/2461467",
+          "source": "抖音",
+          "ranks": [
+            11,
+            17,
+            7,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时22分 ~ 18时42分]"
+        },
         {
           "title": "阿里巴巴任命周靖人领导人工智能事业部。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3085564",
@@ -19,20 +34,6 @@
           "time_info": "12时22分"
         },
         {
-          "title": "人工智能将纳入教师资格考试",
-          "url": "https://www.douyin.com/hot/2461467",
-          "source": "抖音",
-          "ranks": [
-            11,
-            17,
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时22分 ~ 17时43分]"
-        },
-        {
           "title": "人工智能将纳入教师资格考试和认证内容",
           "url": "https://m.thepaper.cn/newsDetail_forward_32939934",
           "source": "澎湃新闻",
@@ -42,8 +43,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时13分 ~ 17时43分]"
+          "appearance_count": 5,
+          "time_info": "[14时13分 ~ 18时42分]"
         },
         {
           "title": "人工智能将纳入教师资格考试和认证内容，会对未来的教育生态产生哪些影响？",
@@ -78,6 +79,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
+        },
+        {
+          "title": "国家网信办等五部门联合公布《人工智能拟人化互动服务管理暂行办法》",
+          "url": "https://flash.jin10.com/detail/20260410181714560800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
+          "title": "工信部：加快构建高效统一的人工智能芯片计算互联生态 坚决破除光伏行业“内卷式”竞争",
+          "url": "https://wallstreetcn.com/livenews/3085774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "SpaceX去年因人工智能相关支出录得近50亿美元亏损。",
@@ -161,8 +184,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时22分 ~ 17时43分]"
+          "appearance_count": 6,
+          "time_info": "[12时22分 ~ 18时42分]"
         }
       ]
     }

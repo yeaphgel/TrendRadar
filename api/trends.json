@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T16:05:13.353959+08:00",
-  "total_titles_processed": 792,
+  "generated_at": "2026-04-10T17:43:21.543584+08:00",
+  "total_titles_processed": 942,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             11,
             17,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时22分 ~ 16时05分]"
+          "appearance_count": 5,
+          "time_info": "[12时22分 ~ 17时43分]"
         },
         {
           "title": "人工智能将纳入教师资格考试和认证内容",
@@ -37,22 +38,24 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时13分 ~ 16时05分]"
+          "appearance_count": 4,
+          "time_info": "[14时13分 ~ 17时43分]"
         },
         {
           "title": "人工智能将纳入教师资格考试和认证内容，会对未来的教育生态产生哪些影响？",
           "url": "https://www.zhihu.com/question/2025880248273618520",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时04分 ~ 16时05分]"
+          "appearance_count": 3,
+          "time_info": "[16时04分 ~ 17时43分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-04-10）",
@@ -158,8 +161,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时22分 ~ 16时05分]"
+          "appearance_count": 5,
+          "time_info": "[12时22分 ~ 17时43分]"
         }
       ]
     }

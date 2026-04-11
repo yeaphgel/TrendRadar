@@ -1,296 +1,84 @@
 {
-  "generated_at": "2026-04-10T23:11:30.939722+08:00",
-  "total_titles_processed": 1497,
+  "generated_at": "2026-04-11T09:05:57.013544+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "Anthropic",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Anthropic提供安全建议与实用技巧",
+          "url": "https://wallstreetcn.com/livenews/3086137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "据CNBC：美国副总统万斯和美国财长贝森特在Anthropic发布Mytho之前就AI安全问题质询科技巨头。",
+          "url": "https://flash.jin10.com/detail/20260411041419863800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国白宫针对未来即将面世的一系列AI模型协调网络响应。 白宫准备回应Anthropic与OpenAI的诸多模型。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3086136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人工智能",
-      "match_count": 11,
+      "match_count": 1,
       "titles": [
         {
           "title": "人工智能将纳入教师资格考试和认证内容",
           "url": "https://m.thepaper.cn/newsDetail_forward_32939934",
           "source": "澎湃新闻",
           "ranks": [
-            10,
-            7,
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时13分 ~ 23时11分]"
-        },
-        {
-          "title": "人工智能将纳入教师资格考试",
-          "url": "https://www.douyin.com/hot/2461467",
-          "source": "抖音",
-          "ranks": [
-            11,
-            17,
-            7,
-            16,
-            18,
-            26,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时22分 ~ 23时11分]"
-        },
-        {
-          "title": "阿里巴巴任命周靖人领导人工智能事业部。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3085564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "人工智能将纳入教师资格考试和认证内容，会对未来的教育生态产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2025880248273618520",
-          "source": "知乎",
-          "ranks": [
-            19,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时04分 ~ 17时43分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-04-10）",
-          "url": "https://flash.jin10.com/detail/20260410115057923800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "人工智能将纳入教师资格考试",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%B0%86%E7%BA%B3%E5%85%A5%E6%95%99%E5%B8%88%E8%B5%84%E6%A0%BC%E8%80%83%E8%AF%95",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时13分"
-        },
-        {
-          "title": "国家网信办等五部门联合公布《人工智能拟人化互动服务管理暂行办法》",
-          "url": "https://flash.jin10.com/detail/20260410181714560800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "交通运输部：推动交通运输绿色低碳转型，深入实施“人工智能+交通运输”行动",
-          "url": "https://wallstreetcn.com/livenews/3085943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "工信部：加快构建高效统一的人工智能芯片计算互联生态 坚决破除光伏行业“内卷式”竞争",
-          "url": "https://wallstreetcn.com/livenews/3085774",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "SpaceX去年因人工智能相关支出录得近50亿美元亏损。",
-          "url": "https://flash.jin10.com/detail/20260410081440135800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时09分"
-        },
-        {
-          "title": "国家网信办等五部门联合公布《人工智能拟人化互动服务管理暂行办法》",
-          "url": "https://wallstreetcn.com/livenews/3085806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时38分"
+          "time_info": "09时05分"
         }
       ]
     },
     {
       "keyword_group": "Claude",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "贝森特与鲍威尔召集华尔街紧急开会：Claude新模型对金融业有巨大风险",
           "url": "https://wallstreetcn.com/articles/3769638",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时22分 ~ 23时11分]"
-        },
-        {
-          "title": "CoreWeave下跌11%，根据最新协议，该公司的AI算力将支持Anthropic的Claude。",
-          "url": "https://wallstreetcn.com/livenews/3085991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "美财长与美联储主席召开紧急会议，称 Claude 新模型对金融业有巨大风险，是指什么？究竟有多危险？",
-          "url": "https://www.zhihu.com/question/2025899367144453577",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "Anthropic同意租用CoreWeave的AI算力以支持Claude",
-          "url": "https://wallstreetcn.com/livenews/3085852",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Anthropic",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "Anthropic新AI太强 美联储和财政部召开紧急会议",
-          "url": "https://flash.jin10.com/detail/20260410084126391800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时09分"
-        },
-        {
-          "title": "美国财长贝森特召集华尔街CEO们讨论Anthropic的AI模型Mythos",
-          "url": "https://wallstreetcn.com/livenews/3085414",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时09分"
-        },
-        {
-          "title": "美国财长贝森特召集华尔街CEO讨论Anthropico公司的新一代超强模型Mythos。",
-          "url": "https://flash.jin10.com/detail/20260410082843106800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据德国商报：消息人士称，OpenAI 将受欧盟《数字服务法》（DSA）监管，并被归类为超大型在线搜索引擎。",
-          "url": "https://flash.jin10.com/detail/20260410221958864800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "据德国商报：消息人士称，欧盟委员会计划未来对ChatGPT实施更严格的监管。",
-          "url": "https://flash.jin10.com/detail/20260410221739226800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【报道：梁文锋内部发声，DeepSeek V4将于4月下旬发布】据多位知情人士向媒体透露，DeepSeek创始人梁文锋近日在内部沟通中透露，DeepSeek新一代旗舰大模型DeepSeek V4将于4月下旬正式发布。（新浪科技）",
-          "url": "https://wallstreetcn.com/livenews/3085537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国AI芯片格局反转",
-          "url": "https://www.toutiao.com/trending/7627057914037289014/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
+          "time_info": "09时05分"
         }
       ]
     }

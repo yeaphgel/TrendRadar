@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T20:29:09.980355+08:00",
-  "total_titles_processed": 1002,
+  "generated_at": "2026-04-11T21:35:43.187301+08:00",
+  "total_titles_processed": 1111,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时02分 ~ 20时29分]"
+          "appearance_count": 10,
+          "time_info": "[18时02分 ~ 21时35分]"
         },
         {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
@@ -27,11 +27,12 @@
             10,
             7,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时36分 ~ 20时29分]"
+          "appearance_count": 14,
+          "time_info": "[14时36分 ~ 21时35分]"
         },
         {
           "title": "OpenAI：发现涉及Axios的安全问题。 没有证据表明OpenAI用户数据被访问。",
@@ -129,8 +130,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时21分 ~ 20时29分]"
+          "appearance_count": 15,
+          "time_info": "[13时21分 ~ 21时35分]"
         },
         {
           "title": "普京：俄罗斯须自主研发有竞争力的人工智能模型",
@@ -210,11 +211,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            8
+            8,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时52分 ~ 20时29分]"
+          "appearance_count": 3,
+          "time_info": "[19时52分 ~ 21时35分]"
         },
         {
           "title": "Anthropic提供安全建议与实用技巧",

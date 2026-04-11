@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T18:02:21.946927+08:00",
-  "total_titles_processed": 821,
+  "generated_at": "2026-04-11T19:01:27.449811+08:00",
+  "total_titles_processed": 899,
   "failed_sources": [],
   "trends": [
     {
@@ -8,28 +8,30 @@
       "match_count": 8,
       "titles": [
         {
-          "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
-          "url": "https://www.zhihu.com/question/2026136705757902456",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
           "url": "https://www.cls.cn/detail/2341199",
           "source": "财联社热门",
           "ranks": [
             10,
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时36分 ~ 18时02分]"
+          "appearance_count": 7,
+          "time_info": "[14时36分 ~ 19时01分]"
+        },
+        {
+          "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
+          "url": "https://www.zhihu.com/question/2026136705757902456",
+          "source": "知乎",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时02分 ~ 19时01分]"
         },
         {
           "title": "OpenAI：发现涉及Axios的安全问题。 没有证据表明OpenAI用户数据被访问。",
@@ -121,11 +123,12 @@
             3,
             12,
             21,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时21分 ~ 18时02分]"
+          "appearance_count": 8,
+          "time_info": "[13时21分 ~ 19时01分]"
         },
         {
           "title": "普京：俄罗斯须自主研发有竞争力的人工智能模型",
@@ -159,22 +162,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            9
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时07分 ~ 18时02分]"
+          "appearance_count": 3,
+          "time_info": "[17时07分 ~ 19时01分]"
         },
         {
           "title": "工业和信息化部将发布一批“人工智能+”高价值场景",
           "url": "https://flash.jin10.com/detail/20260411165101237800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时01分]"
         }
       ]
     },

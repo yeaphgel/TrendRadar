@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T19:45:16.441906+08:00",
-  "total_titles_processed": 1151,
+  "generated_at": "2026-04-15T20:53:34.081968+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "英伟达发布全球首个开源量子人工智能模型 量子计算板块激昂大涨",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时12分 ~ 14时31分]"
+        },
+        {
+          "title": "英国首相发言人：英国对人工智能增长区的承诺保持不变。 美英之间关于贸易协议的谈判“仍在进行中”。",
+          "url": "https://wallstreetcn.com/livenews/3088509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "马斯克：AI5将成为有史以来产量最大的人工智能芯片之一。",
@@ -41,6 +52,17 @@
           "time_info": "12时21分"
         },
         {
+          "title": "美联储哈玛克：目前尚不清楚人工智能将对经济产生何种影响。",
+          "url": "https://flash.jin10.com/detail/20260415204225720800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "美国联邦机构绕过特朗普对Anthropic公司的禁令，测试其先进人工智能模型。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3088149",
           "source": "华尔街见闻-快讯",
@@ -58,7 +80,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         }
@@ -86,11 +108,12 @@
           "url": "https://www.baidu.com/s?wd=DeepSeek%E6%8B%9B%E4%BA%BA%E5%8E%BB%E5%86%85%E8%92%99%E8%8D%89%E5%8E%9F%E2%80%9C%E5%AE%88%E6%9C%BA%E6%88%BF%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            20
+            20,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时45分 ~ 20时53分]"
         }
       ]
     },
@@ -118,7 +141,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         }
@@ -159,6 +182,40 @@
       ]
     },
     {
+      "keyword_group": "推特",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国三胞胎的视频在推特上火了",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%B8%89%E8%83%9E%E8%83%8E%E7%9A%84%E8%A7%86%E9%A2%91%E5%9C%A8%E6%8E%A8%E7%89%B9%E4%B8%8A%E7%81%AB%E4%BA%86&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "增长",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "鼎泰高科：一季度净利润2.6亿元，同比增长259%；主要受益于AI算力，推动营收实现较快增长。",
+          "url": "https://wallstreetcn.com/livenews/3088486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI",
       "match_count": 1,
       "titles": [
@@ -168,11 +225,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时54分 ~ 18时51分]"
+          "appearance_count": 4,
+          "time_info": "[17时54分 ~ 20时53分]"
         }
       ]
     }

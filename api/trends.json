@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T14:18:46.907286+08:00",
-  "total_titles_processed": 628,
+  "generated_at": "2026-04-16T16:10:41.819707+08:00",
+  "total_titles_processed": 794,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -24,11 +24,12 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 14时18分]"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 16时10分]"
         },
         {
           "title": "国家统计局副局长毛盛勇：我国人工智能商业化、规模化运营取得了阶段性突破。截至今年3月，日均词元（Token）调用量突破140万亿，比上年末增长超40%。",
@@ -65,11 +66,12 @@
           "ranks": [
             16,
             26,
-            27
+            27,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时16分 ~ 14时18分]"
+          "appearance_count": 4,
+          "time_info": "[09时16分 ~ 16时10分]"
         }
       ]
     },
@@ -103,8 +105,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 14时18分]"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 16时10分]"
         }
       ]
     },
@@ -117,11 +119,12 @@
           "url": "https://www.zhihu.com/question/2027774064589108421",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 16时10分]"
         }
       ]
     },
@@ -135,11 +138,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 14时18分]"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 16时10分]"
         }
       ]
     },

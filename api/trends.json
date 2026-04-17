@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T20:48:32.546164+08:00",
-  "total_titles_processed": 1219,
+  "generated_at": "2026-04-17T22:15:34.805231+08:00",
+  "total_titles_processed": 1342,
   "failed_sources": [],
   "trends": [
     {
@@ -109,6 +109,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek研究员入职字节，李亮：没招聘近亿元年薪技术员工，但不排除四年后收益数亿元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32986995",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         }
       ]
     },

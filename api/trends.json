@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T16:10:07.744372+08:00",
-  "total_titles_processed": 785,
+  "generated_at": "2026-04-17T17:52:50.724774+08:00",
+  "total_titles_processed": 917,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "苏林试戴人工智能眼镜",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时25分 ~ 14时18分]"
+        },
+        {
+          "title": "英国央行副行长Sarah Breeden：战争增加了市场压力叠加的可能性。 与人工智能相关的美国科技股看起来尤其高估。 全球金融体系迄今表现出韧性。 反映了自全球金融危机以来深层次的结构性改善。 增长、通胀和利率的冲击会同时影响所有借款人。",
+          "url": "https://wallstreetcn.com/livenews/3089954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "国家发改委：今年将重点在“人工智能+”基础设施等领域，开展一系列扩大有效投资行动",
@@ -44,6 +55,35 @@
       ]
     },
     {
+      "keyword_group": "Anthropic",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Anthropic公司首席执行官将于周五在白宫会见白宫幕僚长。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3089970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "Anthropic据悉遭资方“哄抢”：估值要约直逼8000亿美元 公司暂未接受",
+          "url": "https://www.cls.cn/detail/2346716",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时14分 ~ 12时25分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -58,24 +98,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时14分 ~ 16时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Anthropic",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Anthropic据悉遭资方“哄抢”：估值要约直逼8000亿美元 公司暂未接受",
-          "url": "https://www.cls.cn/detail/2346716",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 12时25分]"
         }
       ]
     },

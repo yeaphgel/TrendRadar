@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T12:28:13.842850+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-04-19T14:12:59.913043+08:00",
+  "total_titles_processed": 564,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,12 @@
           "url": "https://www.douyin.com/hot/2470868",
           "source": "抖音",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
-        },
-        {
-          "title": "DeepSeek被曝启动融资",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E5%90%AF%E5%8A%A8%E8%9E%8D%E8%B5%84",
-          "source": "bilibili 热搜",
-          "ranks": [
+            1,
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 14时12分]"
         },
         {
           "title": "梁文锋被曝史上首次融资！DeepSeek V4彻底摆脱英伟达",
@@ -41,37 +31,52 @@
           "time_info": "09时17分"
         },
         {
+          "title": "DeepSeek被曝启动融资",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E5%90%AF%E5%8A%A8%E8%9E%8D%E8%B5%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 14时12分]"
+        },
+        {
           "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
           "url": "https://www.zhihu.com/question/2028616808370849247",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 14时12分]"
         },
         {
           "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
           "url": "https://m.thepaper.cn/newsDetail_forward_33002057",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 14时12分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E8%A2%AB%E6%9B%9D%E8%9E%8D%E8%B5%8420%E4%BA%BF",
           "source": "百度热搜",
           "ranks": [
-            22
+            22,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 14时12分]"
         }
       ]
     },

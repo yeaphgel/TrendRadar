@@ -1,8 +1,87 @@
 {
-  "generated_at": "2026-07-03T16:32:33.227080+08:00",
-  "total_titles_processed": 707,
+  "generated_at": "2026-07-03T19:10:13.366116+08:00",
+  "total_titles_processed": 872,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "据首尔经济日报：Meta公司正考虑与三星合作生产价值10万亿韩元的定制人工智能芯片。",
+          "url": "https://flash.jin10.com/detail/20260703161529652800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "中电港：预计上半年净利润5亿元-5.3亿元，同比增长176.43%-193.01%；报告期内，人工智能、数据中心、先进计算等领域需求强劲，存储器等核心产品价格持续上升，带动公司营业收入大幅攀升。",
+          "url": "https://wallstreetcn.com/livenews/3128639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时10分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-07-03）",
+          "url": "https://flash.jin10.com/detail/20260703115919827800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "阿里内部将全面禁用 Claude Code，因存在植入后门风险，可能会带来哪些连锁反应？",
+          "url": "https://www.zhihu.com/question/2056384180200498322",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时09分 ~ 19时10分]"
+        },
+        {
+          "title": "曝阿里禁用Claude",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%98%BF%E9%87%8C%E7%A6%81%E7%94%A8Claude%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时32分 ~ 19时10分]"
+        },
+        {
+          "title": "因存在植入后门风险 阿里内部全面禁用Claude Code",
+          "url": "https://www.cls.cn/detail/2416593",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时09分 ~ 19时10分]"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
@@ -32,34 +111,6 @@
       ]
     },
     {
-      "keyword_group": "人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据首尔经济日报：Meta公司正考虑与三星合作生产价值10万亿韩元的定制人工智能芯片。",
-          "url": "https://flash.jin10.com/detail/20260703161529652800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-07-03）",
-          "url": "https://flash.jin10.com/detail/20260703115919827800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "Anthropic",
       "match_count": 2,
       "titles": [
@@ -73,19 +124,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时26分 ~ 16时32分]"
+          "appearance_count": 5,
+          "time_info": "[09时26分 ~ 19时10分]"
         },
         {
           "title": "砸钱时代落幕？Meta和Anthropic接连出招，AI行业逻辑悄然生变",
           "url": "https://www.cls.cn/detail/2416232",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时32分 ~ 19时10分]"
         }
       ]
     },
@@ -103,23 +155,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "曝阿里禁用Claude",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%98%BF%E9%87%8C%E7%A6%81%E7%94%A8Claude%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
         }
       ]
     },

@@ -1,141 +1,22 @@
 {
-  "generated_at": "2026-07-04T23:38:24.035739+08:00",
-  "total_titles_processed": 1033,
+  "generated_at": "2026-07-05T09:31:54.728794+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "Claude",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "Claude：正在调查多个模型中出现的异常错误。",
-          "url": "https://flash.jin10.com/detail/20260704083232326800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "阿里巴巴内部宣布全面禁用 A 社旗下产品，包括 Claude Code 、 Opus 等，这释放了哪些信号？",
-          "url": "https://www.zhihu.com/question/2056394331271999624",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "因存在植入后门风险 阿里内部全面禁用Claude Code",
-          "url": "https://www.cls.cn/detail/2416593",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "常州市市长周伟调研人工智能上游产业",
-          "url": "https://flash.jin10.com/detail/20260704100159012800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：人工智能（AI）是生产力和收益的来源。 但该技术也构成了“重大风险”。 大约十年来，我们一直在讨论网络安全风险、黑客攻击、数据盗窃等问题。 但随着AI模型的加速和深化，我们面临的风险要严重得多，因为这一切发生得非常快，而且相应的防御手段以及所需资金仍然没有准备充分。",
-          "url": "https://wallstreetcn.com/livenews/3128834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
           "url": "https://wallstreetcn.com/livenews/3128944",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            4
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时22分 ~ 23时38分]"
-        },
-        {
-          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
-          "url": "https://flash.jin10.com/detail/20260704205119305800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时22分 ~ 23时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
-          "url": "https://wallstreetcn.com/articles/3776170",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时59分 ~ 22时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "宇树高管谈具身智能ChatGPT时刻",
-          "url": "https://flash.jin10.com/detail/20260704110855518800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 15时41分]"
+          "appearance_count": 1,
+          "time_info": "09时31分"
         }
       ]
     }

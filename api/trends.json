@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-07-05T09:31:54.728794+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-05T13:39:21.596617+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "增长",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "野村证券：当前全球存储行业仍严重供应短缺 AI驱动的结构性需求增长尚未见顶",
+          "url": "https://flash.jin10.com/detail/20260705113833548800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        }
+      ]
+    },
     {
       "keyword_group": "AI",
       "match_count": 1,
@@ -12,11 +29,12 @@
           "url": "https://wallstreetcn.com/livenews/3128944",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 13时39分]"
         }
       ]
     }

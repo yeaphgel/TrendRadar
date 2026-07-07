@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07T19:45:56.682041+08:00",
-  "total_titles_processed": 860,
+  "generated_at": "2026-07-07T21:59:13.272204+08:00",
+  "total_titles_processed": 1020,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时55分 ~ 19时45分]"
+          "appearance_count": 6,
+          "time_info": "[13时55分 ~ 21时59分]"
         },
         {
           "title": "前华为天才少年吐槽DeepSeek面试",
@@ -31,6 +31,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时55分 ~ 17时01分]"
+        },
+        {
+          "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时45分 ~ 21时59分]"
+        },
+        {
+          "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
+          "url": "https://tech.ifeng.com/c/8uYAqpu54ML",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时45分 ~ 21时59分]"
         },
         {
           "title": "前华为天才少年吐槽DeepSeek面试",
@@ -65,28 +89,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时00分 ~ 17时01分]"
-        },
-        {
-          "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
-          "url": "https://tech.ifeng.com/c/8uYAqpu54ML",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
         }
       ]
     },

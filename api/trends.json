@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-07-08T12:39:21.571958+08:00",
-  "total_titles_processed": 710,
+  "generated_at": "2026-07-08T15:20:30.083673+08:00",
+  "total_titles_processed": 863,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "Claude",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "Anthropic：Claude CoWork投放到移动端和网页。",
+          "url": "https://wallstreetcn.com/livenews/3130092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "阿里 全员卸载Claude",
+          "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E9%87%8C%20%E5%85%A8%E5%91%98%E5%8D%B8%E8%BD%BDClaude&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 15时20分]"
+        },
+        {
+          "title": "Anthropic：将Claude Code双倍协作（Cowork）使用额度延长至8月5日。",
+          "url": "https://flash.jin10.com/detail/20260708000001537800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "Anthropic：Claude Cowork将登陆移动端和网页。",
+          "url": "https://flash.jin10.com/detail/20260707235927623800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "工信部：防范AI编程工具Claude Code安全后门隐患",
+          "url": "https://wallstreetcn.com/livenews/3130409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 4,
@@ -14,11 +76,12 @@
           "ranks": [
             9,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 12时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 15时20分]"
         },
         {
           "title": "DeepSeek被曝自研芯片",
@@ -67,9 +130,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 15时20分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-07-08）",
@@ -78,7 +141,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         },
@@ -89,7 +152,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         },
@@ -107,56 +170,6 @@
       ]
     },
     {
-      "keyword_group": "Claude",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "Anthropic：Claude CoWork投放到移动端和网页。",
-          "url": "https://wallstreetcn.com/livenews/3130092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "阿里 全员卸载Claude",
-          "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E9%87%8C%20%E5%85%A8%E5%91%98%E5%8D%B8%E8%BD%BDClaude&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "Anthropic：将Claude Code双倍协作（Cowork）使用额度延长至8月5日。",
-          "url": "https://flash.jin10.com/detail/20260708000001537800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "Anthropic：Claude Cowork将登陆移动端和网页。",
-          "url": "https://flash.jin10.com/detail/20260707235927623800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -167,7 +180,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         },
@@ -178,7 +191,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         },
@@ -189,7 +202,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         }
@@ -206,9 +219,43 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "grok",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克：SpaceX AI将于明日向公众开放Grok4.5。它是一款 Opus级别的模型，但速度更快、token效率更高、成本更低。",
+          "url": "https://wallstreetcn.com/livenews/3130423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Anthropic",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【SemiAnalysis：Anthropic三季度利润将突破10亿美元】研究机构SemiAnalysis发文称，Anthropic在当今B2B市场竞争中明显领先，预计Anthropic将利用其优越的商业模式和利润率，进一步投资于新模型的开发，以扩大其在闭源和开源竞争对手中的领先地位和变现能力。如果Anthropic持续良好执行，其成为第一家6万亿美元市值的公司是一个基础情景下的可能性。",
+          "url": "https://wallstreetcn.com/livenews/3130420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         }
       ]
     },

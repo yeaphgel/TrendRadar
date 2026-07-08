@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T21:22:43.344974+08:00",
-  "total_titles_processed": 1303,
+  "generated_at": "2026-07-08T23:40:56.314696+08:00",
+  "total_titles_processed": 1440,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,17 @@
           "time_info": "[00时22分 ~ 09时17分]"
         },
         {
+          "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2058168270499176758",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时40分 ~ 23时40分]"
+        },
+        {
           "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
           "url": "https://www.zhihu.com/question/2057753624717911009",
           "source": "知乎",
@@ -56,22 +67,83 @@
           "time_info": "[00时22分 ~ 00时23分]"
         },
         {
-          "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2058168270499176758",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时40分 ~ 21时22分]"
-        },
-        {
           "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗跑路，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2058168270499176758",
           "source": "知乎",
           "ranks": [
             9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "2026人工智能大会将启幕",
+          "url": "https://www.douyin.com/hot/2562850",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 15时20分]"
+        },
+        {
+          "title": "我国人工智能产业加速发展壮大",
+          "url": "https://www.douyin.com/hot/2563823",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-07-08）",
+          "url": "https://flash.jin10.com/detail/20260708120444479800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "港股午评：科指半日涨4.3%重回4700点上方 人工智能板块领涨",
+          "url": "https://flash.jin10.com/detail/20260708120242763800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "据The Information：英伟达(NVDA.O)和人工智能芯片初创公司d-Matrix正在一套新系统中整合硬件，以支持人工智能模型运行。",
+          "url": "https://flash.jin10.com/detail/20260708085247878800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时17分"
+        },
+        {
+          "title": "四部门印发《关于加快推进“人工智能＋人社”应用发展的实施意见》",
+          "url": "https://wallstreetcn.com/livenews/3130535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -153,69 +225,8 @@
       ]
     },
     {
-      "keyword_group": "人工智能",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "2026人工智能大会将启幕",
-          "url": "https://www.douyin.com/hot/2562850",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 15时20分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-07-08）",
-          "url": "https://flash.jin10.com/detail/20260708120444479800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "港股午评：科指半日涨4.3%重回4700点上方 人工智能板块领涨",
-          "url": "https://flash.jin10.com/detail/20260708120242763800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "据The Information：英伟达(NVDA.O)和人工智能芯片初创公司d-Matrix正在一套新系统中整合硬件，以支持人工智能模型运行。",
-          "url": "https://flash.jin10.com/detail/20260708085247878800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时17分"
-        },
-        {
-          "title": "四部门印发《关于加快推进“人工智能＋人社”应用发展的实施意见》",
-          "url": "https://wallstreetcn.com/livenews/3130535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI：GPT-5.6 SOL、TERRA和LUNA版本将于周四公开发布。",
@@ -235,7 +246,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -249,6 +260,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
+        },
+        {
+          "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
+          "url": "https://www.zhihu.com/question/2058166406420460573",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "特朗普政府解除对OpenAI的GPT 5.6的限制，美国商务部已批准OpenAI广泛推出其先进的GPT 5.6模型。（Axios）",
@@ -274,9 +296,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 23时40分]"
         },
         {
           "title": "如何看待 anthropic 最新发表的论文，发现了能对大模型诛心和 PUA 的 J SPACE？",
@@ -285,7 +307,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },

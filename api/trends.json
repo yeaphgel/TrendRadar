@@ -1,300 +1,117 @@
 {
-  "generated_at": "2026-07-09T22:22:22.675054+08:00",
-  "total_titles_processed": 1032,
+  "generated_at": "2026-07-10T00:59:45.726580+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "人工智能",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "我国人工智能产业加速发展壮大",
-          "url": "https://www.douyin.com/hot/2563823",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 09时26分]"
-        },
-        {
-          "title": "英伟达市值不到两个月蒸发 1 万亿美元，估值回落至人工智能热潮掀起之前的水平，算力龙头为何遭抛售？",
-          "url": "https://www.zhihu.com/question/2058280043265143682",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 13时17分]"
-        },
-        {
-          "title": "日本央行：许多地区表示，企业正在保持强劲的资本支出计划，因全球人工智能需求扩大，芯片设备和芯片订单有所增加。",
-          "url": "https://flash.jin10.com/detail/20260709130305772800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "外交部：愿以2026世界人工智能大会为契机推动人工智能普惠向善",
-          "url": "https://wallstreetcn.com/livenews/3131172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时56分"
-        },
-        {
-          "title": "Meta Platforms(META.O)跌2%，此前路透社报道称该公司将于九月份开始生产人工智能芯片。",
-          "url": "https://flash.jin10.com/detail/20260709192648448800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时48分"
-        },
-        {
-          "title": "淡马锡CIO：人工智能硬件基础设施领域蕴藏着巨大机遇。",
-          "url": "https://flash.jin10.com/detail/20260709123350240800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "据路透社：相关备忘录显示，Meta计划于九月份开始生产“IRIS”人工智能芯片，Meta计划明年将计算能力翻倍至14吉瓦。",
-          "url": "https://flash.jin10.com/detail/20260709192051718800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "高盛重磅发声：做多中国AI价值链",
-          "url": "https://www.cls.cn/detail/2421215",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时16分 ~ 19时48分]"
-        },
-        {
-          "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
-          "url": "https://wallstreetcn.com/articles/3776515",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时56分 ~ 22时22分]"
-        },
-        {
-          "title": "美国纽约联储主席（享有FOMC永久投票权、号称美联储三把手）威廉姆斯：基准情景预计AI将得到更广泛的应用，从而提高生产率。 我们将使通胀回到2%。 关键是要关注潜在通胀因素，而不仅仅是某一特定指标。 政府的技术性调整可以更好地协调PCE通胀与CPI之间的差异。 美联储政策仍需依赖数据。 劳动力市场非常稳定。 对于长期中性利率仍存在不确定性。",
-          "url": "https://wallstreetcn.com/livenews/3131402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "美国纽约联储主席（享有FOMC永久投票权、号称美联储三把手）威廉姆斯：通胀仍然“过高”。 市场仍预计油价将在未来6至12个月内回落，这一看法是合理的。 货币政策关注能源价格如何影响通胀。 AI投资是通胀的一个驱动因素。 美联储正在积极讨论围绕通胀的各种情景。 美联储会议纪要捕捉到了一种“集体应对机制”。 从长远来看，AI投资将是一次积极的供给冲击。",
-          "url": "https://wallstreetcn.com/livenews/3131400",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
         {
-          "title": "OpenAI的CEO Altman：OpenAI最新AI模型在智能体编程中Token效率提升54%。 与（美国）政府在AI问题上“更加平稳地”推进。 与（特朗普）政府对话之后，本公司做出了“许许多多的改变”。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3131428",
+          "title": "谷歌公司在广告中提高AI透明度。 谷歌在搜索、Youtube广告中新增AI信息披露标签。",
+          "url": "https://wallstreetcn.com/livenews/3131470",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "OpenAI的CEO Altman：中国开源模型正变得“非常好”。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3131427",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "市场消息：《纽约时报》申请对OpenAI实施制裁。",
-          "url": "https://flash.jin10.com/detail/20260709220607288800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "特斯拉三代 Optimus 初步定型，马斯克给供应链定下量产红线",
-          "url": "https://wallstreetcn.com/livenews/3131338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时48分"
+          "time_info": "00时59分"
         },
         {
-          "title": "以色列总理内塔尼亚胡：我与马斯克及许多人士保持频繁交流。我常问他们未来会怎样？将发生什么？趋势走向何方？因为我们必须始终领先于所有其他国家。我们的生存，源于我们的强大。",
-          "url": "https://flash.jin10.com/detail/20260709214831054800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Anthropic",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "SemiAnalysis：Anthropic三季度利润将突破10亿美元",
-          "url": "https://wallstreetcn.com/articles/3776446",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时25分 ~ 13时17分]"
-        },
-        {
-          "title": "Anthropic在二级市场的估值已飙升至1.2万亿美元",
-          "url": "https://flash.jin10.com/detail/20260709193202601800",
+          "title": "谷歌(GOOG.O)：推出广告主控制功能以披露生成性人工智能的使用；广告上可能会出现标签。",
+          "url": "https://flash.jin10.com/detail/20260710000936587800",
           "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "增长",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "鼎龙股份：预计上半年净利润5.1亿元-5.4亿元，同比增长63.96%-73.61%；受益于全球半导体产业拓展与技术迭代，AI算力、存储芯片需求持续释放，带动下游晶圆制造产能持续扩容。公司半导体材料业务保持良好增长态势，多款核心创新材料验证落地、持续放量。",
-          "url": "https://wallstreetcn.com/livenews/3131337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时48分"
+          "time_info": "00时59分"
         },
         {
-          "title": "【大族数控：预计上半年净利润同比增长241.85%–279.84%】大族数控公告，预计2026年上半年净利润为9亿元–10亿元，同比增长241.85%–279.84%。公司紧抓行业龙头客户扩产及新产品研发带来的投资机遇，AI PCB相关解决方案营收占比显著提升，应用于保障新一代高频高速PCB信号及电源完整性的高精度背钻方案、高阶及mSAP工艺HDI钻孔方案、高精度成型方案等相关的高附加值产品产销两旺，促使公司营收结构得到进一步优化，2026年半年度营业收入同比增长100%以上。",
-          "url": "https://wallstreetcn.com/livenews/3131331",
-          "source": "华尔街见闻-快讯",
+          "title": "谷歌(GOOG.O)：向所有谷歌云客户推出AlphaEvolve人工智能代码优化代理。",
+          "url": "https://flash.jin10.com/detail/20260710000625543800",
+          "source": "金十数据",
           "ranks": [
-            17
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时48分"
+          "time_info": "00时59分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "keyword_group": "Anthropic",
+      "match_count": 3,
       "titles": [
         {
-          "title": "世界杯助推谷歌搜索创下每秒查询量新纪录",
-          "url": "https://wallstreetcn.com/livenews/3131088",
-          "source": "华尔街见闻-快讯",
+          "title": "Anthropic聘请前美联储主席伯南克为监督信托委员会成员",
+          "url": "https://flash.jin10.com/detail/20260710003514227800",
+          "source": "金十数据",
           "ranks": [
-            22
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "00时59分"
+        },
+        {
+          "title": "伯南克加入Anthropic，负责监督信托机构",
+          "url": "https://wallstreetcn.com/livenews/3131477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时59分"
+        },
+        {
+          "title": "市场消息：Anthropic聘请前美联储主席伯南克，负责监督信托机构。",
+          "url": "https://flash.jin10.com/detail/20260710003357915800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时59分"
         }
       ]
     },
     {
-      "keyword_group": "tvc",
+      "keyword_group": "人工智能",
       "match_count": 1,
       "titles": [
         {
-          "title": "失控进化上线TVC",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%B1%E6%8E%A7%E8%BF%9B%E5%8C%96%E4%B8%8A%E7%BA%BFTVC",
-          "source": "bilibili 热搜",
+          "title": "【美光上调美国投资计划至2500亿美元，押注AI存储芯片需求】美光科技表示，计划将对美国新工厂的支出增至2500亿美元，以满足全球人工智能热潮推动的存储芯片需求激增。此举意味着在美光此前宣布的2000亿美元支持承诺上再增加500亿美元，用于扩大国内芯片制造规模，其中包括在纽约州、爱达荷州和弗吉尼亚州的项目。这笔支出预计将持续到2035年，并支持美光在未来十年内实现40%的DRAM产品在美国生产的目标。",
+          "url": "https://wallstreetcn.com/livenews/3131453",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26,
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 19时48分]"
+          "appearance_count": 1,
+          "time_info": "00时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
+          "url": "https://wallstreetcn.com/articles/3776515",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时59分"
         }
       ]
     }

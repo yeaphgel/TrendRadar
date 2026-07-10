@@ -1,249 +1,50 @@
 {
-  "generated_at": "2026-07-10T21:49:28.938635+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2026-07-11T00:11:16.936596+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
-          "title": "国家能源局：鼓励能源领域人工智能模型创新，探索数智化节能降碳解决方案",
-          "url": "https://wallstreetcn.com/livenews/3131743",
+          "title": "美联储半年度货币政策报告：美国劳动力市场大致稳定，生产率强劲。 由于移民放缓和人口结构转变，劳动力供给增长有所下降。 与人工智能（AI）相关的数据中心投资推动了强劲的工厂产出；美国的生产能力正以“稳健的步伐”提升。 2026年上半年，受中东冲突和美国关税的逆风影响，外国经济活动增长疲软，但部分被AI投资所抵消。 原本已经处于高位的通胀在春季进一步抬头。 高通胀在一定程度上反映了供给冲击。 通胀依然处于高位，主要受关税、中东战争相关因素以及AI的推动。 包括截尾均值在内的一些通胀指标有所下降。 尽管伊朗战争带来了较高的不确定性，经济活动仍以稳健的步伐扩张。 重申维持价格稳定的承诺。 准备动用一切工具来实现双重使命（实现充分就业+维持价格稳定）。",
+          "url": "https://wallstreetcn.com/livenews/3132157",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时14分"
+          "time_info": "00时11分"
         },
         {
-          "title": "“00后”人工智能学者唐晨宇已任北大助理教授、博导",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33550105",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时46分"
-        },
-        {
-          "title": "工信部：将于7月16日至24日在四川成都举办数字和人工智能部长会议及数字周相关活动",
-          "url": "https://wallstreetcn.com/livenews/3131880",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时46分"
-        },
-        {
-          "title": "2026年APEC数字和人工智能部长会议将在成都举行",
-          "url": "https://wallstreetcn.com/livenews/3131874",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时46分"
-        },
-        {
-          "title": "【美光上调美国投资计划至2500亿美元，押注AI存储芯片需求】美光科技表示，计划将对美国新工厂的支出增至2500亿美元，以满足全球人工智能热潮推动的存储芯片需求激增。此举意味着在美光此前宣布的2000亿美元支持承诺上再增加500亿美元，用于扩大国内芯片制造规模，其中包括在纽约州、爱达荷州和弗吉尼亚州的项目。这笔支出预计将持续到2035年，并支持美光在未来十年内实现40%的DRAM产品在美国生产的目标。",
-          "url": "https://wallstreetcn.com/livenews/3131453",
-          "source": "华尔街见闻-快讯",
+          "title": "高盛：人工智能带来的内存、软件和电力价格综合上涨效应，正为美国核心PCE同比通胀贡献超过0.2个百分点，且到年底这一贡献将升至0.5个百分点。",
+          "url": "https://flash.jin10.com/detail/20260710231356546800",
+          "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌公司在广告中提高AI透明度。 谷歌在搜索、Youtube广告中新增AI信息披露标签。",
-          "url": "https://wallstreetcn.com/livenews/3131470",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：推出广告主控制功能以披露生成性人工智能的使用；广告上可能会出现标签。",
-          "url": "https://flash.jin10.com/detail/20260710000936587800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：向所有谷歌云客户推出AlphaEvolve人工智能代码优化代理。",
-          "url": "https://flash.jin10.com/detail/20260710000625543800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "time_info": "00时11分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
           "url": "https://wallstreetcn.com/articles/3776605",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6,
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时13分 ~ 21时49分]"
-        },
-        {
-          "title": "如何评价 OpenAI 正式推出的 GPT-5.6 系列模型？使用体验如何？",
-          "url": "https://www.zhihu.com/question/2058734226548250080",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "如何看待 Codex 与 ChatGPT 合并，实际使用体验有什么变化？",
-          "url": "https://www.zhihu.com/question/2058849029027632241",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Anthropic",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "Anthropic聘请前美联储主席伯南克为监督信托委员会成员",
-          "url": "https://flash.jin10.com/detail/20260710003514227800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "伯南克加入Anthropic，负责监督信托机构",
-          "url": "https://wallstreetcn.com/livenews/3131477",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "市场消息：Anthropic聘请前美联储主席伯南克，负责监督信托机构。",
-          "url": "https://flash.jin10.com/detail/20260710003357915800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国AI股太贵了？顶级基金经理：转战中国科技股、英股高股息与全球能源",
-          "url": "https://wallstreetcn.com/articles/3776590",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时13分 ~ 19时39分]"
-        },
-        {
-          "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
-          "url": "https://wallstreetcn.com/articles/3776515",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "grok",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "SpaceXAI 发布 Grok 4.5，和 Cursor 一起联合开发的 AI 模型有什么特别的？",
-          "url": "https://www.zhihu.com/question/2058472497230648834",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克“画饼”，宇树填坑？全球首例人形机器人手术登上Nature",
-          "url": "https://www.cls.cn/detail/2422471",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时46分 ~ 19时39分]"
+          "time_info": "[00时10分 ~ 00时11分]"
         }
       ]
     },
@@ -252,33 +53,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "AI产业链中报预告密集披露 存储牛股业绩迎10倍增长|财报解读",
-          "url": "https://www.cls.cn/detail/2422188",
-          "source": "财联社热门",
+          "title": "美联储：AI相关投资推动产出强劲增长 伊朗战争不确定性仍是主要风险",
+          "url": "https://flash.jin10.com/detail/20260710231132564800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            4
+            25
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时23分 ~ 13时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "tvc",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "失控进化上线TVC",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%B1%E6%8E%A7%E8%BF%9B%E5%8C%96%E4%B8%8A%E7%BA%BFTVC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时23分"
+          "time_info": "00时11分"
         }
       ]
     }

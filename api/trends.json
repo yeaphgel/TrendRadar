@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T20:46:08.308661+08:00",
-  "total_titles_processed": 960,
+  "generated_at": "2026-07-12T22:21:25.242407+08:00",
+  "total_titles_processed": 1048,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时23分 ~ 20时46分]"
+          "appearance_count": 6,
+          "time_info": "[17时23分 ~ 22时21分]"
         },
         {
           "title": "苹果起诉OpenAI及两名员工窃取产品机密：曾要求带着“零部件”去面试",
@@ -92,6 +93,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
+          "url": "https://wallstreetcn.com/articles/3776632",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T15:24:24.662644+08:00",
-  "total_titles_processed": 620,
+  "generated_at": "2026-07-12T17:23:43.481326+08:00",
+  "total_titles_processed": 738,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 17时23分]"
         },
         {
           "title": "DeepSeek V4 正式版将于 7 月中旬上线，你有什么期待？",
@@ -33,8 +33,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
+          "url": "https://wallstreetcn.com/articles/3776720",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
         {
           "title": "苹果起诉OpenAI及两名员工窃取产品机密：曾要求带着“零部件”去面试",
           "url": "https://m.thepaper.cn/newsDetail_forward_33566535",

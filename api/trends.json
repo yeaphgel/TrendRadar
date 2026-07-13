@@ -1,27 +1,12 @@
 {
-  "generated_at": "2026-07-13T21:12:47.704620+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2026-07-14T00:03:34.979064+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33571516",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            13,
-            11,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时19分 ~ 21时12分]"
-        },
         {
           "title": "解锁2026世界人工智能大会新亮点",
           "url": "https://www.toutiao.com/trending/7661668281069223946/",
@@ -29,129 +14,37 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时12分"
+          "time_info": "00时03分"
         },
         {
-          "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3132676",
-          "source": "华尔街见闻-快讯",
+          "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33571516",
+          "source": "澎湃新闻",
           "ranks": [
-            17
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "外交部介绍2026世界人工智能大会相关情况",
-          "url": "https://flash.jin10.com/detail/20260713153008021800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "增长",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【生益电子：预计上半年净利润10.82亿元到11.37亿元，同比增加104%到114%】受益于AI算力及高速通信等下游领域的高景气需求，公司紧扣战略定位，深入实施“市场引领，双轮驱动”方针，持续聚焦高端市场的结构性增长机会，优化产品结构，有序推进增资扩产项目建设，尤其是智能算力中心高多层高密互连电路板项目按计划高效落地并快速释放效益。同时公司在技术演进与供应链重构中持续构建经营韧性，不断夯实质量管理根基，市场竞争优势进一步巩固。2026年半年度营业收入和净利润较上年同期实现增长。",
-          "url": "https://wallstreetcn.com/livenews/3132894",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "【胜宏科技：网络平台上流传关于公司产品、市场份额、项目进展等负面传闻，内容严重失实】1、网络流传相关言论不属实。公司是国内外AI头部大客户的长期战略合作伙伴，胜宏科技始终将“品质”和“安全”视为企业的生命线，公司严格按照客户标准管理。 2、当前，AI相关PCB产品需求旺盛，公司在手订单持续增长。公司生产、出货一切正常，头部客户订单持续增加。 3、公司与核心客户保持密切沟通，与客户合作开发的研发迭代产品正顺利推进当中。部分客户已释放2027–2028年长期需求，公司对后续生产经营及效益实现充满信心。",
-          "url": "https://wallstreetcn.com/livenews/3132888",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "【沪电股份：预计上半年净利润同比增长68.17%–78.28%】沪电股份公告，预计2026年上半年净利润为28.3亿元–30亿元，同比增长68.17%–78.28%。受益于高速交换机、AI服务器、高性能计算及智能汽车等应用领域的结构性需求，叠加公司产品结构的持续优化，预计2026年上半年公司营业收入和净利润较上年同期均有较快增长。",
-          "url": "https://wallstreetcn.com/livenews/3132790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
-          "url": "https://wallstreetcn.com/articles/3776720",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 12时52分]"
-        },
-        {
-          "title": "印度本土为何跑不出一家OpenAI",
-          "url": "https://www.toutiao.com/trending/7661777860511665706/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "00时03分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "本周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
-          "url": "https://wallstreetcn.com/articles/3776632",
-          "source": "华尔街见闻",
+          "title": "中国自研AI芯片取得架构突破",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%87%AA%E7%A0%94AI%E8%8A%AF%E7%89%87%E5%8F%96%E5%BE%97%E6%9E%B6%E6%9E%84%E7%AA%81%E7%A0%B4%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            2,
-            1,
-            5
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时19分 ~ 18时57分]"
-        },
-        {
-          "title": "“加息噩梦”萦绕？高盛：AI或引爆美国通胀 存储暴涨是核心推手",
-          "url": "https://www.cls.cn/detail/2424017",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
+          "appearance_count": 1,
+          "time_info": "00时03分"
         }
       ]
     }

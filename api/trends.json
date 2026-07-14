@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T18:29:02.426037+08:00",
-  "total_titles_processed": 1108,
+  "generated_at": "2026-07-14T19:52:56.355738+08:00",
+  "total_titles_processed": 1241,
   "failed_sources": [],
   "trends": [
     {
@@ -46,11 +46,12 @@
           "url": "https://www.cls.cn/detail/2425710",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时29分]"
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 19时52分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-07-14）",
@@ -70,7 +71,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         }
@@ -115,11 +116,12 @@
           "ranks": [
             15,
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时20分 ~ 18时29分]"
+          "appearance_count": 7,
+          "time_info": "[12时20分 ~ 19时52分]"
         }
       ]
     },
@@ -151,11 +153,12 @@
           "ranks": [
             12,
             4,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时32分 ~ 18时29分]"
+          "appearance_count": 6,
+          "time_info": "[14时32分 ~ 19时52分]"
         }
       ]
     },

@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-07-15T09:05:48.140774+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-15T12:21:09.359418+08:00",
+  "total_titles_processed": 504,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "曝DeepSeek计划明年上市",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9DDeepSeek%E8%AE%A1%E5%88%92%E6%98%8E%E5%B9%B4%E4%B8%8A%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 12时21分]"
+        },
+        {
+          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
+          "url": "https://www.zhihu.com/question/2060645375338180828",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 12时21分]"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
@@ -12,11 +40,12 @@
           "url": "https://www.cls.cn/detail/2426550",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
+          "appearance_count": 3,
+          "time_info": "[09时05分 ~ 12时21分]"
         }
       ]
     },

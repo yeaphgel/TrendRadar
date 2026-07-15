@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T20:48:13.465864+08:00",
-  "total_titles_processed": 1095,
+  "generated_at": "2026-07-15T22:33:11.475727+08:00",
+  "total_titles_processed": 1239,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "5张图看懂中国人工智能进化之路",
@@ -15,8 +15,30 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时47分 ~ 20时48分]"
+          "appearance_count": 4,
+          "time_info": "[20时47分 ~ 22时33分]"
+        },
+        {
+          "title": "美联储主席沃什：在此期间，人工智能将引发颠覆性变革。",
+          "url": "https://flash.jin10.com/detail/20260715222853588800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "美联储主席沃什：短期内，认为人工智能投资有利于就业。",
+          "url": "https://flash.jin10.com/detail/20260715222735589800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "哈萨克斯坦总统托卡耶夫抵达上海 出席2026世界人工智能大会暨人工智能全球治理高级别会议",
@@ -81,8 +103,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时20分 ~ 20时48分]"
+          "appearance_count": 10,
+          "time_info": "[12时20分 ~ 22时33分]"
         },
         {
           "title": "DeepSeek工资待遇太恐怖了",
@@ -93,8 +115,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时03分 ~ 20时48分]"
+          "appearance_count": 7,
+          "time_info": "[17时03分 ~ 22时33分]"
         },
         {
           "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股",
@@ -102,11 +124,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时06分 ~ 20时48分]"
+          "appearance_count": 5,
+          "time_info": "[19时06分 ~ 22时33分]"
         },
         {
           "title": "曝DeepSeek计划明年上市",
@@ -119,6 +142,102 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时20分 ~ 14时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Anthropic",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "微软执行副总裁：相比旗舰AI助手Copilot，Anthropic的产品速度更慢、准确性较差",
+          "url": "https://wallstreetcn.com/livenews/3134432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "Anthropic、黑石集团与Hellman & Friedman联合推出企业级AI服务公司Ode with Anthropic",
+          "url": "https://wallstreetcn.com/livenews/3134422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "市场消息：Anthropic、黑石集团与Hellman&Friedman联合推出ODE产品。",
+          "url": "https://flash.jin10.com/detail/20260715220214936800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI拟进军消费硬件市场：首款无屏智能音箱曝光 未来目标瞄准“手机替代品”",
+          "url": "https://www.cls.cn/detail/2426550",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时05分 ~ 12时21分]"
+        },
+        {
+          "title": "微软向销售团队传授“击败”Anthropic和OpenAI的战术",
+          "url": "https://wallstreetcn.com/livenews/3134430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国通胀降温叠加AI交易重燃，美股盘初走高，阿斯麦涨约3%，油价涨1%",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时32分 ~ 22时33分]"
+        },
+        {
+          "title": "苹果AI在中国完成备案",
+          "url": "https://www.toutiao.com/trending/7662353903802974258/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时06分 ~ 20时48分]"
         }
       ]
     },
@@ -140,24 +259,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI拟进军消费硬件市场：首款无屏智能音箱曝光 未来目标瞄准“手机替代品”",
-          "url": "https://www.cls.cn/detail/2426550",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时05分 ~ 12时21分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "马斯克",
       "match_count": 1,
       "titles": [
@@ -175,19 +276,19 @@
       ]
     },
     {
-      "keyword_group": "AI",
+      "keyword_group": "Claude",
       "match_count": 1,
       "titles": [
         {
-          "title": "苹果AI在中国完成备案",
-          "url": "https://www.toutiao.com/trending/7662353903802974258/",
-          "source": "今日头条",
+          "title": "Claude Code 源码泄露后 OpenCode 却没有一波大更新？是开源社区躺平了，还是另有隐情？",
+          "url": "https://www.zhihu.com/question/2053497628416030104",
+          "source": "知乎",
           "ranks": [
-            12
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时06分 ~ 20时48分]"
+          "appearance_count": 2,
+          "time_info": "[22时32分 ~ 22时33分]"
         }
       ]
     }

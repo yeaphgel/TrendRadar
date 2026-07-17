@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-17T20:10:09.262314+08:00",
-  "total_titles_processed": 1052,
+  "generated_at": "2026-07-17T22:10:57.186885+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "成立世界人工智能合作组织协定签署仪式在上海举行",
           "url": "https://m.thepaper.cn/newsDetail_forward_33600950",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时18分 ~ 20时10分]"
+          "appearance_count": 9,
+          "time_info": "[09时18分 ~ 22时10分]"
         },
         {
           "title": "高志凯：要对美国“人工智能霸凌”说“不”",
@@ -26,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时07分 ~ 20时10分]"
+          "appearance_count": 7,
+          "time_info": "[15时07分 ~ 22时10分]"
         },
         {
           "title": "2026世界人工智能大会有哪些不同",
@@ -40,8 +41,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时32分 ~ 20时10分]"
+          "appearance_count": 8,
+          "time_info": "[12时32分 ~ 22时10分]"
         },
         {
           "title": "国家发改委发布《人工智能合作发展行动计划》",
@@ -89,8 +90,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时26分 ~ 20时10分]"
+          "appearance_count": 6,
+          "time_info": "[17时26分 ~ 22时10分]"
+        },
+        {
+          "title": "习近平宣布中国支持全球人工智能发展重大举措",
+          "url": "https://wallstreetcn.com/articles/3777174",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时07分 ~ 22时10分]"
         },
         {
           "title": "世界人工智能大会今天开幕",
@@ -104,18 +119,15 @@
           "time_info": "[12时32分 ~ 15时07分]"
         },
         {
-          "title": "习近平宣布中国支持全球人工智能发展重大举措",
-          "url": "https://wallstreetcn.com/articles/3777174",
-          "source": "华尔街见闻",
+          "title": "详讯丨习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33604314",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            9,
-            8,
-            7
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时07分 ~ 20时10分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "经纬度：在上海，WAIC见证人工智能改变未来",
@@ -138,6 +150,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
+        },
+        {
+          "title": "2026世界人工智能大会亮点速览",
+          "url": "https://www.douyin.com/hot/2575352",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "直击世界人工智能大会现场",
@@ -342,11 +365,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时02分 ~ 20时10分]"
+          "appearance_count": 4,
+          "time_info": "[19时02分 ~ 22时10分]"
         },
         {
           "title": "玉渊谭天丨中国AI的发展逻辑",
@@ -359,8 +383,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时07分 ~ 20时10分]"
+          "appearance_count": 7,
+          "time_info": "[15时07分 ~ 22时10分]"
         },
         {
           "title": "财晓得｜中国AI跑出加速度背后的四重底气",
@@ -402,8 +426,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时32分 ~ 20时10分]"
+          "appearance_count": 8,
+          "time_info": "[12时32分 ~ 22时10分]"
         },
         {
           "title": "何为AI泡沫？分析师：OpenAI就是“业界雷曼兄弟”，一倒全市场将崩盘！",

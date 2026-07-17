@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T09:18:43.046109+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-17T12:32:31.874449+08:00",
+  "total_titles_processed": 502,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 12,
       "titles": [
         {
           "title": "成立世界人工智能合作组织协定签署仪式在上海举行",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 12时32分]"
         },
         {
           "title": "经纬度：在上海，WAIC见证人工智能改变未来",
@@ -30,6 +30,50 @@
           "time_info": "09时18分"
         },
         {
+          "title": "2026世界人工智能大会有哪些不同",
+          "url": "https://search.bilibili.com/all?keyword=2026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%90%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "世界人工智能大会今天开幕",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%B9%95%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "习近平宣布中国支持全球人工智能发展重大举措",
+          "url": "https://wallstreetcn.com/livenews/3135462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "习近平宣布中国支持全球人工智能发展重大举措",
+          "url": "https://www.cls.cn/detail/2429309",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "2026世界人工智能大会暨人工智能全球治理高级别会议于7月17日在上海开幕。国家主席习近平将出席大会开幕式并发表主旨讲话。（央视新闻）",
           "url": "https://wallstreetcn.com/livenews/3135345",
           "source": "华尔街见闻-快讯",
@@ -39,6 +83,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "习近平宣布中国支持全球人工智能发展重大举措",
+          "url": "https://flash.jin10.com/detail/20260717120532959800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "世界人工智能合作组织协定签署",
@@ -61,6 +116,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-07-17）",
+          "url": "https://flash.jin10.com/detail/20260717115911908800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "世界人工智能大会：展区机器人动起来",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%EF%BC%9A%E5%B1%95%E5%8C%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8A%A8%E8%B5%B7%E6%9D%A5",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         }
       ]
     },
@@ -73,11 +150,12 @@
           "url": "https://wallstreetcn.com/articles/3777116",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 12时32分]"
         },
         {
           "title": "梁文锋打新长鑫科技",
@@ -101,11 +179,29 @@
           "url": "https://www.cls.cn/detail/2428944",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 12时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
+          "url": "https://wallstreetcn.com/articles/3777152",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时18分"
+          "time_info": "12时32分"
         }
       ]
     },
@@ -152,11 +248,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33591307",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 12时32分]"
         }
       ]
     }

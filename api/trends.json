@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T18:54:53.514348+08:00",
-  "total_titles_processed": 875,
+  "generated_at": "2026-07-18T19:41:49.037283+08:00",
+  "total_titles_processed": 929,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时14分 ~ 18时54分]"
-        },
-        {
-          "title": "详讯丨习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33604314",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时10分 ~ 12时19分]"
+          "appearance_count": 5,
+          "time_info": "[16时14分 ~ 19时41分]"
         },
         {
           "title": "2026世界人工智能大会有哪些不同",
@@ -42,8 +31,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时10分 ~ 18时54分]"
+          "appearance_count": 9,
+          "time_info": "[09时10分 ~ 19时41分]"
+        },
+        {
+          "title": "详讯丨习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33604314",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 12时19分]"
         },
         {
           "title": "习近平宣布中国支持全球人工智能发展重大举措",
@@ -67,6 +67,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时10分 ~ 12时19分]"
+        },
+        {
+          "title": "世界人工智能大会超全攻略",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E8%B6%85%E5%85%A8%E6%94%BB%E7%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时19分 ~ 19时41分]"
         },
         {
           "title": "感受人工智能的“智”与“志”",
@@ -113,17 +124,6 @@
           "time_info": "09时11分"
         },
         {
-          "title": "世界人工智能大会超全攻略",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E8%B6%85%E5%85%A8%E6%94%BB%E7%95%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时19分 ~ 18时54分]"
-        },
-        {
           "title": "习近平宣布中国支持全球人工智能发展重大举措",
           "url": "https://wallstreetcn.com/articles/3777174",
           "source": "华尔街见闻",
@@ -148,6 +148,19 @@
           "time_info": "[12时19分 ~ 14时27分]"
         },
         {
+          "title": "2026 世界人工智能大会在上海举行，超 300 款全球首发 AI 产品将亮相，本次大会有哪些看点？",
+          "url": "https://www.zhihu.com/question/2061186638059758273",
+          "source": "知乎",
+          "ranks": [
+            13,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 19时41分]"
+        },
+        {
           "title": "蔚来芯片子公司神玑首次独立参展世界人工智能大会，发布多款前沿AI算力产品",
           "url": "https://wallstreetcn.com/livenews/3135966",
           "source": "华尔街见闻-快讯",
@@ -158,18 +171,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时27分 ~ 16时15分]"
-        },
-        {
-          "title": "2026 世界人工智能大会在上海举行，超 300 款全球首发 AI 产品将亮相，本次大会有哪些看点？",
-          "url": "https://www.zhihu.com/question/2061186638059758273",
-          "source": "知乎",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 18时54分]"
         },
         {
           "title": "首届世界人工智能大会·学术正式亮相",
@@ -231,8 +232,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时14分 ~ 18时54分]"
+          "appearance_count": 5,
+          "time_info": "[16时14分 ~ 19时41分]"
         },
         {
           "title": "中国拉群搞AI,28国兄弟入伙",
@@ -246,8 +247,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时10分 ~ 18时54分]"
+          "appearance_count": 9,
+          "time_info": "[09时10分 ~ 19时41分]"
         },
         {
           "title": "美企抄袭中国AI玩双标被点名",
@@ -260,8 +261,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时19分 ~ 18时54分]"
+          "appearance_count": 7,
+          "time_info": "[12时19分 ~ 19时41分]"
         },
         {
           "title": "中国AI出大招后 美政府听劝了",
@@ -311,7 +312,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
@@ -322,8 +323,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时10分 ~ 18时54分]"
+          "appearance_count": 9,
+          "time_info": "[09时10分 ~ 19时41分]"
         },
         {
           "title": "DeepSeek最新估值意外曝光",
@@ -331,11 +332,12 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            24
+            24,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 18时54分]"
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 19时41分]"
         },
         {
           "title": "DeepSeek准确估值意外曝光",
@@ -347,6 +349,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时14分 ~ 16时15分]"
+        },
+        {
+          "title": "Kimi K3重演“DeepSeek时刻”",
+          "url": "https://www.toutiao.com/trending/7663776827566984767/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         }
       ]
     },

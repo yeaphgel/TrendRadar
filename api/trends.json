@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T19:41:49.037283+08:00",
-  "total_titles_processed": 929,
+  "generated_at": "2026-07-18T20:42:28.621371+08:00",
+  "total_titles_processed": 1002,
   "failed_sources": [],
   "trends": [
     {
@@ -46,6 +46,17 @@
           "time_info": "[09时10分 ~ 12时19分]"
         },
         {
+          "title": "世界人工智能大会超全攻略",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E8%B6%85%E5%85%A8%E6%94%BB%E7%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时19分 ~ 20时42分]"
+        },
+        {
           "title": "习近平宣布中国支持全球人工智能发展重大举措",
           "url": "https://m.thepaper.cn/newsDetail_forward_33604109",
           "source": "澎湃新闻",
@@ -67,17 +78,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时10分 ~ 12时19分]"
-        },
-        {
-          "title": "世界人工智能大会超全攻略",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E8%B6%85%E5%85%A8%E6%94%BB%E7%95%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时19分 ~ 19时41分]"
         },
         {
           "title": "感受人工智能的“智”与“志”",
@@ -232,8 +232,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时14分 ~ 19时41分]"
+          "appearance_count": 6,
+          "time_info": "[16时14分 ~ 20时42分]"
         },
         {
           "title": "中国拉群搞AI,28国兄弟入伙",
@@ -244,11 +244,12 @@
             14,
             15,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时10分 ~ 19时41分]"
+          "appearance_count": 10,
+          "time_info": "[09时10分 ~ 20时42分]"
         },
         {
           "title": "美企抄袭中国AI玩双标被点名",
@@ -258,11 +259,12 @@
             8,
             9,
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时19分 ~ 19时41分]"
+          "appearance_count": 8,
+          "time_info": "[12时19分 ~ 20时42分]"
         },
         {
           "title": "中国AI出大招后 美政府听劝了",
@@ -323,8 +325,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时10分 ~ 19时41分]"
+          "appearance_count": 10,
+          "time_info": "[09时10分 ~ 20时42分]"
         },
         {
           "title": "DeepSeek最新估值意外曝光",
@@ -357,7 +359,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         }

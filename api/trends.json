@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-07-21T12:40:21.125053+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-07-21T15:25:38.246272+08:00",
+  "total_titles_processed": 672,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "为什么豆包没有被 DeepSeek「斩杀」？",
+          "url": "https://www.zhihu.com/question/2061575313973416591",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "DeepSeek V4 开放灰度测试，你认为能超越 Kimi K3 吗？两个大模型各有哪些优劣？",
+          "url": "https://www.zhihu.com/question/2062579631564093084",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
@@ -16,8 +44,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时16分 ~ 12时40分]"
+          "appearance_count": 3,
+          "time_info": "[09时16分 ~ 15时25分]"
         },
         {
           "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
@@ -25,11 +53,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时16分 ~ 12时40分]"
+          "appearance_count": 3,
+          "time_info": "[09时16分 ~ 15时25分]"
         }
       ]
     },
@@ -46,19 +75,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时16分 ~ 12时40分]"
+          "appearance_count": 3,
+          "time_info": "[09时16分 ~ 15时25分]"
         },
         {
           "title": "OpenAI负责人抨击Kimi开源",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 15时25分]"
         }
       ]
     },
@@ -84,32 +114,15 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么豆包没有被 DeepSeek「斩杀」？",
-          "url": "https://www.zhihu.com/question/2061575313973416591",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "马斯克",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "机器人断头反杀看乐马斯克",
@@ -122,6 +135,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时16分 ~ 12时40分]"
+        },
+        {
+          "title": "月之暗面回应马斯克：欢迎掰手腕",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E5%9B%9E%E5%BA%94%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E6%AC%A2%E8%BF%8E%E6%8E%B0%E6%89%8B%E8%85%95",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         }
       ]
     },
@@ -134,11 +158,12 @@
           "url": "https://wallstreetcn.com/articles/3777491",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 15时25分]"
         }
       ]
     }

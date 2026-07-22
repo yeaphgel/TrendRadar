@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T17:46:15.275009+08:00",
-  "total_titles_processed": 835,
+  "generated_at": "2026-07-22T19:40:51.393459+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
     {
@@ -58,7 +58,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -99,8 +99,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 17时46分]"
+          "appearance_count": 5,
+          "time_info": "[12时40分 ~ 19时40分]"
+        },
+        {
+          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
+          "url": "https://wallstreetcn.com/articles/3777627",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 19时40分]"
         },
         {
           "title": "史无前例！OpenAI模型“失控”攻入全球最大AI开源社区 中国开源模型参与取证",
@@ -128,17 +140,6 @@
           "time_info": "[09时14分 ~ 15时28分]"
         },
         {
-          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
-          "url": "https://wallstreetcn.com/articles/3777627",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 17时46分]"
-        },
-        {
           "title": "OpenAI自主攻破最大AI开源社区",
           "url": "https://s.weibo.com/weibo?q=OpenAI%E8%87%AA%E4%B8%BB%E6%94%BB%E7%A0%B4%E6%9C%80%E5%A4%A7AI%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -148,6 +149,63 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
+          "url": "https://wallstreetcn.com/articles/3777510",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "吧友做梗图催更DeepSeekV4",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356411&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%81%9A%E6%A2%97%E5%9B%BE%E5%82%AC%E6%9B%B4DeepSeekV4",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌财报前夜，德银力挺：别光盯着Capex，真正的惊喜可能来自谷歌云",
+          "url": "https://wallstreetcn.com/articles/3777555",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时14分 ~ 15时28分]"
+        },
+        {
+          "title": "谷歌平价Gemini三箭齐发，网安模型对标Anthropic Mythos，旗舰3.5 Pro仍难产",
+          "url": "https://wallstreetcn.com/articles/3777594",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         }
       ]
     },
@@ -162,11 +220,12 @@
           "ranks": [
             7,
             9,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 17时46分]"
+          "appearance_count": 5,
+          "time_info": "[12时40分 ~ 19时40分]"
         },
         {
           "title": "SpaceX做空比例飙至32% 马斯克警告空头：几无存活可能！",
@@ -221,8 +280,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 17时46分]"
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 19时40分]"
         },
         {
           "title": "纬创得州新厂产出美国第一片GB300基板 黄仁勋称后续仍需更多的AI工厂",
@@ -234,41 +293,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
-          "url": "https://wallstreetcn.com/articles/3777510",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌财报前夜，德银力挺：别光盯着Capex，真正的惊喜可能来自谷歌云",
-          "url": "https://wallstreetcn.com/articles/3777555",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 15时28分]"
         }
       ]
     },

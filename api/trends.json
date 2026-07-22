@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T12:40:42.001808+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-07-22T15:28:28.090717+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "世界人工智能大会达成丰硕成果",
@@ -36,9 +36,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
+        },
+        {
+          "title": "申真谞战胜人工智能KataGo",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%B3%E7%9C%9F%E8%B0%9E%E6%88%98%E8%83%9C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDKataGo",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "人工智能 文科生",
@@ -58,7 +69,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         }
@@ -66,18 +77,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
           "url": "https://www.zhihu.com/question/2062943431668789795",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 15时28分]"
         },
         {
           "title": "OpenAI负责人抨击Kimi开源",
@@ -85,11 +97,23 @@
           "source": "贴吧",
           "ranks": [
             24,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 12时40分]"
+          "appearance_count": 3,
+          "time_info": "[09时14分 ~ 15时28分]"
+        },
+        {
+          "title": "史无前例！OpenAI模型“失控”攻入全球最大AI开源社区 中国开源模型参与取证",
+          "url": "https://www.cls.cn/detail/2433554",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "OpenAI自主攻破最大AI开源社区",
@@ -98,9 +122,37 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "增长",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "AI算力产业链成为上海出口重要增长动能",
+          "url": "https://flash.jin10.com/detail/20260722151320720800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "AI算力产业链成为上海出口重要增长动能",
+          "url": "https://wallstreetcn.com/livenews/3138049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         }
       ]
     },
@@ -134,8 +186,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 12时40分]"
+          "appearance_count": 3,
+          "time_info": "[09时14分 ~ 15时28分]"
         }
       ]
     },
@@ -148,11 +200,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356390&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%AF%8D%E4%BA%B2%E5%90%90%E6%A7%BD%E7%BA%BD%E7%BA%A6%E8%84%8F%E4%B9%B1%E5%B7%AE",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 15时28分]"
         }
       ]
     },
@@ -184,7 +237,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T17:44:16.895765+08:00",
-  "total_titles_processed": 832,
+  "generated_at": "2026-07-23T19:44:21.309963+08:00",
+  "total_titles_processed": 968,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,20 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 19时44分]"
+        },
+        {
+          "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
+          "url": "https://wallstreetcn.com/articles/3777723",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时22分 ~ 17时44分]"
+          "time_info": "[12时44分 ~ 19时44分]"
         },
         {
           "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
@@ -31,16 +43,17 @@
           "time_info": "[09时22分 ~ 15时26分]"
         },
         {
-          "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
-          "url": "https://wallstreetcn.com/articles/3777723",
-          "source": "华尔街见闻",
+          "title": "AI烧钱大战升级！谷歌、特斯拉现金流双双转负 华尔街看好长期回报",
+          "url": "https://www.cls.cn/detail/2434820",
+          "source": "财联社热门",
           "ranks": [
+            13,
             4,
-            3
+            5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时44分 ~ 17时44分]"
+          "time_info": "[15时26分 ~ 19时44分]"
         },
         {
           "title": "谷歌盘后大跌！全年资本开支上调8%，CFO称继续加大投入",
@@ -66,16 +79,16 @@
           "time_info": "[09时22分 ~ 17时44分]"
         },
         {
-          "title": "AI烧钱大战升级！谷歌、特斯拉现金流双双转负 华尔街看好长期回报",
-          "url": "https://www.cls.cn/detail/2434820",
-          "source": "财联社热门",
+          "title": "谷歌二季度营收同比增 24% 、云业务大涨 82%，盘后股价却暴跌，如何解读该业绩？市场在担忧什么？",
+          "url": "https://www.zhihu.com/question/2063582676884223714",
+          "source": "知乎",
           "ranks": [
-            13,
-            4
+            18,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时26分 ~ 17时44分]"
+          "time_info": "[17时44分 ~ 19时44分]"
         },
         {
           "title": "谷歌再次上调2026年资本支出预期 算力产业链核心或将继续受益",
@@ -87,17 +100,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
-        },
-        {
-          "title": "谷歌二季度营收同比增 24% 、云业务大涨 82%，盘后股价却暴跌，如何解读该业绩？市场在担忧什么？",
-          "url": "https://www.zhihu.com/question/2063582676884223714",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时44分"
         },
         {
           "title": "谷歌发布Q2财报：营收1198亿美元",
@@ -128,7 +130,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         }
@@ -136,7 +138,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "吧友做梗图催更DeepSeekV4",
@@ -172,6 +174,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
+        },
+        {
+          "title": "DeepSeek华为合作",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8D%8E%E4%B8%BA%E5%90%88%E4%BD%9C%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "DeepSeek首轮融资500亿，梁文锋4小时回应一切：越不贪婪，越容易成功",
@@ -227,6 +240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
+        },
+        {
+          "title": "黄仁勋：美国不该限制DeepSeek、Kimi等中国模型，优秀的开源模型就该被用起来",
+          "url": "https://wallstreetcn.com/livenews/3138806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         }
       ]
     },
@@ -243,8 +267,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时22分 ~ 17时44分]"
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 19时44分]"
         },
         {
           "title": "OpenAI现安全事故中国大模型救场",
@@ -316,18 +340,30 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33635920",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 19时44分]"
+        },
+        {
+          "title": "受益于人工智能押注 黑石集团利润增长26%",
+          "url": "https://flash.jin10.com/detail/20260723191903505800",
+          "source": "金十数据",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时44分"
+          "time_info": "19时44分"
         },
         {
           "title": "中国大模型救场美国人工智能事故",
@@ -358,9 +394,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
+        },
+        {
+          "title": "鹏鼎控股：拟投资人民币100亿元资新建深圳第三园区，并建设人工智能高阶类载板及柔性电路板智造基地项目，本项目计划自2026年7月启动，至2033年建成投产。",
+          "url": "https://wallstreetcn.com/livenews/3138799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         }
       ]
     },
@@ -369,6 +416,20 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "从震动硅谷到喊话马斯克“欢迎掰手腕”，Kimi做对了哪些",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33637839",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时44分 ~ 19时44分]"
+        },
+        {
           "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
           "url": "https://wallstreetcn.com/articles/3777724",
           "source": "华尔街见闻",
@@ -376,21 +437,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时44分 ~ 17时44分]"
-        },
-        {
-          "title": "从震动硅谷到喊话马斯克“欢迎掰手腕”，Kimi做对了哪些",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33637839",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时44分 ~ 17时44分]"
+          "appearance_count": 4,
+          "time_info": "[12时44分 ~ 19时44分]"
         },
         {
           "title": "马斯克也“默认”了？知名科技圈人士：特斯拉和SpaceX合并概率已达90%！",
@@ -399,7 +447,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -426,11 +474,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 17时44分]"
+          "appearance_count": 3,
+          "time_info": "[15时26分 ~ 19时44分]"
         },
         {
           "title": "月之暗面 KimiK3 发布后，Anthropic 为何成外网主要吐槽对象？",
@@ -450,7 +499,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         }
@@ -468,8 +517,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时44分 ~ 17时44分]"
+          "appearance_count": 4,
+          "time_info": "[12时44分 ~ 19时44分]"
         },
         {
           "title": "黄仁勋反对美国封禁中国AI模型",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T17:42:13.832747+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2026-07-24T19:28:48.046808+08:00",
+  "total_titles_processed": 977,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,24 @@
           "source": "知乎",
           "ranks": [
             17,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时24分 ~ 17时42分]"
+          "appearance_count": 5,
+          "time_info": "[15时24分 ~ 19时28分]"
+        },
+        {
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 19时28分]"
         },
         {
           "title": "新晋菲尔兹奖得主当天宣布加入OpenAI",
@@ -30,17 +43,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时41分 ~ 15时25分]"
-        },
-        {
-          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
         },
         {
           "title": "菲尔兹奖得主谈加入OpenAI",
@@ -71,6 +73,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "DeepSeek纠结了10秒还是决定谄媚",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E7%BA%A0%E7%BB%93%E4%BA%8610%E7%A7%92%E8%BF%98%E6%98%AF%E5%86%B3%E5%AE%9A%E8%B0%84%E5%AA%9A&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 19时28分]"
+        },
+        {
           "title": "曝梁文锋称 DeepSeek「没有组织」，每个人有一半时间完全自由、没有 KPI，怎样看待这种企业文化？",
           "url": "https://www.zhihu.com/question/2063657419020792636",
           "source": "知乎",
@@ -93,17 +107,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时17分 ~ 09时18分]"
-        },
-        {
-          "title": "DeepSeek纠结了10秒还是决定谄媚",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E7%BA%A0%E7%BB%93%E4%BA%8610%E7%A7%92%E8%BF%98%E6%98%AF%E5%86%B3%E5%AE%9A%E8%B0%84%E5%AA%9A&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
         },
         {
           "title": "梁文锋称华为芯片一年内平替英伟达",
@@ -170,7 +173,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "中国AI大反超 美国还能挡多久",
@@ -182,6 +185,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时24分 ~ 15时25分]"
+        },
+        {
+          "title": "【瑞银：不认为中国AI行业存在“泡沫”】7月24日，瑞银证券中国互联网行业分析师熊玮表示，中国云厂商投入节奏更稳健，强调ROI和可持续性，不认为中国AI行业有“泡沫”。同时，随着模型能力继续进步，推理需求持续增加，中国AI行业的投入会逐渐增大。（证券时报）",
+          "url": "https://wallstreetcn.com/livenews/3139454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "中国AI大反超，美国还能挡多久？",
@@ -225,8 +239,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 19时28分]"
         }
       ]
     },
@@ -260,8 +274,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时17分 ~ 17时42分]"
+          "appearance_count": 8,
+          "time_info": "[09时17分 ~ 19时28分]"
         }
       ]
     },

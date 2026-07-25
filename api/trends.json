@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T18:50:18.608334+08:00",
-  "total_titles_processed": 811,
+  "generated_at": "2026-07-25T19:55:48.279034+08:00",
+  "total_titles_processed": 872,
   "failed_sources": [],
   "trends": [
     {
@@ -53,6 +53,18 @@
           "time_info": "[09时20分 ~ 12时36分]"
         },
         {
+          "title": "SpaceX星舰第13次试飞成功，发动机重启、溅落精准，马斯克：星舰完好无损",
+          "url": "https://wallstreetcn.com/articles/3777914",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时16分 ~ 19时55分]"
+        },
+        {
           "title": "马斯克财富一周蒸发8800亿元",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B4%A2%E5%AF%8C%E4%B8%80%E5%91%A8%E8%92%B8%E5%8F%918800%E4%BA%BF%E5%85%83",
           "source": "百度热搜",
@@ -65,16 +77,16 @@
           "time_info": "[12时35分 ~ 15时07分]"
         },
         {
-          "title": "SpaceX星舰第13次试飞成功，发动机重启、溅落精准，马斯克：星舰完好无损",
-          "url": "https://wallstreetcn.com/articles/3777914",
-          "source": "华尔街见闻",
+          "title": "马斯克：中国很有可能成AI领导者",
+          "url": "https://www.toutiao.com/trending/7666381434109578761/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            8
+            8,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时16分 ~ 18时50分]"
+          "time_info": "[18时50分 ~ 19时55分]"
         },
         {
           "title": "近日马斯克称其 2 万亿新模型「可能超越 Kimi」，可能超越 Kimi 的具体依据是什么？对此你们是怎么看？",
@@ -108,17 +120,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
-        },
-        {
-          "title": "马斯克：中国很有可能成AI领导者",
-          "url": "https://www.toutiao.com/trending/7666381434109578761/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时50分"
         },
         {
           "title": "马斯克点赞黄仁勋首条推文：完全支持黄仁勋",
@@ -159,8 +160,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时35分 ~ 18时50分]"
+          "appearance_count": 6,
+          "time_info": "[12时35分 ~ 19时55分]"
         },
         {
           "title": "韩美科技巨头聚首旧金山 英伟达、Anthropic宣布达成大型协议",
@@ -168,11 +169,26 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时35分 ~ 18时50分]"
+          "appearance_count": 6,
+          "time_info": "[12时35分 ~ 19时55分]"
+        },
+        {
+          "title": "韩国科学部：SK集团将与Anthropic在韩国推进千兆瓦级AI数据中心项目投资合作。",
+          "url": "https://wallstreetcn.com/livenews/3139722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            12,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时07分 ~ 19时55分]"
         },
         {
           "title": "Anthropic CEO：已与三星电子和SK海力士签署供应协议。",
@@ -185,19 +201,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时20分 ~ 12时36分]"
-        },
-        {
-          "title": "韩国科学部：SK集团将与Anthropic在韩国推进千兆瓦级AI数据中心项目投资合作。",
-          "url": "https://wallstreetcn.com/livenews/3139722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时07分 ~ 18时50分]"
         },
         {
           "title": "SK集团会长崔泰源：下次与英伟达黄仁勋见面时，他可能会要求提供更多内存芯片。 我们宣布的超大型项目现实且可实现。 Anthropic已决定自行打造“算力”。",
@@ -254,11 +257,12 @@
           "url": "https://wallstreetcn.com/livenews/3139736",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 19时55分]"
         },
         {
           "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
@@ -272,6 +276,18 @@
           "time_info": "[09时19分 ~ 12时36分]"
         },
         {
+          "title": "据社交媒体信息：OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
+          "url": "https://flash.jin10.com/detail/20260725172016965800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 19时55分]"
+        },
+        {
           "title": "OpenAI失控中国大模型救场",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%A4%B1%E6%8E%A7%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%95%91%E5%9C%BA",
           "source": "bilibili 热搜",
@@ -283,24 +299,13 @@
           "time_info": "[09时19分 ~ 09时20分]"
         },
         {
-          "title": "据社交媒体信息：OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
-          "url": "https://flash.jin10.com/detail/20260725172016965800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时50分"
-        },
-        {
           "title": "ChatGPT崩了",
           "url": "https://s.weibo.com/weibo?q=ChatGPT%E5%B4%A9%E4%BA%86&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         }
@@ -388,7 +393,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "中国AI反超,老美急眼下黑手",
@@ -397,11 +402,34 @@
           "ranks": [
             2,
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时35分 ~ 18时50分]"
+          "appearance_count": 6,
+          "time_info": "[12时35分 ~ 19时55分]"
+        },
+        {
+          "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
+          "url": "https://wallstreetcn.com/articles/3777926",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
+          "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
+          "url": "https://news.ifeng.com/c/8v36WP0WL2Y",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         }
       ]
     }

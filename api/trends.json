@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T15:29:54.780028+08:00",
-  "total_titles_processed": 607,
+  "generated_at": "2026-07-26T17:32:07.349930+08:00",
+  "total_titles_processed": 728,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             10,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时21分 ~ 15时29分]"
+          "appearance_count": 6,
+          "time_info": "[09时21分 ~ 17时32分]"
         },
         {
           "title": "中国AI反超,老美急眼下黑手",
@@ -39,11 +40,12 @@
           "ranks": [
             13,
             18,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时21分 ~ 15时29分]"
+          "appearance_count": 6,
+          "time_info": "[09时21分 ~ 17时32分]"
         },
         {
           "title": "中国AI步步紧逼，美国科技巨头先内讧了",
@@ -52,9 +54,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时29分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 17时32分]"
         },
         {
           "title": "黄仁勋：中国注定会产出卓越的AI技术",
@@ -113,7 +115,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         }
@@ -131,8 +133,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 15时29分]"
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 17时32分]"
         },
         {
           "title": "马斯克说未来中国极可能成为AI领导者",
@@ -141,7 +143,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -155,6 +157,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "不满谷歌被重罚，特朗普威胁对欧盟征收巨额关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33658424",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
+        },
+        {
+          "title": "英伟达“开放权重模型”公开信联署方翻倍至50个 谷歌等加入",
+          "url": "https://flash.jin10.com/detail/20260726111836175800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         }
       ]
     },
@@ -180,7 +210,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         }
@@ -199,8 +229,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时21分 ~ 15时29分]"
+          "appearance_count": 6,
+          "time_info": "[09时21分 ~ 17时32分]"
         },
         {
           "title": "Anthropic也要自研AI芯片了！已向SK海力士寻求供应",
@@ -225,28 +255,29 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 15时29分]"
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 17时32分]"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "增长",
       "match_count": 1,
       "titles": [
         {
-          "title": "英伟达“开放权重模型”公开信联署方翻倍至50个 谷歌等加入",
-          "url": "https://flash.jin10.com/detail/20260726111836175800",
-          "source": "金十数据",
+          "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
+          "url": "https://www.zhihu.com/question/2063915578427963194",
+          "source": "知乎",
           "ranks": [
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时50分"
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
         }
       ]
     }

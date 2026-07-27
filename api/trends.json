@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T16:26:50.528176+08:00",
-  "total_titles_processed": 711,
+  "generated_at": "2026-07-27T19:47:32.161545+08:00",
+  "total_titles_processed": 905,
   "failed_sources": [],
   "trends": [
     {
@@ -21,24 +21,25 @@
           "time_info": "[09时25分 ~ 16时26分]"
         },
         {
+          "title": "OpenAI失控入侵,遭索赔1亿算力",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 19时47分]"
+        },
+        {
           "title": "OpenAI失控AI内幕曝光：越狱一周才被发现 还有智能体曾留下“逃脱秘籍”",
           "url": "https://www.cls.cn/detail/2437261",
           "source": "财联社热门",
           "ranks": [
             7,
             5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时59分 ~ 16时26分]"
-        },
-        {
-          "title": "OpenAI失控入侵,遭索赔1亿算力",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            9
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -113,6 +114,67 @@
       ]
     },
     {
+      "keyword_group": "人工智能",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越 将成为全球领导者",
+          "url": "https://www.cls.cn/detail/2437146",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 09时26分]"
+        },
+        {
+          "title": "美宣称拟对中国人工智能企业开展调查并实施制裁，中方回应",
+          "url": "https://www.cls.cn/detail/2438053",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
+          "title": "中方回应美拟制裁中国人工智能企业",
+          "url": "https://www.toutiao.com/trending/7667153251594145331/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
+          "title": "美宣称拟对中国人工智能企业开展调查并实施制裁 商务部回应",
+          "url": "https://wallstreetcn.com/livenews/3140252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
+          "title": "中方回应美方拟制裁中国人工智能企业",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%96%B9%E6%8B%9F%E5%88%B6%E8%A3%81%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%BC%81%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -123,7 +185,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -134,7 +196,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         }
@@ -170,25 +232,8 @@
       ]
     },
     {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越 将成为全球领导者",
-          "url": "https://www.cls.cn/detail/2437146",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 09时26分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "中国AI反超,老美急眼下黑手",
@@ -200,6 +245,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时25分 ~ 09时26分]"
+        },
+        {
+          "title": "美国AI霸权正在被自己人亲手撕碎吗",
+          "url": "https://www.toutiao.com/trending/7667143265350585875/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Claude Opus 5 系统提示词泄漏，膨胀到 20 万字符的系统提示词，你怎么看？",
+          "url": "https://www.zhihu.com/question/2064349598202779354",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         }
       ]
     }

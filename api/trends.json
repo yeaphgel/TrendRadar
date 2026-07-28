@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-28T18:04:48.275447+08:00",
-  "total_titles_processed": 1036,
+  "generated_at": "2026-07-28T20:19:05.627373+08:00",
+  "total_titles_processed": 1198,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
       "match_count": 7,
       "titles": [
+        {
+          "title": "我国启动人工智能大模型IPv6能力提升专项行动",
+          "url": "https://www.cls.cn/detail/2438712",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时28分 ~ 20时19分]"
+        },
         {
           "title": "美宣称拟对中国人工智能企业开展调查并实施制裁，中方回应",
           "url": "https://www.cls.cn/detail/2438053",
@@ -41,18 +54,6 @@
           "time_info": "12时34分"
         },
         {
-          "title": "我国启动人工智能大模型IPv6能力提升专项行动",
-          "url": "https://www.cls.cn/detail/2438712",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时28分 ~ 18时04分]"
-        },
-        {
           "title": "如何评价大连理工 2026 在陕招生，普通批仅 10 人全部为计算机人工智能？",
           "url": "https://www.zhihu.com/question/2063239728175043416",
           "source": "知乎",
@@ -84,7 +85,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
         }
@@ -167,9 +168,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时04分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时04分 ~ 20时19分]"
         },
         {
           "title": "英伟达在OpenAI联合创始人伊利亚·苏茨克沃的安全超级智能项目中投资达数十亿美元。（The Information）",
@@ -196,11 +197,12 @@
             1,
             7,
             11,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时13分 ~ 18时04分]"
+          "appearance_count": 7,
+          "time_info": "[09时13分 ~ 20时19分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
@@ -208,6 +210,34 @@
           "source": "微博",
           "ranks": [
             13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "怎么看待大批 Claude 分享的内容又一次被搜索引擎曝光了？",
+          "url": "https://www.zhihu.com/question/2065207444305867519",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时18分 ~ 20时19分]"
+        },
+        {
+          "title": "Claude Opus 5 系统提示词泄漏，膨胀到 20 万字符的系统提示词，你怎么看？",
+          "url": "https://www.zhihu.com/question/2064349598202779354",
+          "source": "知乎",
+          "ranks": [
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -240,23 +270,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Claude Opus 5 系统提示词泄漏，膨胀到 20 万字符的系统提示词，你怎么看？",
-          "url": "https://www.zhihu.com/question/2064349598202779354",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T15:08:02.088711+08:00",
-  "total_titles_processed": 664,
+  "generated_at": "2026-07-30T17:57:24.214603+08:00",
+  "total_titles_processed": 856,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             12,
             7,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时09分 ~ 15时08分]"
+          "appearance_count": 5,
+          "time_info": "[09时09分 ~ 17时57分]"
         },
         {
           "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
@@ -47,7 +48,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "法学何为｜张凌寒：法律如何回应人工智能时代的责任追问？",
@@ -56,11 +57,23 @@
           "ranks": [
             8,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时09分 ~ 15时08分]"
+          "appearance_count": 5,
+          "time_info": "[09时09分 ~ 17时57分]"
+        },
+        {
+          "title": "上海：聚焦人工智能辅助诊断软件等领域，加快推动进入临床阶段的产品注册上市",
+          "url": "https://flash.jin10.com/detail/20260730172816340800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
         },
         {
           "title": "重庆：培育一批“人工智能+”消费等新型消费企业",
@@ -69,7 +82,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
         }

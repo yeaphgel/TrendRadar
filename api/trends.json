@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T20:24:50.494321+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2026-07-31T22:44:35.994933+08:00",
+  "total_titles_processed": 1184,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "老板撞脸马斯克涨粉超5万",
@@ -23,11 +23,12 @@
           "url": "https://www.cls.cn/detail/2442307",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时42分 ~ 20时24分]"
+          "appearance_count": 5,
+          "time_info": "[15时42分 ~ 22时44分]"
         },
         {
           "title": "马斯克预言五年内 AI 将超越全人类、十年后金钱将失去意义，这一预测靠谱吗？AI 真会重塑经济体系吗？",
@@ -51,6 +52,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
+        },
+        {
+          "title": "爆料：马斯克拒绝泽连斯基",
+          "url": "https://news.ifeng.com/c/8vDUUMEzPgw",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "马斯克在社交平台X上称，有关特斯拉考虑剥离中国业务的媒体报道是“假新闻”。",
@@ -100,7 +112,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
@@ -110,8 +122,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时42分 ~ 20时24分]"
+          "appearance_count": 5,
+          "time_info": "[15时42分 ~ 22时44分]"
         },
         {
           "title": "DeepSeek-V4-Flash 正式版API上线",
@@ -119,11 +131,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            1
+            1,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时24分 ~ 20时24分]"
+          "appearance_count": 4,
+          "time_info": "[18时24分 ~ 22时44分]"
         },
         {
           "title": "DeepSeekV4Flash正式版上线",
@@ -148,6 +161,18 @@
           "time_info": "[18时24分 ~ 18时25分]"
         },
         {
+          "title": "DeepSeekV4能力在GLM5.2和KimiK3之间",
+          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%E8%83%BD%E5%8A%9B%E5%9C%A8GLM5.2%E5%92%8CKimiK3%E4%B9%8B%E9%97%B4&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 22时44分]"
+        },
+        {
           "title": "DeepSeek-V4-Flash正式版上线",
           "url": "https://www.baidu.com/s?wd=DeepSeek-V4-Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
           "source": "百度热搜",
@@ -159,22 +184,33 @@
           "time_info": "[18时24分 ~ 18时25分]"
         },
         {
-          "title": "DeepSeekV4能力在GLM5.2和KimiK3之间",
-          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%E8%83%BD%E5%8A%9B%E5%9C%A8GLM5.2%E5%92%8CKimiK3%E4%B9%8B%E9%97%B4&t=31&band_rank=10&Refer=top",
-          "source": "微博",
+          "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
+          "url": "https://www.zhihu.com/question/2066526486505461299",
+          "source": "知乎",
           "ranks": [
-            10
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时24分"
+          "time_info": "22时44分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "外交部部长助理刘彬集体会见签署世界人工智能合作组织协定的外方代表",
+          "url": "https://wallstreetcn.com/livenews/3143324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
         {
           "title": "欧盟8月2日起执行《人工智能法》相关规定 新增AI透明度要求",
           "url": "https://wallstreetcn.com/livenews/3143245",
@@ -182,7 +218,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -204,7 +240,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -218,6 +254,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
+        },
+        {
+          "title": "外交部部长助理刘彬集体会见签署世界人工智能合作组织协定的外方代表",
+          "url": "https://flash.jin10.com/detail/20260731220124205800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "国家发展改革委：上半年人工智能相关行业保持30%以上高增长",
@@ -324,8 +371,19 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "受广泛回暖提振，美国消费者信心升至五个月高点，AI已成为消费者关注的一个“显著”因素",
+          "url": "https://wallstreetcn.com/livenews/3143326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
         {
           "title": "日本、韩国据传于昨夜干预汇市 美国再现“AI暴走”事件 | 环球市场",
           "url": "https://www.cls.cn/detail/2442063",
@@ -363,9 +421,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 22时44分]"
         }
       ]
     }

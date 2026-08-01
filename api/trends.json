@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T22:19:16.531041+08:00",
-  "total_titles_processed": 1079,
+  "generated_at": "2026-08-01T23:33:46.251358+08:00",
+  "total_titles_processed": 1136,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             2,
-            4
+            4,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时23分 ~ 22时19分]"
+          "appearance_count": 10,
+          "time_info": "[15时23分 ~ 23时33分]"
         },
         {
           "title": "DeepSeek V4 flash 上线，相较 Kimi K3 各有哪些优劣？现版本大模型中你的选择是啥？",
@@ -68,8 +69,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时53分 ~ 22时19分]"
+          "appearance_count": 6,
+          "time_info": "[19时53分 ~ 23时33分]"
         },
         {
           "title": "DeepSeekV4Flash正式版跑分出炉",
@@ -131,7 +132,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
@@ -179,6 +180,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "OpenAI 价格战",
+          "url": "https://s.weibo.com/weibo?q=OpenAI%20%E4%BB%B7%E6%A0%BC%E6%88%98&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "报道：OpenAI本周预览了AI模型Astra",
@@ -245,8 +257,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时46分 ~ 22时19分]"
+          "appearance_count": 3,
+          "time_info": "[20时46分 ~ 23时33分]"
         },
         {
           "title": "中方在联合国举行2026世界人工智能大会暨人工智能全球治理高级别会议吹风会",

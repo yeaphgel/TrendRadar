@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T22:21:49.076548+08:00",
-  "total_titles_processed": 985,
+  "generated_at": "2026-08-02T23:34:59.154182+08:00",
+  "total_titles_processed": 1066,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "印度韩国突然宣称有媲美DeepSeek大模型",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时28分 ~ 20时48分]"
+        },
+        {
+          "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
+          "url": "https://www.zhihu.com/question/2067212789714778007",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
@@ -82,11 +93,12 @@
             11,
             14,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时21分 ~ 22时21分]"
+          "appearance_count": 11,
+          "time_info": "[09时21分 ~ 23时34分]"
         },
         {
           "title": "OpenAI总裁兼联合创始人Brockman：ChatGPT是一种非常棒的思维放大器。",

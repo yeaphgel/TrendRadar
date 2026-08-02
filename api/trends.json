@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T20:48:50.615083+08:00",
-  "total_titles_processed": 914,
+  "generated_at": "2026-08-02T22:21:49.076548+08:00",
+  "total_titles_processed": 985,
   "failed_sources": [],
   "trends": [
     {
@@ -81,11 +81,12 @@
             8,
             11,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时21分 ~ 20时48分]"
+          "appearance_count": 10,
+          "time_info": "[09时21分 ~ 22时21分]"
         },
         {
           "title": "OpenAI总裁兼联合创始人Brockman：ChatGPT是一种非常棒的思维放大器。",

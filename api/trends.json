@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T19:54:15.658449+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2026-08-02T20:48:50.615083+08:00",
+  "total_titles_processed": 914,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             6,
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 19时54分]"
+          "appearance_count": 5,
+          "time_info": "[17时28分 ~ 20时48分]"
         },
         {
           "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
@@ -83,8 +84,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时21分 ~ 19时54分]"
+          "appearance_count": 9,
+          "time_info": "[09时21分 ~ 20时48分]"
         },
         {
           "title": "OpenAI总裁兼联合创始人Brockman：ChatGPT是一种非常棒的思维放大器。",
@@ -139,8 +140,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 19时54分]"
+          "appearance_count": 5,
+          "time_info": "[17时28分 ~ 20时48分]"
         },
         {
           "title": "从韩国到美国：多亏了AI，蓝领越来越吃香了",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T18:57:40.382556+08:00",
-  "total_titles_processed": 798,
+  "generated_at": "2026-08-02T19:54:15.658449+08:00",
+  "total_titles_processed": 848,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "微博",
           "ranks": [
             2,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 18时57分]"
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 19时54分]"
         },
         {
           "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
@@ -67,8 +68,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时21分 ~ 18时57分]"
+          "appearance_count": 8,
+          "time_info": "[09时21分 ~ 19时54分]"
         },
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -82,8 +83,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时21分 ~ 18时57分]"
+          "appearance_count": 8,
+          "time_info": "[09时21分 ~ 19时54分]"
         },
         {
           "title": "OpenAI总裁兼联合创始人Brockman：ChatGPT是一种非常棒的思维放大器。",
@@ -138,8 +139,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 18时57分]"
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 19时54分]"
         },
         {
           "title": "从韩国到美国：多亏了AI，蓝领越来越吃香了",
@@ -152,6 +153,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时46分 ~ 17时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Gemini直播",
+          "url": "https://s.weibo.com/weibo?q=Gemini%E7%9B%B4%E6%92%AD&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 19时54分]"
         }
       ]
     }

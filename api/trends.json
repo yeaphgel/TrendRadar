@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-08-03T19:52:30.327556+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-08-03T22:08:37.773255+08:00",
+  "total_titles_processed": 1071,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "DeepSeek一天消耗了8万亿",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%B8%80%E5%A4%A9%E6%B6%88%E8%80%97%E4%BA%868%E4%B8%87%E4%BA%BF&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
+          "title": "DeepSeek 斩杀线",
+          "url": "https://www.baidu.com/s?wd=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
         {
           "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
           "url": "https://www.cls.cn/detail/2443548",
@@ -20,6 +42,18 @@
           "time_info": "[09时21分 ~ 12时55分]"
         },
         {
+          "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
+          "url": "https://www.zhihu.com/question/2067512422555029717",
+          "source": "知乎",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 22时08分]"
+        },
+        {
           "title": "全球大模型进入DeepSeek斩杀区",
           "url": "https://s.weibo.com/weibo?q=%E5%85%A8%E7%90%83%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BF%9B%E5%85%A5DeepSeek%E6%96%A9%E6%9D%80%E5%8C%BA&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -29,17 +63,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
-        },
-        {
-          "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
-          "url": "https://www.zhihu.com/question/2067512422555029717",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
         },
         {
           "title": "DeepSeek-V4-Flash正式版API登陆国家超算互联网",
@@ -59,7 +82,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -70,7 +93,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         }
@@ -89,8 +112,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 19时52分]"
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 22时08分]"
         },
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -122,9 +145,37 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-08-03）",
+          "url": "https://flash.jin10.com/detail/20260803120029547800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "美股开盘，道指涨0.52%，标普500指数涨0.33%，纳指涨0.3%。阿里巴巴(BABA.N)涨3.5%，此前发布千问3.8-MAX人工智能模型。SpaceX(SPCX.O)跌3%。存储概念股下跌，美光科技(MU.O)跌5%，闪迪(SNDK.O)跌5%。",
+          "url": "https://flash.jin10.com/detail/20260803213030141800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         }
       ]
     },
@@ -141,8 +192,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 19时52分]"
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 22时08分]"
         },
         {
           "title": "如何看待 Anthropic 的 ARR 增速开始放缓？",
@@ -179,7 +230,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         }
@@ -203,23 +254,6 @@
       ]
     },
     {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-08-03）",
-          "url": "https://flash.jin10.com/detail/20260803120029547800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "Claude",
       "match_count": 1,
       "titles": [
@@ -232,8 +266,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 19时52分]"
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 22时08分]"
         }
       ]
     },
@@ -248,7 +282,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         }

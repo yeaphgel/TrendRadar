@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T09:13:38.609422+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-08-04T12:36:41.844176+08:00",
+  "total_titles_processed": 715,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "DeepSeek一天消耗了8万亿",
@@ -24,11 +24,12 @@
           "url": "https://www.zhihu.com/question/2067545767003120313",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 12时36分]"
         },
         {
           "title": "DeepSeek V4 Flash后训练揭秘",
@@ -37,7 +38,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
         },
@@ -66,6 +67,17 @@
           "time_info": "[00时44分 ~ 09时13分]"
         },
         {
+          "title": "DeepSeek斩杀线",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%96%A9%E6%9D%80%E7%BA%BF&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
           "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
           "url": "https://www.zhihu.com/question/2067512422555029717",
           "source": "知乎",
@@ -88,6 +100,28 @@
           "time_info": "00时44分"
         },
         {
+          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
+          "url": "https://www.zhihu.com/question/2067873642554156045",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
+          "title": "OpenAI等巨头大幅降价对标DeepSeek",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E7%AD%89%E5%B7%A8%E5%A4%B4%E5%A4%A7%E5%B9%85%E9%99%8D%E4%BB%B7%E5%AF%B9%E6%A0%87DeepSeek",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
           "title": "DeepSeek模型单日吞下8万亿Token",
           "url": "https://www.toutiao.com/trending/7669679149316836902/",
           "source": "今日头条",
@@ -102,8 +136,19 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-08-04）",
+          "url": "https://flash.jin10.com/detail/20260804115957452800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
         {
           "title": "亚马逊云计算部门AWS的CEO Matt Garman：人工智能（AI）业务从训练转向推理。 AI实验室、初创公司、企业推动AWS销售增长。 AI业务的潜在规模“极其庞大”。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3144259",
@@ -188,11 +233,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 09时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 12时36分]"
         }
       ]
     },
@@ -242,7 +288,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
         }

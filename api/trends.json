@@ -1,62 +1,23 @@
 {
-  "generated_at": "2026-08-05T18:06:13.256732+08:00",
-  "total_titles_processed": 852,
+  "generated_at": "2026-08-05T20:23:23.938092+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "梁文锋会不会成为中国AI里程碑人物？",
-          "url": "https://www.zhihu.com/question/10315979917",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时05分 ~ 18时06分]"
-        },
-        {
-          "title": "DeepSeek干完活自己写了个游戏",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B9%B2%E5%AE%8C%E6%B4%BB%E8%87%AA%E5%B7%B1%E5%86%99%E4%BA%86%E4%B8%AA%E6%B8%B8%E6%88%8F&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时05分 ~ 18时06分]"
-        },
-        {
-          "title": "DeepSeek重启融资 投前估值5000亿元",
-          "url": "https://www.toutiao.com/trending/7670354038151450166/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
-          "title": "DeepSeekV4一块钱生成的星舰",
-          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%E4%B8%80%E5%9D%97%E9%92%B1%E7%94%9F%E6%88%90%E7%9A%84%E6%98%9F%E8%88%B0&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美国AI云端运算企业COREWEAVE(CRWV.O)：与Solidigm的协议将强化其集成人工智能平台。",
+          "url": "https://flash.jin10.com/detail/20260805200311834800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-08-05）",
           "url": "https://flash.jin10.com/detail/20260805120525218800",
@@ -96,6 +57,58 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "DeepSeek干完活自己写了个游戏",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B9%B2%E5%AE%8C%E6%B4%BB%E8%87%AA%E5%B7%B1%E5%86%99%E4%BA%86%E4%B8%AA%E6%B8%B8%E6%88%8F&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时05分 ~ 20时23分]"
+        },
+        {
+          "title": "梁文锋会不会成为中国AI里程碑人物？",
+          "url": "https://www.zhihu.com/question/10315979917",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时05分 ~ 20时23分]"
+        },
+        {
+          "title": "DeepSeek重启融资 投前估值5000亿元",
+          "url": "https://www.toutiao.com/trending/7670354038151450166/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
+          "title": "DeepSeekV4一块钱生成的星舰",
+          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%E4%B8%80%E5%9D%97%E9%92%B1%E7%94%9F%E6%88%90%E7%9A%84%E6%98%9F%E8%88%B0&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -171,6 +184,34 @@
       ]
     },
     {
+      "keyword_group": "AI",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "梁文峰会不会成为中国 AI 里程碑人物？",
+          "url": "https://www.zhihu.com/question/10315979917",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 15时32分]"
+        },
+        {
+          "title": "美国AI云端运算企业Coreweave(CRWV.O)与数据存储解决方案运营商Solidigm签署多年期协议。",
+          "url": "https://flash.jin10.com/detail/20260805200127564800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Anthropic",
       "match_count": 1,
       "titles": [
@@ -184,23 +225,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时15分 ~ 18时06分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "梁文峰会不会成为中国 AI 里程碑人物？",
-          "url": "https://www.zhihu.com/question/10315979917",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时32分]"
         }
       ]
     }

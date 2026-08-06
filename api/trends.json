@@ -1,243 +1,56 @@
 {
-  "generated_at": "2026-08-05T22:42:30.708460+08:00",
-  "total_titles_processed": 1162,
+  "generated_at": "2026-08-06T09:12:31.730079+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "人工智能",
-      "match_count": 5,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
       "titles": [
         {
-          "title": "美国AI云端运算企业COREWEAVE(CRWV.O)：与Solidigm的协议将强化其集成人工智能平台。",
-          "url": "https://flash.jin10.com/detail/20260805200311834800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-08-05）",
-          "url": "https://flash.jin10.com/detail/20260805120525218800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
-          "title": "美联储施密德：人工智能投资正在推高通胀，美联储不应忽视这一点。",
-          "url": "https://flash.jin10.com/detail/20260805081559060800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        },
-        {
-          "title": "活力中国调研行｜之江实验室王坚院士：人工智能应该像纸一样便宜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33711893",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        },
-        {
-          "title": "人工智能公司演语科技考虑香港IPO。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3145106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "梁文锋会不会成为中国AI里程碑人物？",
-          "url": "https://www.zhihu.com/question/10315979917",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时05分 ~ 22时42分]"
-        },
-        {
-          "title": "DeepSeek干完活自己写了个游戏",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B9%B2%E5%AE%8C%E6%B4%BB%E8%87%AA%E5%B7%B1%E5%86%99%E4%BA%86%E4%B8%AA%E6%B8%B8%E6%88%8F&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时05分 ~ 20时23分]"
-        },
-        {
-          "title": "DeepSeek重启融资 投前估值5000亿元",
-          "url": "https://www.toutiao.com/trending/7670354038151450166/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
-          "title": "DeepSeekV4一块钱生成的星舰",
-          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%E4%B8%80%E5%9D%97%E9%92%B1%E7%94%9F%E6%88%90%E7%9A%84%E6%98%9F%E8%88%B0&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "苹果状告OpenAI，反遭嘲讽：律师连邮件都发不对",
-          "url": "https://news.ifeng.com/c/8vKzM4B96pz",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时35分 ~ 18时06分]"
-        },
-        {
-          "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
-          "url": "https://www.zhihu.com/question/2068265537105302957",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "OpenAI降价,老日高喊中国万岁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
-          "source": "贴吧",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "马斯克回应一个月亏掉2.45万亿",
-          "url": "https://www.toutiao.com/trending/7669518703364640297/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时05分 ~ 22时42分]"
-        },
-        {
-          "title": "马斯克向科技界“投下炸弹”：SpaceX只用英伟达GPU，因为性能最佳！",
-          "url": "https://www.cls.cn/detail/2445835",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时32分]"
-        },
-        {
-          "title": "马斯克一个月亏掉2.45万亿元",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%80%E4%B8%AA%E6%9C%88%E4%BA%8F%E6%8E%892.45%E4%B8%87%E4%BA%BF%E5%85%83",
+          "title": "谷歌首席科学家Jeff Dean离职创业",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E9%A6%96%E5%B8%AD%E7%A7%91%E5%AD%A6%E5%AE%B6Jeff+Dean%E7%A6%BB%E8%81%8C%E5%88%9B%E4%B8%9A",
           "source": "百度热搜",
           "ranks": [
-            27
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时15分"
+          "time_info": "09时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "自沃什就任美联储主席以来，特朗普多次与其通话。 特朗普就伊朗问题以及人工智能对经济的影响向沃什寻求建议。 沃什在与特朗普的通话中对经济表达了积极看法。 尚不清楚特朗普与沃什是否讨论了货币政策。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3145692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "梁文峰会不会成为中国 AI 里程碑人物？",
-          "url": "https://www.zhihu.com/question/10315979917",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时32分]"
-        },
-        {
-          "title": "美国AI云端运算企业Coreweave(CRWV.O)与数据存储解决方案运营商Solidigm签署多年期协议。",
-          "url": "https://flash.jin10.com/detail/20260805200127564800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Anthropic",
       "match_count": 1,
       "titles": [
         {
-          "title": "Anthropic再豪掷100亿美元锁定算力，英伟达支持的新贵接单",
-          "url": "https://wallstreetcn.com/articles/3778669",
-          "source": "华尔街见闻",
+          "title": "英伟达急寻中国AI基站供应商，明后年启动端侧算力组网",
+          "url": "https://flash.jin10.com/detail/20260806090656072800",
+          "source": "金十数据",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时15分 ~ 18时06分]"
+          "appearance_count": 1,
+          "time_info": "09时12分"
         }
       ]
     }

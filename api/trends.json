@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T15:30:45.305343+08:00",
-  "total_titles_processed": 665,
+  "generated_at": "2026-08-06T18:08:06.774840+08:00",
+  "total_titles_processed": 834,
   "failed_sources": [],
   "trends": [
     {
@@ -8,48 +8,64 @@
       "match_count": 9,
       "titles": [
         {
-          "title": "DeepSeek拟上调API服务定价",
-          "url": "https://www.douyin.com/hot/2599312",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时35分 ~ 15时30分]"
-        },
-        {
           "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
           "url": "https://www.zhihu.com/question/2068628771687625392",
           "source": "知乎",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时35分 ~ 15时30分]"
-        },
-        {
-          "title": "DeepSeek拟调高API价格",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E8%B0%83%E9%AB%98API%E4%BB%B7%E6%A0%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
+            4,
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 15时30分]"
+          "appearance_count": 5,
+          "time_info": "[12时35分 ~ 18时08分]"
+        },
+        {
+          "title": "DeepSeek拟上调API服务定价",
+          "url": "https://www.douyin.com/hot/2599312",
+          "source": "抖音",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时35分 ~ 18时08分]"
         },
         {
           "title": "DeepSeek拟上调API服务价格",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 15时30分]"
+          "appearance_count": 4,
+          "time_info": "[15时29分 ~ 18时08分]"
+        },
+        {
+          "title": "DeepSeek拟调高API价格",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E8%B0%83%E9%AB%98API%E4%BB%B7%E6%A0%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时29分 ~ 18时08分]"
+        },
+        {
+          "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
+          "url": "https://www.cls.cn/detail/2447135",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时29分 ~ 18时08分]"
         },
         {
           "title": "DeepSeek API即将大幅涨价",
@@ -68,22 +84,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时35分 ~ 15时30分]"
-        },
-        {
-          "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
-          "url": "https://www.cls.cn/detail/2447135",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 15时30分]"
+          "appearance_count": 5,
+          "time_info": "[12时35分 ~ 18时08分]"
         },
         {
           "title": "DeepSeek推理到一半说自己饿了",
@@ -111,7 +117,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "自沃什就任美联储主席以来，特朗普多次与其通话。 特朗普就伊朗问题以及人工智能对经济的影响向沃什寻求建议。 沃什在与特朗普的通话中对经济表达了积极看法。 尚不清楚特朗普与沃什是否讨论了货币政策。（华尔街日报）",
@@ -125,6 +131,17 @@
           "time_info": "09时12分"
         },
         {
+          "title": "美国挑战者公司首席营收官Andy Challenger：招聘人数也比去年增加了25%，因此，尽管人工智能正在改变劳动力市场，但它并没有瓦解就业。",
+          "url": "https://flash.jin10.com/detail/20260806173413764800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-08-06）",
           "url": "https://flash.jin10.com/detail/20260806120147370800",
           "source": "金十数据",
@@ -134,6 +151,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
+        },
+        {
+          "title": "美国挑战者企业裁员报告：今年夏天裁员速度显著放缓。裁员计划仍然主要集中在科技行业，人工智能仍然是关注的焦点，因为对这项技术的投资正在重塑企业。",
+          "url": "https://flash.jin10.com/detail/20260806173303564800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "美国挑战者企业裁员报告：7月裁员人数骤降至33,429人，招聘计划略有增加；人工智能连续第五个月成为裁员主要原因。",
+          "url": "https://flash.jin10.com/detail/20260806173226326800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "星展银行首席执行官：中国台湾科技、媒体、电信行业及半导体生态系统被视为推动股市的因素。关注印度可再生能源增长和人工智能基础设施增长的机会。",
@@ -159,7 +198,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
         },
@@ -170,7 +209,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
         }
@@ -249,7 +288,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
         }

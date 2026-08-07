@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T09:56:08.145111+08:00",
-  "total_titles_processed": 318,
+  "generated_at": "2026-08-07T12:17:17.500086+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2068637080209421054",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 12时17分]"
         },
         {
           "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
@@ -26,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 12时17分]"
         },
         {
           "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
@@ -39,6 +40,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时55分 ~ 09时56分]"
+        },
+        {
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 12时17分]"
         },
         {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
@@ -63,17 +76,6 @@
           "time_info": "[09时55分 ~ 09时56分]"
         },
         {
-          "title": "DeepSeek拟上调API服务价格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
-        },
-        {
           "title": "DeepSeek腾讯获宇树战略配售",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%85%BE%E8%AE%AF%E8%8E%B7%E5%AE%87%E6%A0%91%E6%88%98%E7%95%A5%E9%85%8D%E5%94%AE%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -88,23 +90,23 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "美国科学家首次用AI设计出病毒",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%A6%96%E6%AC%A1%E7%94%A8AI%E8%AE%BE%E8%AE%A1%E5%87%BA%E7%97%85%E6%AF%92",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
-        },
         {
           "title": "英伟达急寻中国AI基站供应商，明后年启动端侧算力组网",
           "url": "https://wallstreetcn.com/articles/3778824",
           "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 12时17分]"
+        },
+        {
+          "title": "美国科学家首次用AI设计出病毒",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%A6%96%E6%AC%A1%E7%94%A8AI%E8%AE%BE%E8%AE%A1%E5%87%BA%E7%97%85%E6%AF%92",
+          "source": "百度热搜",
           "ranks": [
             10
           ],
@@ -122,12 +124,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时55分 ~ 09时56分]"
+        },
+        {
+          "title": "美国科学家首次用AI设计出病毒",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%A6%96%E6%AC%A1%E7%94%A8AI%E8%AE%BE%E8%AE%A1%E5%87%BA%E7%97%85%E6%AF%92%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "为什么 Jeff Dean 从 Google 离职引起这么大的轰动？",
@@ -150,6 +163,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时55分 ~ 09时56分]"
+        },
+        {
+          "title": "新闻蒸馏器｜谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33727851",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
         }
       ]
     },
@@ -171,6 +195,23 @@
       ]
     },
     {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-08-07）",
+          "url": "https://flash.jin10.com/detail/20260807115504518800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克",
       "match_count": 1,
       "titles": [
@@ -182,8 +223,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 12时17分]"
         }
       ]
     }

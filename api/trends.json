@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T18:31:22.552975+08:00",
-  "total_titles_processed": 923,
+  "generated_at": "2026-08-08T19:01:52.538464+08:00",
+  "total_titles_processed": 966,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时48分 ~ 18时31分]"
+          "appearance_count": 14,
+          "time_info": "[10时48分 ~ 19时01分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -28,11 +28,12 @@
           "ranks": [
             15,
             14,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时38分 ~ 18时31分]"
+          "appearance_count": 15,
+          "time_info": "[08时38分 ~ 19时01分]"
         },
         {
           "title": "梁文锋为什么投王兴兴",
@@ -95,11 +96,12 @@
             12,
             20,
             24,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时56分 ~ 18时31分]"
+          "appearance_count": 9,
+          "time_info": "[12时56分 ~ 19时01分]"
         },
         {
           "title": "消息人士：马斯克拒绝让乌克兰用“星链”打击俄境内目标",
@@ -150,8 +152,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时38分 ~ 18时31分]"
+          "appearance_count": 14,
+          "time_info": "[08时38分 ~ 19时01分]"
         },
         {
           "title": "美国AI开始攻击真人了",
@@ -172,11 +174,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDAI%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E7%9C%9F%E4%BA%BA%E4%BA%86%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
-            30
+            30,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时02分 ~ 18时31分]"
+          "appearance_count": 4,
+          "time_info": "[18时02分 ~ 19时01分]"
         }
       ]
     },
@@ -194,11 +197,12 @@
             23,
             24,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时38分 ~ 18时31分]"
+          "appearance_count": 15,
+          "time_info": "[08时38分 ~ 19时01分]"
         }
       ]
     },
@@ -236,8 +240,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时02分 ~ 18时31分]"
+          "appearance_count": 4,
+          "time_info": "[18时02分 ~ 19时01分]"
         }
       ]
     },
@@ -256,8 +260,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时38分 ~ 18时31分]"
+          "appearance_count": 15,
+          "time_info": "[08时38分 ~ 19时01分]"
         }
       ]
     }

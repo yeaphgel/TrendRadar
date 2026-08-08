@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T10:48:22.027475+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-08-08T12:02:13.743666+08:00",
+  "total_titles_processed": 495,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时38分 ~ 10时48分]"
+          "appearance_count": 4,
+          "time_info": "[08时38分 ~ 12时02分]"
         },
         {
           "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
@@ -26,9 +26,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时48分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时48分 ~ 12时02分]"
         },
         {
           "title": "如何评价网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午？为什么会出现这样的现象？",
@@ -63,11 +63,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
           "source": "贴吧",
           "ranks": [
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时38分 ~ 10时48分]"
+          "appearance_count": 4,
+          "time_info": "[08时38分 ~ 12时02分]"
         }
       ]
     },
@@ -81,11 +82,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时38分 ~ 10时48分]"
+          "appearance_count": 3,
+          "time_info": "[08时38分 ~ 12时02分]"
         }
       ]
     },
@@ -99,11 +101,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时38分 ~ 10时48分]"
+          "appearance_count": 4,
+          "time_info": "[08时38分 ~ 12时02分]"
         }
       ]
     },
@@ -117,11 +120,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时38分 ~ 10时48分]"
+          "appearance_count": 4,
+          "time_info": "[08时38分 ~ 12时02分]"
         }
       ]
     }

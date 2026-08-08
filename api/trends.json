@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T14:29:57.080733+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2026-08-08T15:28:50.088042+08:00",
+  "total_titles_processed": 702,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时48分 ~ 14时29分]"
+          "appearance_count": 8,
+          "time_info": "[10时48分 ~ 15时28分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -29,8 +30,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时38分 ~ 14时29分]"
+          "appearance_count": 9,
+          "time_info": "[08时38分 ~ 15时28分]"
         },
         {
           "title": "梁文锋为什么投王兴兴",
@@ -88,11 +89,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 14时29分]"
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 15时28分]"
         },
         {
           "title": "消息人士：马斯克拒绝让乌克兰用“星链”打击俄境内目标",
@@ -101,11 +103,12 @@
           "ranks": [
             6,
             8,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 14时29分]"
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 15时28分]"
         }
       ]
     },
@@ -122,11 +125,12 @@
             8,
             20,
             18,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时38分 ~ 14时29分]"
+          "appearance_count": 9,
+          "time_info": "[08时38分 ~ 15时28分]"
         },
         {
           "title": "美国AI开始攻击真人了",
@@ -134,11 +138,12 @@
           "source": "百度热搜",
           "ranks": [
             12,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时56分 ~ 14时29分]"
+          "appearance_count": 5,
+          "time_info": "[12时56分 ~ 15时28分]"
         }
       ]
     },
@@ -157,8 +162,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时38分 ~ 14时29分]"
+          "appearance_count": 9,
+          "time_info": "[08时38分 ~ 15时28分]"
         }
       ]
     },
@@ -198,8 +203,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时38分 ~ 14时29分]"
+          "appearance_count": 9,
+          "time_info": "[08时38分 ~ 15时28分]"
         }
       ]
     }

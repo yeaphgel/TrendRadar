@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T19:26:52.346745+08:00",
-  "total_titles_processed": 988,
+  "generated_at": "2026-08-08T19:51:04.571941+08:00",
+  "total_titles_processed": 1028,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时48分 ~ 19时26分]"
+          "appearance_count": 17,
+          "time_info": "[10时48分 ~ 19时51分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -32,8 +32,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时38分 ~ 19时26分]"
+          "appearance_count": 18,
+          "time_info": "[08时38分 ~ 19时51分]"
         },
         {
           "title": "梁文锋为什么投王兴兴",
@@ -100,8 +100,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时56分 ~ 19时26分]"
+          "appearance_count": 11,
+          "time_info": "[12时56分 ~ 19时51分]"
         },
         {
           "title": "消息人士：马斯克拒绝让乌克兰用“星链”打击俄境内目标",
@@ -176,11 +176,12 @@
           "source": "微博",
           "ranks": [
             30,
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时02分 ~ 19时26分]"
+          "appearance_count": 7,
+          "time_info": "[18时02分 ~ 19时51分]"
         }
       ]
     },
@@ -203,8 +204,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时38分 ~ 19时26分]"
+          "appearance_count": 18,
+          "time_info": "[08时38分 ~ 19时51分]"
         }
       ]
     },
@@ -242,8 +243,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时02分 ~ 19时26分]"
+          "appearance_count": 7,
+          "time_info": "[18时02分 ~ 19时51分]"
         }
       ]
     },
@@ -262,8 +263,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时38分 ~ 19时26分]"
+          "appearance_count": 18,
+          "time_info": "[08时38分 ~ 19时51分]"
         }
       ]
     }

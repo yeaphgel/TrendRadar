@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T15:28:50.088042+08:00",
-  "total_titles_processed": 702,
+  "generated_at": "2026-08-08T16:06:42.347711+08:00",
+  "total_titles_processed": 751,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时48分 ~ 15时28分]"
+          "appearance_count": 9,
+          "time_info": "[10时48分 ~ 16时06分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -30,8 +31,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时38分 ~ 15时28分]"
+          "appearance_count": 10,
+          "time_info": "[08时38分 ~ 16时06分]"
         },
         {
           "title": "梁文锋为什么投王兴兴",
@@ -90,11 +91,12 @@
           "ranks": [
             3,
             5,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时56分 ~ 15时28分]"
+          "appearance_count": 5,
+          "time_info": "[12时56分 ~ 16时06分]"
         },
         {
           "title": "消息人士：马斯克拒绝让乌克兰用“星链”打击俄境内目标",
@@ -104,11 +106,12 @@
             6,
             8,
             16,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时56分 ~ 15时28分]"
+          "appearance_count": 5,
+          "time_info": "[12时56分 ~ 16时06分]"
         }
       ]
     },
@@ -126,11 +129,12 @@
             20,
             18,
             15,
-            25
+            25,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时38分 ~ 15时28分]"
+          "appearance_count": 10,
+          "time_info": "[08时38分 ~ 16时06分]"
         },
         {
           "title": "美国AI开始攻击真人了",
@@ -142,8 +146,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时56分 ~ 15时28分]"
+          "appearance_count": 6,
+          "time_info": "[12时56分 ~ 16时06分]"
         }
       ]
     },
@@ -159,11 +163,12 @@
             17,
             21,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时38分 ~ 15时28分]"
+          "appearance_count": 10,
+          "time_info": "[08时38分 ~ 16时06分]"
         }
       ]
     },
@@ -203,8 +208,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时38分 ~ 15时28分]"
+          "appearance_count": 10,
+          "time_info": "[08时38分 ~ 16时06分]"
         }
       ]
     }

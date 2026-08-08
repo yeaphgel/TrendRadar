@@ -1,434 +1,112 @@
 {
-  "generated_at": "2026-08-07T22:44:04.437960+08:00",
-  "total_titles_processed": 1530,
+  "generated_at": "2026-08-08T08:38:56.036791+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 13,
+      "match_count": 3,
       "titles": [
         {
-          "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
-          "url": "https://wallstreetcn.com/articles/3778857",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时55分 ~ 19时13分]"
-        },
-        {
-          "title": "如何看待梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%？",
-          "url": "https://www.zhihu.com/question/2068637080209421054",
+          "title": "如何评价网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午？为什么会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2068108635620774765",
           "source": "知乎",
           "ranks": [
-            3,
-            1,
-            12
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时55分 ~ 18时25分]"
+          "appearance_count": 1,
+          "time_info": "08时38分"
         },
         {
-          "title": "DeepSeek拟上调API服务价格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
-          "source": "贴吧",
+          "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
+          "source": "澎湃新闻",
           "ranks": [
-            12,
-            14,
-            18,
-            22,
-            23,
-            25,
-            26,
-            28,
-            30
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时55分 ~ 20时04分]"
+          "appearance_count": 1,
+          "time_info": "08时38分"
         },
         {
           "title": "梁文锋 只想用座机",
           "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B+%E5%8F%AA%E6%83%B3%E7%94%A8%E5%BA%A7%E6%9C%BA",
           "source": "百度热搜",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时45分 ~ 22时44分]"
-        },
-        {
-          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
-          "url": "https://www.zhihu.com/question/2069015264461579129",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时29分 ~ 22时44分]"
-        },
-        {
-          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
-        },
-        {
-          "title": "王兴兴回应DeepSeek参与宇树科技IPO战略配售",
-          "url": "https://wallstreetcn.com/livenews/3146694",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时04分"
-        },
-        {
-          "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
-          "url": "https://wallstreetcn.com/articles/3778849",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时03分 ~ 18时25分]"
-        },
-        {
-          "title": "DeepSeek豪掷1.4亿护航宇树IPO",
-          "url": "https://www.toutiao.com/trending/7671088097861307923/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时55分 ~ 14时57分]"
-        },
-        {
-          "title": "DeepSeek官宣涨价，且“幅度较大”！",
-          "url": "https://wallstreetcn.com/articles/3778814",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
-        },
-        {
-          "title": "DeepSeek、腾讯等获宇树科技战略配售",
-          "url": "https://www.cls.cn/detail/2447658",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
-        },
-        {
-          "title": "DeepSeek腾讯获宇树战略配售",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%85%BE%E8%AE%AF%E8%8E%B7%E5%AE%87%E6%A0%91%E6%88%98%E7%95%A5%E9%85%8D%E5%94%AE%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "王兴兴回应DeepSeek参与宇树科技IPO战略配售",
-          "url": "https://flash.jin10.com/detail/20260807192609657800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
-          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时25分 ~ 22时44分]"
-        },
-        {
-          "title": "中国人能飞AI版vs实拍版",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            17,
-            13,
-            22,
             26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时29分 ~ 22时44分]"
-        },
-        {
-          "title": "中国AI偶像能飞",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E5%81%B6%E5%83%8F%E8%83%BD%E9%A3%9E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            27,
-            13,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时56分 ~ 20时04分]"
-        },
-        {
-          "title": "英伟达急寻中国AI基站供应商，明后年启动端侧算力组网",
-          "url": "https://wallstreetcn.com/articles/3778824",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 13时55分]"
-        },
-        {
-          "title": "福兮祸兮？美国科学家首次用AI设计出新型病毒……",
-          "url": "https://www.cls.cn/detail/2448228",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时25分 ~ 21时45分]"
-        },
-        {
-          "title": "美国科学家首次用AI设计出病毒",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%A6%96%E6%AC%A1%E7%94%A8AI%E8%AE%BE%E8%AE%A1%E5%87%BA%E7%97%85%E6%AF%92",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
-        },
-        {
-          "title": "释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33729568",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时43分 ~ 22时44分]"
-        },
-        {
-          "title": "美国搞AI霸权“封杀”中国遭网友吐槽",
-          "url": "https://www.toutiao.com/trending/7670341977426296874/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
-        },
-        {
-          "title": "美国科学家首次用AI设计出病毒",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%A6%96%E6%AC%A1%E7%94%A8AI%E8%AE%BE%E8%AE%A1%E5%87%BA%E7%97%85%E6%AF%92%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时17分"
+          "time_info": "08时38分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "为什么 Jeff Dean 从 Google 离职引起这么大的轰动？",
-          "url": "https://www.zhihu.com/question/2068631767326660517",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
-        },
-        {
-          "title": "新闻蒸馏器丨谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33727851",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
-        },
         {
           "title": "核心团队跑路,Gemini陷大危机",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
           "source": "贴吧",
           "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时43分 ~ 22时44分]"
-        },
-        {
-          "title": "新闻蒸馏器｜谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33727851",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
-          "title": "谷歌将人工智能管理重心迁至加州 全力迎战Anthropic与OpenAI",
-          "url": "https://wallstreetcn.com/livenews/3146580",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时29分"
+          "time_info": "08时38分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI智能音箱定价逾300美元，iPhone设计之父操刀设计“甜甜圈”外形",
-          "url": "https://wallstreetcn.com/articles/3778889",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 20时04分]"
-        },
-        {
-          "title": "曝OpenAI最快下周推出Astra AI",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9DOpenAI%E6%9C%80%E5%BF%AB%E4%B8%8B%E5%91%A8%E6%8E%A8%E5%87%BAAstra+AI",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-08-07）",
-          "url": "https://flash.jin10.com/detail/20260807115504518800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
-          "title": "美国总统特朗普：（关于人工智能）这可能比石油还要重要。谁赢得人工智能，谁就赢得一切。就是如此重要。",
-          "url": "https://flash.jin10.com/detail/20260807172007161800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
       "match_count": 1,
       "titles": [
         {
-          "title": "17岁中国高中生重写核心架构，马斯克点赞",
-          "url": "https://news.ifeng.com/c/8vO7wsFXz3e",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时55分 ~ 14时57分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特朗普（谈AI）：它可能比石油还要重要。 谁赢了AI，谁就赢得一切。就这么重要。",
-          "url": "https://wallstreetcn.com/livenews/3146612",
+          "title": "OpenAI首席执行官Altman称：正推进Astra全面开放使用。",
+          "url": "https://wallstreetcn.com/livenews/3146942",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时25分"
+          "time_info": "08时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "增长",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739067",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国人能飞AI版vs实拍版",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时38分"
         }
       ]
     }

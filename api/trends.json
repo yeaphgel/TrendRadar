@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-08-09T08:41:14.610491+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-08-09T10:56:05.773085+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "马斯克",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "马斯克：即将发射的V3卫星性能将比V2卫星高出一个数量级，该系统今年将实现年收200亿美元",
+          "url": "https://wallstreetcn.com/livenews/3147037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
+        },
+        {
+          "title": "马斯克：在长途航班中接入星链网络，将成为提升生产力的重大变革。",
+          "url": "https://flash.jin10.com/detail/20260809045524710800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
+          "title": "马斯克：第三代星链卫星（V3）综合性能比V2高出一个数量级",
+          "url": "https://flash.jin10.com/detail/20260809085801985800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
@@ -12,22 +51,52 @@
           "url": "https://wallstreetcn.com/articles/3778993",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时40分 ~ 08时41分]"
+          "appearance_count": 4,
+          "time_info": "[08时40分 ~ 10时56分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
           "url": "https://wallstreetcn.com/livenews/3147006",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时41分 ~ 10时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国家统计局：人工智能推动消费电子产品迭代升级，相关产品需求增加、价格上涨，平板电脑、计算机和移动电话机价格分别环比上涨11.3%、5.5%和1.0%，合计影响CPI环比上涨约0.03个百分点。",
+          "url": "https://wallstreetcn.com/livenews/3147043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时41分"
+          "time_info": "10时56分"
+        },
+        {
+          "title": "为什么体制内至今仍不鼓励用人工智能？",
+          "url": "https://www.zhihu.com/question/2042649810709239000",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时40分 ~ 08时41分]"
         }
       ]
     },
@@ -57,45 +126,29 @@
           "url": "https://wallstreetcn.com/articles/3778988",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时40分 ~ 08时41分]"
+          "appearance_count": 4,
+          "time_info": "[08时40分 ~ 10时56分]"
         }
       ]
     },
     {
-      "keyword_group": "人工智能",
+      "keyword_group": "AI",
       "match_count": 1,
       "titles": [
         {
-          "title": "为什么体制内至今仍不鼓励用人工智能？",
-          "url": "https://www.zhihu.com/question/2042649810709239000",
-          "source": "知乎",
+          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
+          "url": "https://wallstreetcn.com/articles/3778996",
+          "source": "华尔街见闻",
           "ranks": [
-            19
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时40分 ~ 08时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克：在长途航班中接入星链网络，将成为提升生产力的重大变革。",
-          "url": "https://flash.jin10.com/detail/20260809045524710800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时41分"
+          "time_info": "[10时55分 ~ 10时56分]"
         }
       ]
     }

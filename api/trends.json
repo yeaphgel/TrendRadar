@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T21:28:16.286448+08:00",
-  "total_titles_processed": 1115,
+  "generated_at": "2026-08-09T22:05:42.161710+08:00",
+  "total_titles_processed": 1158,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "马斯克：即将发射的V3卫星性能将比V2卫星高出一个数量级，该系统今年将实现年收200亿美元",
@@ -38,6 +38,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时08分 ~ 18时02分]"
+        },
+        {
+          "title": "马斯克，要颠覆EUV光刻机？",
+          "url": "https://wallstreetcn.com/articles/3779015",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         },
         {
           "title": "马斯克：在长途航班中接入星链网络，将成为提升生产力的重大变革。",
@@ -173,11 +184,12 @@
             7,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时55分 ~ 21时28分]"
+          "appearance_count": 18,
+          "time_info": "[10时55分 ~ 22时05分]"
         },
         {
           "title": "哈马斯高级官员Basem Naim：预计调停人和美国将“施压以色列总理内塔尼亚胡和他的政府”遵守（加沙和平）路线图。 我们仍然尊重十天前同调停方、和平委员会在埃及开罗达成的路线图共识。（路透）",
@@ -185,11 +197,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            10
+            10,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 21时28分]"
+          "appearance_count": 3,
+          "time_info": "[20时21分 ~ 22时05分]"
         }
       ]
     },

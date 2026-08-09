@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T19:23:55.915942+08:00",
-  "total_titles_processed": 964,
+  "generated_at": "2026-08-09T19:52:41.239416+08:00",
+  "total_titles_processed": 1004,
   "failed_sources": [],
   "trends": [
     {
@@ -20,11 +20,12 @@
             18,
             19,
             25,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时56分 ~ 19时23分]"
+          "appearance_count": 11,
+          "time_info": "[10时56分 ~ 19时52分]"
         },
         {
           "title": "马斯克突然“唱多”自家公司",
@@ -76,8 +77,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时40分 ~ 19时23分]"
+          "appearance_count": 17,
+          "time_info": "[08时40分 ~ 19时52分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -139,11 +140,12 @@
             13,
             14,
             20,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时56分 ~ 19时23分]"
+          "appearance_count": 11,
+          "time_info": "[10时56分 ~ 19时52分]"
         },
         {
           "title": "为什么体制内至今仍不鼓励用人工智能？",
@@ -207,8 +209,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时55分 ~ 19时23分]"
+          "appearance_count": 15,
+          "time_info": "[10时55分 ~ 19时52分]"
         }
       ]
     }

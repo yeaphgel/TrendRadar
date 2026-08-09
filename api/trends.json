@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T12:07:38.164804+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2026-08-09T13:28:28.911438+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 12时07分]"
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 13时28分]"
         },
         {
           "title": "马斯克：在长途航班中接入星链网络，将成为提升生产力的重大变革。",
@@ -56,8 +57,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时40分 ~ 12时07分]"
+          "appearance_count": 6,
+          "time_info": "[08时40分 ~ 13时28分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -83,11 +84,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 12时07分]"
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 13时28分]"
         },
         {
           "title": "为什么体制内至今仍不鼓励用人工智能？",
@@ -138,6 +140,23 @@
       ]
     },
     {
+      "keyword_group": "Anthropic",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "拯救悲剧股神后又当新娘！Anthropic幕僚长自述：在AI前沿寻找上帝",
+          "url": "https://wallstreetcn.com/articles/3779002",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI",
       "match_count": 1,
       "titles": [
@@ -150,8 +169,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 12时07分]"
+          "appearance_count": 4,
+          "time_info": "[10时55分 ~ 13时28分]"
         }
       ]
     }

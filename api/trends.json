@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T20:21:33.309703+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2026-08-09T21:28:16.286448+08:00",
+  "total_titles_processed": 1115,
   "failed_sources": [],
   "trends": [
     {
@@ -77,8 +77,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时40分 ~ 20时21分]"
+          "appearance_count": 19,
+          "time_info": "[08时40分 ~ 21时28分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -176,19 +176,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时55分 ~ 20时21分]"
+          "appearance_count": 17,
+          "time_info": "[10时55分 ~ 21时28分]"
         },
         {
           "title": "哈马斯高级官员Basem Naim：预计调停人和美国将“施压以色列总理内塔尼亚胡和他的政府”遵守（加沙和平）路线图。 我们仍然尊重十天前同调停方、和平委员会在埃及开罗达成的路线图共识。（路透）",
           "url": "https://wallstreetcn.com/livenews/3147083",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 21时28分]"
         }
       ]
     },

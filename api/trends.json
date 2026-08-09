@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T17:09:02.348255+08:00",
-  "total_titles_processed": 806,
+  "generated_at": "2026-08-09T18:02:46.194980+08:00",
+  "total_titles_processed": 858,
   "failed_sources": [],
   "trends": [
     {
@@ -17,22 +17,24 @@
             11,
             12,
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时56分 ~ 17时09分]"
+          "appearance_count": 8,
+          "time_info": "[10时56分 ~ 18时02分]"
         },
         {
           "title": "马斯克突然“唱多”自家公司",
           "url": "https://www.toutiao.com/trending/7670931315927498771/",
           "source": "今日头条",
           "ranks": [
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时08分 ~ 17时09分]"
+          "appearance_count": 3,
+          "time_info": "[17时08分 ~ 18时02分]"
         },
         {
           "title": "马斯克：在长途航班中接入星链网络，将成为提升生产力的重大变革。",
@@ -72,8 +74,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时40分 ~ 17时09分]"
+          "appearance_count": 13,
+          "time_info": "[08时40分 ~ 18时02分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -132,11 +134,12 @@
             6,
             7,
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时56分 ~ 17时09分]"
+          "appearance_count": 8,
+          "time_info": "[10时56分 ~ 18时02分]"
         },
         {
           "title": "为什么体制内至今仍不鼓励用人工智能？",
@@ -200,8 +203,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时55分 ~ 17时09分]"
+          "appearance_count": 11,
+          "time_info": "[10时55分 ~ 18时02分]"
         }
       ]
     }

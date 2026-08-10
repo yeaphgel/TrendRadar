@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-10T19:40:04.217623+08:00",
-  "total_titles_processed": 1225,
+  "generated_at": "2026-08-10T20:38:10.590658+08:00",
+  "total_titles_processed": 1334,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "国家人工智能应用中试基地（农业领域农作物种植方向）启动",
+          "url": "https://wallstreetcn.com/livenews/3147514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
         {
           "title": "韩媒：李在明将视察人工智能相关投资计划的进展情况",
           "url": "https://flash.jin10.com/detail/20260810102358029800",
@@ -50,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
+        },
+        {
+          "title": "白宫经济顾问哈塞特：如果我现在在美联储，我会选择维持利率不变或降息。 人工智能或许是未来两年最重要的政策议题。 政府正在认真研究人工智能安全问题。 我不会接替丽莎·库克出任美联储理事。 我不会接替丽莎·库克出任美联储理事。 日元行动属于贝森特的职权范围，无可奉告。 沃什是再独立不过的人了。 无需为稳定日元而炮制美债理论。 稳定的日元有助于防止危机蔓延。 美国政府将持有英特尔股票多久，由特朗普决定。",
+          "url": "https://wallstreetcn.com/livenews/3147493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "日本央行七月会议意见摘要：一名成员表示，随着油价上涨传导至消费者通胀，全球人工智能需求以及日本扩张性财政政策推动需求，通胀前景面临巨大上行风险。",
@@ -99,7 +121,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "高盛：中国AI板块不存在整体泡沫 三大细分领域最具投资价值",
@@ -111,8 +133,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时10分 ~ 19时40分]"
+          "appearance_count": 9,
+          "time_info": "[14时10分 ~ 20时38分]"
         },
         {
           "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
@@ -124,6 +146,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时41分 ~ 08时42分]"
+        },
+        {
+          "title": "高盛研判中国AI股：近期回调已释放核心风险，建议多元布局四大主线",
+          "url": "https://www.cls.cn/detail/2449895",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时54分 ~ 20时38分]"
         },
         {
           "title": "美国科学家首次用 AI 设计出病毒，意味着什么？生物安全防线该如何应对？",
@@ -138,17 +172,6 @@
           "time_info": "[08时41分 ~ 11时04分]"
         },
         {
-          "title": "高盛研判中国AI股：近期回调已释放核心风险，建议多元布局四大主线",
-          "url": "https://www.cls.cn/detail/2449895",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时54分 ~ 19时40分]"
-        },
-        {
           "title": "高盛刘劲津：中国AI不存在整体性泡沫，外资配置空间巨大",
           "url": "https://wallstreetcn.com/articles/3779028",
           "source": "华尔街见闻",
@@ -158,6 +181,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时39分 ~ 19时40分]"
+        },
+        {
+          "title": "美国禁令如何影响自身AI基建",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%A6%81%E4%BB%A4%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E8%87%AA%E8%BA%ABAI%E5%9F%BA%E5%BB%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 20时38分]"
         },
         {
           "title": "Meta推轻量级AI模型 扎克伯格呼吁美国重审开源政策",
@@ -174,7 +208,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "马斯克，要颠覆EUV光刻机？",
@@ -190,6 +224,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[08时41分 ~ 16时12分]"
+        },
+        {
+          "title": "马斯克的新挑战：给光刻机“换束光”",
+          "url": "https://www.cls.cn/detail/2450318",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 20时38分]"
         },
         {
           "title": "马斯克凭什么建全球最大的芯片厂",
@@ -266,6 +311,34 @@
       ]
     },
     {
+      "keyword_group": "Anthropic",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Anthropic、麦格理与GIC据报达成数据中心平台协议。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3147505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
+          "title": "Anthropic与麦格理和新加坡政府投资公司达成数据中心平台协议。",
+          "url": "https://flash.jin10.com/detail/20260810200258687800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -281,8 +354,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时01分 ~ 19时40分]"
+          "appearance_count": 10,
+          "time_info": "[13时01分 ~ 20时38分]"
         }
       ]
     }

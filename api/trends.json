@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T20:38:10.590658+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2026-08-10T23:28:46.408208+08:00",
+  "total_titles_processed": 1493,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         },
@@ -69,7 +69,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         },
@@ -121,7 +121,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "高盛：中国AI板块不存在整体泡沫 三大细分领域最具投资价值",
@@ -156,8 +156,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时54分 ~ 20时38分]"
+          "appearance_count": 6,
+          "time_info": "[18时54分 ~ 23时28分]"
         },
         {
           "title": "美国科学家首次用 AI 设计出病毒，意味着什么？生物安全防线该如何应对？",
@@ -192,6 +192,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时37分 ~ 20时38分]"
+        },
+        {
+          "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
+          "url": "https://wallstreetcn.com/articles/3779081",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "Meta推轻量级AI模型 扎克伯格呼吁美国重审开源政策",
@@ -230,11 +241,12 @@
           "url": "https://www.cls.cn/detail/2450318",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时37分 ~ 20时38分]"
+          "appearance_count": 3,
+          "time_info": "[20时37分 ~ 23时28分]"
         },
         {
           "title": "马斯克凭什么建全球最大的芯片厂",
@@ -321,7 +333,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         },
@@ -332,7 +344,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         }
@@ -354,8 +366,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时01分 ~ 20时38分]"
+          "appearance_count": 11,
+          "time_info": "[13时01分 ~ 23时28分]"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T18:54:29.959051+08:00",
-  "total_titles_processed": 1143,
+  "generated_at": "2026-08-10T19:40:04.217623+08:00",
+  "total_titles_processed": 1225,
   "failed_sources": [],
   "trends": [
     {
@@ -47,7 +47,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
@@ -80,7 +80,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
@@ -99,7 +99,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "高盛：中国AI板块不存在整体泡沫 三大细分领域最具投资价值",
@@ -111,8 +111,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时10分 ~ 18时54分]"
+          "appearance_count": 7,
+          "time_info": "[14时10分 ~ 19时40分]"
         },
         {
           "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
@@ -144,9 +144,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时54分 ~ 19时40分]"
+        },
+        {
+          "title": "高盛刘劲津：中国AI不存在整体性泡沫，外资配置空间巨大",
+          "url": "https://wallstreetcn.com/articles/3779028",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 19时40分]"
         },
         {
           "title": "Meta推轻量级AI模型 扎克伯格呼吁美国重审开源政策",
@@ -155,7 +166,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         }
@@ -266,11 +277,12 @@
             9,
             8,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时01分 ~ 18时54分]"
+          "appearance_count": 8,
+          "time_info": "[13时01分 ~ 19时40分]"
         }
       ]
     }

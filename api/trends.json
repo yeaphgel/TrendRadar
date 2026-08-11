@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T10:57:24.085265+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-08-11T12:10:46.379304+08:00",
+  "total_titles_processed": 589,
   "failed_sources": [],
   "trends": [
     {
@@ -19,20 +19,21 @@
           "time_info": "08时42分"
         },
         {
-          "title": "报道：Anthropic与比特币挖矿公司Riot达成91亿美元算力协议",
-          "url": "https://wallstreetcn.com/livenews/3147748",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时42分"
-        },
-        {
           "title": "如何评价 Anthropic 宣布将黎曼猜想的已知下界从 41.6% 提高到了 67.2%？",
           "url": "https://www.zhihu.com/question/2070336637360518307",
           "source": "知乎",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时42分 ~ 12时10分]"
+        },
+        {
+          "title": "报道：Anthropic与比特币挖矿公司Riot达成91亿美元算力协议",
+          "url": "https://wallstreetcn.com/livenews/3147748",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
@@ -58,7 +59,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         }
@@ -77,8 +78,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时42分 ~ 10时57分]"
+          "appearance_count": 3,
+          "time_info": "[08时42分 ~ 12时10分]"
         },
         {
           "title": "涉及中国AI，日本自卫队极为担心",
@@ -87,7 +88,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T16:10:22.047229+08:00",
-  "total_titles_processed": 858,
+  "generated_at": "2026-08-13T17:37:40.823967+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
@@ -8,29 +8,31 @@
       "match_count": 18,
       "titles": [
         {
-          "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
-          "url": "https://www.zhihu.com/question/2071014727606703118",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时50分 ~ 16时10分]"
-        },
-        {
           "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
           "url": "https://www.cls.cn/detail/2452920",
           "source": "财联社热门",
           "ranks": [
             10,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时50分 ~ 16时10分]"
+          "appearance_count": 6,
+          "time_info": "[08时50分 ~ 17时37分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
+          "url": "https://www.zhihu.com/question/2071014727606703118",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时50分 ~ 17时37分]"
         },
         {
           "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
@@ -42,8 +44,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时50分 ~ 16时10分]"
+          "appearance_count": 6,
+          "time_info": "[08时50分 ~ 17时37分]"
         },
         {
           "title": "DeepSeek重磅更新 V4Pro正式版上线",
@@ -90,8 +92,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 16时10分]"
+          "appearance_count": 3,
+          "time_info": "[14时53分 ~ 17时37分]"
         },
         {
           "title": "梁文锋财富一年暴涨 3850% ，跻身全球亿万富豪榜，他是如何做到的？",
@@ -103,6 +105,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时50分 ~ 11时20分]"
+        },
+        {
+          "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
+          "url": "https://www.zhihu.com/question/2071189146777773055",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时10分 ~ 17时37分]"
         },
         {
           "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
@@ -171,17 +185,6 @@
           "time_info": "08时50分"
         },
         {
-          "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
-          "url": "https://www.zhihu.com/question/2071189146777773055",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时10分"
-        },
-        {
           "title": "DeepSeekV4Pro和Grok4.6谁更强",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeekV4Pro%E5%92%8CGrok4.6%E8%B0%81%E6%9B%B4%E5%BC%BA%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -199,7 +202,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
         },
@@ -257,11 +260,12 @@
             11,
             14,
             16,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时50分 ~ 16时10分]"
+          "appearance_count": 6,
+          "time_info": "[08时50分 ~ 17时37分]"
         },
         {
           "title": "马斯克豪言未来特斯拉全系标配星链",
@@ -269,6 +273,34 @@
           "source": "今日头条",
           "ranks": [
             30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Anthropic",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "史上最大IPO要易主了？据称Anthropic将于10月IPO，估值或突破2万亿美元",
+          "url": "https://www.cls.cn/detail/2453351",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "如何评价 Anthropic CEO Dario Amodei 害怕被绑架？",
+          "url": "https://www.zhihu.com/question/2069971685403628839",
+          "source": "知乎",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -286,11 +318,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时50分 ~ 16时10分]"
+          "appearance_count": 6,
+          "time_info": "[08时50分 ~ 17时37分]"
         }
       ]
     },
@@ -308,23 +341,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Anthropic",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价 Anthropic CEO Dario Amodei 害怕被绑架？",
-          "url": "https://www.zhihu.com/question/2069971685403628839",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时15分"
         }
       ]
     },

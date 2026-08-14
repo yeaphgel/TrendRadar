@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T14:50:38.379511+08:00",
-  "total_titles_processed": 745,
+  "generated_at": "2026-08-14T16:06:38.249315+08:00",
+  "total_titles_processed": 878,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时49分 ~ 14时50分]"
+          "appearance_count": 5,
+          "time_info": "[08时49分 ~ 16时06分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -29,8 +29,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时49分 ~ 14时50分]"
+          "appearance_count": 5,
+          "time_info": "[08时49分 ~ 16时06分]"
+        },
+        {
+          "title": "DeepSeek发布调价公告",
+          "url": "https://www.douyin.com/hot/2608709",
+          "source": "抖音",
+          "ranks": [
+            6,
+            5,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时49分 ~ 16时06分]"
         },
         {
           "title": "DeepSeek Harness是什么",
@@ -55,17 +69,6 @@
           "time_info": "08时49分"
         },
         {
-          "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
-          "url": "https://www.zhihu.com/question/2071361705183899939",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
           "url": "https://www.zhihu.com/question/2071335529577239335",
           "source": "知乎",
@@ -78,18 +81,28 @@
           "time_info": "[08时49分 ~ 13时12分]"
         },
         {
-          "title": "DeepSeek发布调价公告",
-          "url": "https://www.douyin.com/hot/2608709",
-          "source": "抖音",
+          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
+          "url": "https://wallstreetcn.com/articles/3779385",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
-            5,
-            7,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时49分 ~ 14时50分]"
+          "appearance_count": 5,
+          "time_info": "[08时49分 ~ 16时06分]"
+        },
+        {
+          "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
+          "url": "https://www.zhihu.com/question/2071361705183899939",
+          "source": "知乎",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 16时06分]"
         },
         {
           "title": "DeepSeek官方Agent发布",
@@ -104,16 +117,16 @@
           "time_info": "[08时49分 ~ 14时50分]"
         },
         {
-          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
-          "url": "https://wallstreetcn.com/articles/3779385",
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[08时49分 ~ 14时50分]"
+          "time_info": "[11时18分 ~ 16时06分]"
         },
         {
           "title": "为什么DeepSeek越涨价越是价格屠夫",
@@ -126,18 +139,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时49分 ~ 11时18分]"
-        },
-        {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时18分 ~ 14时50分]"
         },
         {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
@@ -157,9 +158,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
+        },
+        {
+          "title": "如何评价 DeepSeek 与北大联合发布的新论文，有哪些亮点？对 Agent 发展有什么影响？",
+          "url": "https://www.zhihu.com/question/2071375581464343126",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         },
         {
           "title": "如何看待 DeepSeek 撤回 v4Pro 正式版的公告？",
@@ -201,7 +213,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -322,7 +334,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         }
@@ -358,8 +370,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时12分 ~ 14时50分]"
+          "appearance_count": 3,
+          "time_info": "[13时12分 ~ 16时06分]"
         }
       ]
     }

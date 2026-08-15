@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-15T14:17:21.593935+08:00",
-  "total_titles_processed": 700,
+  "generated_at": "2026-08-15T15:04:33.841377+08:00",
+  "total_titles_processed": 734,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Anthropic",
       "match_count": 7,
       "titles": [
+        {
+          "title": "太炸裂！Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨",
+          "url": "https://www.cls.cn/detail/2455064",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时49分 ~ 15时04分]"
+        },
         {
           "title": "消息人士：Anthropic预计2028年收入将达到1900亿至2000亿美元",
           "url": "https://flash.jin10.com/detail/20260815083816255800",
@@ -34,17 +46,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时55分 ~ 12时29分]"
-        },
-        {
-          "title": "太炸裂！Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨",
-          "url": "https://www.cls.cn/detail/2455064",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时49分 ~ 14时17分]"
         },
         {
           "title": "Anthropic二季度营收超115亿美元 较去年同期增长至少14倍",
@@ -110,11 +111,12 @@
             13,
             14,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时27分 ~ 14时17分]"
+          "appearance_count": 9,
+          "time_info": "[08时27分 ~ 15时04分]"
         },
         {
           "title": "DeepSeek Harness实测",
@@ -127,11 +129,12 @@
             19,
             18,
             17,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时27分 ~ 14时17分]"
+          "appearance_count": 9,
+          "time_info": "[08时27分 ~ 15时04分]"
         },
         {
           "title": "DeepSeek-V4 Pro 跑分飙升",
@@ -153,11 +156,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时49分 ~ 14时17分]"
+          "appearance_count": 4,
+          "time_info": "[13时49分 ~ 15时04分]"
         },
         {
           "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
@@ -251,8 +255,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时27分 ~ 14时17分]"
+          "appearance_count": 6,
+          "time_info": "[11时27分 ~ 15时04分]"
         },
         {
           "title": "事关特朗普与马斯克，美媒最新爆料",
@@ -342,11 +346,12 @@
           "ranks": [
             3,
             8,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 14时17分]"
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 15时04分]"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T15:50:09.007501+08:00",
-  "total_titles_processed": 797,
+  "generated_at": "2026-08-15T17:47:02.054394+08:00",
+  "total_titles_processed": 914,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时49分 ~ 15时50分]"
+          "appearance_count": 8,
+          "time_info": "[13时49分 ~ 17时47分]"
         },
         {
           "title": "消息人士：Anthropic预计2028年收入将达到1900亿至2000亿美元",
@@ -112,11 +112,12 @@
             14,
             15,
             16,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时27分 ~ 15时50分]"
+          "appearance_count": 13,
+          "time_info": "[08时27分 ~ 17时47分]"
         },
         {
           "title": "DeepSeek Harness实测",
@@ -131,11 +132,25 @@
             17,
             23,
             27,
-            26
+            26,
+            24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时27分 ~ 15时50分]"
+          "appearance_count": 13,
+          "time_info": "[08时27分 ~ 17时47分]"
+        },
+        {
+          "title": "如何看待 DeepSeek-V4 Pro 正式版疑似过拟合 DeepSeek Harness 的极简模式？",
+          "url": "https://www.zhihu.com/question/2071773348753945432",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时49分 ~ 17时47分]"
         },
         {
           "title": "DeepSeek-V4 Pro 跑分飙升",
@@ -150,19 +165,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时42分 ~ 13时50分]"
-        },
-        {
-          "title": "如何看待 DeepSeek-V4 Pro 正式版疑似过拟合 DeepSeek Harness 的极简模式？",
-          "url": "https://www.zhihu.com/question/2071773348753945432",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时49分 ~ 15时50分]"
         },
         {
           "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
@@ -256,8 +258,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时27分 ~ 15时50分]"
+          "appearance_count": 10,
+          "time_info": "[11时27分 ~ 17时47分]"
         },
         {
           "title": "事关特朗普与马斯克，美媒最新爆料",
@@ -354,6 +356,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时27分 ~ 09时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿贝尔掌舵半年伯克希尔大举增持谷歌、A类股晋升前五重仓，Q2加码航空和房产股",
+          "url": "https://wallstreetcn.com/articles/3779490",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时47分]"
         }
       ]
     }

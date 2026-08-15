@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T15:04:33.841377+08:00",
-  "total_titles_processed": 734,
+  "generated_at": "2026-08-15T15:50:09.007501+08:00",
+  "total_titles_processed": 797,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时49分 ~ 15时04分]"
+          "appearance_count": 6,
+          "time_info": "[13时49分 ~ 15时50分]"
         },
         {
           "title": "消息人士：Anthropic预计2028年收入将达到1900亿至2000亿美元",
@@ -115,8 +115,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时27分 ~ 15时04分]"
+          "appearance_count": 11,
+          "time_info": "[08时27分 ~ 15时50分]"
         },
         {
           "title": "DeepSeek Harness实测",
@@ -130,11 +130,12 @@
             18,
             17,
             23,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时27分 ~ 15时04分]"
+          "appearance_count": 11,
+          "time_info": "[08时27分 ~ 15时50分]"
         },
         {
           "title": "DeepSeek-V4 Pro 跑分飙升",
@@ -160,8 +161,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时49分 ~ 15时04分]"
+          "appearance_count": 6,
+          "time_info": "[13时49分 ~ 15时50分]"
         },
         {
           "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
@@ -255,8 +256,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时27分 ~ 15时04分]"
+          "appearance_count": 8,
+          "time_info": "[11时27分 ~ 15时50分]"
         },
         {
           "title": "事关特朗普与马斯克，美媒最新爆料",
@@ -329,6 +330,21 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "印度总理莫迪：印度计划在一年内对1000万青年进行人工智能（AI）技能培训。 印度将为青年提供免费在线考试辅导课程。",
+          "url": "https://wallstreetcn.com/livenews/3149933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8,
+            11,
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时27分 ~ 15时50分]"
+        },
+        {
           "title": "人工智能激活力 “新”意盎然促发展",
           "url": "https://www.toutiao.com/trending/7673797019718598698/",
           "source": "今日头条",
@@ -338,20 +354,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时27分 ~ 09时55分]"
-        },
-        {
-          "title": "印度总理莫迪：印度计划在一年内对1000万青年进行人工智能（AI）技能培训。 印度将为青年提供免费在线考试辅导课程。",
-          "url": "https://wallstreetcn.com/livenews/3149933",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时27分 ~ 15时04分]"
         }
       ]
     }

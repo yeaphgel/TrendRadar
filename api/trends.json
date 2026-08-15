@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T17:47:02.054394+08:00",
-  "total_titles_processed": 914,
+  "generated_at": "2026-08-15T21:05:43.616139+08:00",
+  "total_titles_processed": 1074,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时49分 ~ 17时47分]"
+          "appearance_count": 9,
+          "time_info": "[13时49分 ~ 21时05分]"
         },
         {
           "title": "消息人士：Anthropic预计2028年收入将达到1900亿至2000亿美元",
@@ -113,11 +114,12 @@
             15,
             16,
             17,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时27分 ~ 17时47分]"
+          "appearance_count": 14,
+          "time_info": "[08时27分 ~ 21时05分]"
         },
         {
           "title": "DeepSeek Harness实测",
@@ -146,11 +148,12 @@
           "ranks": [
             14,
             13,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时49分 ~ 17时47分]"
+          "appearance_count": 9,
+          "time_info": "[13时49分 ~ 21时05分]"
         },
         {
           "title": "DeepSeek-V4 Pro 跑分飙升",
@@ -192,7 +195,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "据悉英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
@@ -232,6 +235,17 @@
           "time_info": "09时55分"
         },
         {
+          "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
+          "url": "https://www.cls.cn/detail/2455147",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
           "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
           "url": "https://news.ifeng.com/c/8vaHkh2o1IS",
           "source": "凤凰网",
@@ -258,8 +272,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时27分 ~ 17时47分]"
+          "appearance_count": 11,
+          "time_info": "[11时27分 ~ 21时05分]"
         },
         {
           "title": "事关特朗普与马斯克，美媒最新爆料",
@@ -371,8 +385,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 17时47分]"
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 21时05分]"
         }
       ]
     }

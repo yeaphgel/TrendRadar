@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T20:12:59.002714+08:00",
-  "total_titles_processed": 1060,
+  "generated_at": "2026-08-16T21:07:16.899132+08:00",
+  "total_titles_processed": 1125,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[08时28分 ~ 20时12分]"
+          "appearance_count": 27,
+          "time_info": "[08时28分 ~ 21时07分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -33,8 +33,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[10时03分 ~ 20时12分]"
+          "appearance_count": 26,
+          "time_info": "[10时03分 ~ 21时07分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[13时17分 ~ 20时12分]"
+          "appearance_count": 22,
+          "time_info": "[13时17分 ~ 21时07分]"
         },
         {
           "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
@@ -69,6 +69,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[10时03分 ~ 17时49分]"
+        },
+        {
+          "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
+          "url": "https://www.cls.cn/detail/2455353",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时06分 ~ 21时07分]"
         },
         {
           "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
@@ -187,11 +198,12 @@
           "ranks": [
             8,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[15时06分 ~ 20时12分]"
+          "appearance_count": 17,
+          "time_info": "[15时06分 ~ 21时07分]"
         },
         {
           "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
@@ -199,11 +211,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时53分 ~ 20时12分]"
+          "appearance_count": 14,
+          "time_info": "[16时53分 ~ 21时07分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -235,8 +248,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时51分 ~ 20时12分]"
+          "appearance_count": 15,
+          "time_info": "[15时51分 ~ 21时07分]"
         },
         {
           "title": "太炸裂！Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨",
@@ -245,11 +258,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[08时28分 ~ 20时12分]"
+          "appearance_count": 27,
+          "time_info": "[08时28分 ~ 21时07分]"
         },
         {
           "title": "Anthropic Q2 营收逾 115 亿美元，同比增 14 倍，是何引爆了其业绩，大模型商业化成功了？",
@@ -295,8 +309,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时03分 ~ 20时12分]"
+          "appearance_count": 16,
+          "time_info": "[10时03分 ~ 21时07分]"
         },
         {
           "title": "美国大模型帮日本对AI进行投毒",

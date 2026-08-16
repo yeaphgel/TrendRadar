@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T14:18:10.026634+08:00",
-  "total_titles_processed": 669,
+  "generated_at": "2026-08-16T15:07:14.423168+08:00",
+  "total_titles_processed": 718,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时28分 ~ 14时18分]"
+          "appearance_count": 12,
+          "time_info": "[08时28分 ~ 15时07分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -32,8 +32,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时03分 ~ 14时18分]"
+          "appearance_count": 11,
+          "time_info": "[10时03分 ~ 15时07分]"
         },
         {
           "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
@@ -45,11 +45,12 @@
             8,
             11,
             12,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时03分 ~ 14时18分]"
+          "appearance_count": 7,
+          "time_info": "[10时03分 ~ 15时07分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -57,11 +58,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时17分 ~ 14时18分]"
+          "appearance_count": 7,
+          "time_info": "[13时17分 ~ 15时07分]"
         },
         {
           "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
@@ -112,11 +114,12 @@
             1,
             4,
             5,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时06分 ~ 14时18分]"
+          "appearance_count": 5,
+          "time_info": "[12时06分 ~ 15时07分]"
         },
         {
           "title": "DeepSeek Harness实测",
@@ -146,7 +149,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美国大模型帮日本对AI进行投毒",
@@ -171,6 +174,17 @@
           "time_info": "[08时28分 ~ 10时03分]"
         },
         {
+          "title": "周鸿祎：美芯片禁令反给中国AI开扇门",
+          "url": "https://www.toutiao.com/trending/7674482791823707698/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 15时07分]"
+        },
+        {
           "title": "中国医生用AI解决数学圈22年难题",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E7%94%A8AI%E8%A7%A3%E5%86%B3%E6%95%B0%E5%AD%A6%E5%9C%8822%E5%B9%B4%E9%9A%BE%E9%A2%98",
           "source": "bilibili 热搜",
@@ -185,7 +199,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -194,11 +208,12 @@
           "ranks": [
             3,
             4,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 14时18分]"
+          "appearance_count": 4,
+          "time_info": "[13时17分 ~ 15时07分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -206,11 +221,23 @@
           "source": "金十数据",
           "ranks": [
             4,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 14时18分]"
+          "appearance_count": 4,
+          "time_info": "[13时17分 ~ 15时07分]"
+        },
+        {
+          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
+          "url": "https://wallstreetcn.com/articles/3779527",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 15时07分]"
         }
       ]
     },
@@ -228,19 +255,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时28分 ~ 14时18分]"
+          "appearance_count": 12,
+          "time_info": "[08时28分 ~ 15时07分]"
         },
         {
           "title": "Anthropic Q2 营收逾 115 亿美元，同比增 14 倍，是何引爆了其业绩，大模型商业化成功了？",
           "url": "https://www.zhihu.com/question/2071916942760342436",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 14时18分]"
+          "appearance_count": 4,
+          "time_info": "[14时17分 ~ 15时07分]"
         }
       ]
     },
@@ -257,8 +285,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时28分 ~ 14时18分]"
+          "appearance_count": 7,
+          "time_info": "[08时28分 ~ 15时07分]"
         }
       ]
     }

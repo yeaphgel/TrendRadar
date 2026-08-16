@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T16:53:36.135805+08:00",
-  "total_titles_processed": 834,
+  "generated_at": "2026-08-16T17:15:15.223893+08:00",
+  "total_titles_processed": 863,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时28分 ~ 16时53分]"
+          "appearance_count": 16,
+          "time_info": "[08时28分 ~ 17时15分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -33,8 +33,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时03分 ~ 16时53分]"
+          "appearance_count": 15,
+          "time_info": "[10时03分 ~ 17时15分]"
         },
         {
           "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
@@ -51,8 +51,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时03分 ~ 16时53分]"
+          "appearance_count": 10,
+          "time_info": "[10时03分 ~ 17时15分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -64,8 +64,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时17分 ~ 16时53分]"
+          "appearance_count": 11,
+          "time_info": "[13时17分 ~ 17时15分]"
         },
         {
           "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
@@ -108,8 +108,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时06分 ~ 16时53分]"
+          "appearance_count": 8,
+          "time_info": "[12时06分 ~ 17时15分]"
         },
         {
           "title": "DeepSeek-V4-Pro-0813 已发布，体验下来怎么样？",
@@ -166,8 +166,20 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时17分 ~ 17时15分]"
+        },
+        {
+          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
+          "url": "https://wallstreetcn.com/articles/3779527",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[13时17分 ~ 16时53分]"
+          "time_info": "[15时06分 ~ 17时15分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -184,27 +196,15 @@
           "time_info": "[13时17分 ~ 15时51分]"
         },
         {
-          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
-          "url": "https://wallstreetcn.com/articles/3779527",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时06分 ~ 16时53分]"
-        },
-        {
           "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
           "url": "https://wallstreetcn.com/articles/3779522",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 17时15分]"
         }
       ]
     },
@@ -222,8 +222,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时28分 ~ 16时53分]"
+          "appearance_count": 16,
+          "time_info": "[08时28分 ~ 17时15分]"
         },
         {
           "title": "Anthropic Q2 营收逾 115 亿美元，同比增 14 倍，是何引爆了其业绩，大模型商业化成功了？",
@@ -235,8 +235,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时17分 ~ 16时53分]"
+          "appearance_count": 8,
+          "time_info": "[14时17分 ~ 17时15分]"
         },
         {
           "title": "从成人电影创业到“硅谷第一夫人”：深挖Anthropic背后的神秘女人",
@@ -247,8 +247,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时51分 ~ 16时53分]"
+          "appearance_count": 4,
+          "time_info": "[15时51分 ~ 17时15分]"
         },
         {
           "title": "Anthropic二季度营收同比暴涨1400%",
@@ -269,6 +269,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "中国医生用AI解决数学圈22年难题",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E7%94%A8AI%E8%A7%A3%E5%86%B3%E6%95%B0%E5%AD%A6%E5%9C%8822%E5%B9%B4%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时03分 ~ 17时15分]"
+        },
+        {
           "title": "美国大模型帮日本对AI进行投毒",
           "url": "https://www.toutiao.com/trending/7673727363703639571/",
           "source": "今日头条",
@@ -278,18 +290,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时03分 ~ 11时25分]"
-        },
-        {
-          "title": "中国医生用AI解决数学圈22年难题",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E7%94%A8AI%E8%A7%A3%E5%86%B3%E6%95%B0%E5%AD%A6%E5%9C%8822%E5%B9%B4%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时03分 ~ 16时53分]"
         },
         {
           "title": "周鸿祎：美芯片禁令反给中国AI开扇门",
@@ -330,8 +330,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时28分 ~ 16时53分]"
+          "appearance_count": 11,
+          "time_info": "[08时28分 ~ 17时15分]"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T18:46:03.545121+08:00",
-  "total_titles_processed": 963,
+  "generated_at": "2026-08-16T19:42:07.183027+08:00",
+  "total_titles_processed": 1020,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[08时28分 ~ 18时46分]"
+          "appearance_count": 24,
+          "time_info": "[08时28分 ~ 19时42分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -33,8 +33,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[10时03分 ~ 18时46分]"
+          "appearance_count": 23,
+          "time_info": "[10时03分 ~ 19时42分]"
         },
         {
           "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
@@ -66,8 +66,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[13时17分 ~ 18时46分]"
+          "appearance_count": 19,
+          "time_info": "[13时17分 ~ 19时42分]"
         },
         {
           "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
@@ -110,11 +110,12 @@
             19,
             21,
             24,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时06分 ~ 18时46分]"
+          "appearance_count": 12,
+          "time_info": "[12时06分 ~ 19时42分]"
         },
         {
           "title": "DeepSeek-V4-Pro-0813 已发布，体验下来怎么样？",
@@ -171,11 +172,12 @@
             18,
             20,
             23,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时17分 ~ 18时46分]"
+          "appearance_count": 11,
+          "time_info": "[13时17分 ~ 19时42分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -187,8 +189,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时06分 ~ 18时46分]"
+          "appearance_count": 14,
+          "time_info": "[15时06分 ~ 19时42分]"
         },
         {
           "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
@@ -199,8 +201,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时53分 ~ 18时46分]"
+          "appearance_count": 11,
+          "time_info": "[16时53分 ~ 19时42分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -232,8 +234,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时51分 ~ 18时46分]"
+          "appearance_count": 12,
+          "time_info": "[15时51分 ~ 19时42分]"
         },
         {
           "title": "太炸裂！Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨",
@@ -245,8 +247,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[08时28分 ~ 18时46分]"
+          "appearance_count": 24,
+          "time_info": "[08时28分 ~ 19时42分]"
         },
         {
           "title": "Anthropic Q2 营收逾 115 亿美元，同比增 14 倍，是何引爆了其业绩，大模型商业化成功了？",
@@ -258,11 +260,12 @@
             9,
             12,
             14,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[14时17分 ~ 18时46分]"
+          "appearance_count": 15,
+          "time_info": "[14时17分 ~ 19时41分]"
         },
         {
           "title": "Anthropic二季度营收同比暴涨1400%",
@@ -291,8 +294,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时03分 ~ 18时46分]"
+          "appearance_count": 13,
+          "time_info": "[10时03分 ~ 19时42分]"
         },
         {
           "title": "美国大模型帮日本对AI进行投毒",
@@ -344,8 +347,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时28分 ~ 18时46分]"
+          "appearance_count": 19,
+          "time_info": "[08时28分 ~ 19时42分]"
         }
       ]
     }

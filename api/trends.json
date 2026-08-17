@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-08-17T17:06:33.250165+08:00",
-  "total_titles_processed": 1097,
-  "failed_sources": [
-    "toutiao"
-  ],
+  "generated_at": "2026-08-17T18:03:18.029541+08:00",
+  "total_titles_processed": 1197,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
@@ -49,6 +47,19 @@
           "time_info": "[10时00分 ~ 11时39分]"
         },
         {
+          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
+          "url": "https://www.zhihu.com/question/2072598571090538898",
+          "source": "知乎",
+          "ranks": [
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时57分 ~ 18时03分]"
+        },
+        {
           "title": "DeepSeek正式涨价",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -59,19 +70,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时27分 ~ 11时39分]"
-        },
-        {
-          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
-          "url": "https://www.zhihu.com/question/2072598571090538898",
-          "source": "知乎",
-          "ranks": [
-            12,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时57分 ~ 17时06分]"
         },
         {
           "title": "DeepSeek Harness 有什么好用的插件？",
@@ -210,52 +208,20 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "keyword_group": "人工智能",
+      "match_count": 4,
       "titles": [
         {
-          "title": "段永平最新调仓出炉：减持苹果、英伟达、谷歌，买回阿里",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33794674",
-          "source": "澎湃新闻",
+          "title": "据日本共同社：消息人士称，日本防卫省正在考虑将美国开发的人工智能引入日本自卫队部队的指挥与控制系统。此举旨在利用AI支持战场分析、目标分析以及命令发布，以加快决策速度。日本防卫省还计划采用日本自主研发的系统，以避免过度依赖某个国家或企业。",
+          "url": "https://flash.jin10.com/detail/20260817174305344800",
+          "source": "金十数据",
           "ranks": [
-            17,
-            18,
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时27分 ~ 16时07分]"
-        },
-        {
-          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
-          "url": "https://wallstreetcn.com/articles/3779527",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
             6
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时27分 ~ 11时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
-        {
-          "title": "Gemini挑瓜 无中生瓜",
-          "url": "https://s.weibo.com/weibo?q=Gemini%E6%8C%91%E7%93%9C%20%E6%97%A0%E4%B8%AD%E7%94%9F%E7%93%9C&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时05分 ~ 17时06分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 3,
-      "titles": [
         {
           "title": "绿色算力（人工智能）大会即将于呼和浩特举办 一批百亿级项目将集中签约",
           "url": "https://flash.jin10.com/detail/20260817132436744800",
@@ -292,6 +258,49 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "段永平最新调仓出炉：减持苹果、英伟达、谷歌，买回阿里",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33794674",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时27分 ~ 18时03分]"
+        },
+        {
+          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
+          "url": "https://wallstreetcn.com/articles/3779527",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时27分 ~ 11时39分]"
+        },
+        {
+          "title": "Gemini挑瓜 无中生瓜",
+          "url": "https://s.weibo.com/weibo?q=Gemini%E6%8C%91%E7%93%9C%20%E6%97%A0%E4%B8%AD%E7%94%9F%E7%93%9C&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时05分 ~ 17时06分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "Anthropic",
       "match_count": 3,
       "titles": [
@@ -312,11 +321,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时06分 ~ 17时06分]"
+          "appearance_count": 5,
+          "time_info": "[16时06分 ~ 18时03分]"
         },
         {
           "title": "如何看待富达投资人加文贝克声称，达里奥曾表示未来 Anthropic 将成为全世界唯一剩下的私营企业？",
@@ -376,8 +386,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时00分 ~ 17时06分]"
+          "appearance_count": 12,
+          "time_info": "[10时00分 ~ 18时03分]"
         }
       ]
     },
@@ -392,7 +402,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         }

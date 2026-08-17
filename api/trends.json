@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T21:58:55.547445+08:00",
-  "total_titles_processed": 1607,
+  "generated_at": "2026-08-17T22:51:38.778271+08:00",
+  "total_titles_processed": 1713,
   "failed_sources": [],
   "trends": [
     {
@@ -51,7 +51,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
@@ -153,7 +153,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
@@ -164,7 +164,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
@@ -208,8 +208,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时57分 ~ 21时58分]"
+          "appearance_count": 13,
+          "time_info": "[13时57分 ~ 22时51分]"
         },
         {
           "title": "如何评价 DeepSeek 涨价后，OpenCode Go 套餐的 Flash 模型调用量削减 94%？",
@@ -403,11 +403,12 @@
           "ranks": [
             17,
             15,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时48分 ~ 21时58分]"
+          "appearance_count": 5,
+          "time_info": "[19时48分 ~ 22时51分]"
         },
         {
           "title": "一块玻璃的进阶之路 蓝思科技向AI全域智能终端延伸 |活力中国调研行",
@@ -450,7 +451,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         }

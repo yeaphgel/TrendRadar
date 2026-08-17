@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T10:56:46.627114+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2026-08-17T11:39:05.694562+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "如何评价 DeepSeek 涨价后，OpenCode Go 套餐的 Flash 模型调用量削减 94%？",
@@ -16,8 +16,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时00分 ~ 10时56分]"
+          "appearance_count": 5,
+          "time_info": "[10时00分 ~ 11时39分]"
+        },
+        {
+          "title": "DeepSeek正式涨价",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
         },
         {
           "title": "DeepSeek调价生效 涨幅最高达1100%",
@@ -25,11 +36,12 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时00分 ~ 10时56分]"
+          "appearance_count": 5,
+          "time_info": "[10时00分 ~ 11时39分]"
         },
         {
           "title": "DeepSeek正式涨价",
@@ -40,8 +52,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时27分 ~ 10时56分]"
+          "appearance_count": 6,
+          "time_info": "[08时27分 ~ 11时39分]"
         },
         {
           "title": "如何评价 deepseek8 月 17 日涨价后，opencode go 套餐的 flash 模型调用量削减 94%？",
@@ -61,18 +73,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
-          "url": "https://www.cls.cn/detail/2455237",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时27分 ~ 10时01分]"
-        },
-        {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
           "url": "https://www.cls.cn/detail/2455353",
           "source": "财联社热门",
@@ -82,8 +82,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时27分 ~ 10时56分]"
+          "appearance_count": 6,
+          "time_info": "[08时27分 ~ 11时39分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -94,8 +94,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时27分 ~ 10时56分]"
+          "appearance_count": 6,
+          "time_info": "[08时27分 ~ 11时39分]"
+        },
+        {
+          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://www.cls.cn/detail/2455237",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时27分 ~ 10时01分]"
         },
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
@@ -123,8 +135,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时27分 ~ 10时56分]"
+          "appearance_count": 6,
+          "time_info": "[08时27分 ~ 11时39分]"
         },
         {
           "title": "段永平最新调仓出炉：减持苹果、英伟达、谷歌，买回阿里",
@@ -136,8 +148,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时27分 ~ 10时56分]"
+          "appearance_count": 6,
+          "time_info": "[08时27分 ~ 11时39分]"
         }
       ]
     },
@@ -153,8 +165,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时27分 ~ 10时56分]"
+          "appearance_count": 6,
+          "time_info": "[08时27分 ~ 11时39分]"
         },
         {
           "title": "如何看待富达投资人加文贝克声称，达里奥曾表示未来 Anthropic 将成为全世界唯一剩下的私营企业？",
@@ -182,8 +194,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时00分 ~ 10时56分]"
+          "appearance_count": 5,
+          "time_info": "[10时00分 ~ 11时39分]"
         }
       ]
     }

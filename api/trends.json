@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-08-17T16:07:16.441919+08:00",
-  "total_titles_processed": 970,
-  "failed_sources": [],
+  "generated_at": "2026-08-17T17:06:33.250165+08:00",
+  "total_titles_processed": 1097,
+  "failed_sources": [
+    "toutiao"
+  ],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
@@ -64,22 +66,24 @@
           "source": "知乎",
           "ranks": [
             12,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时57分 ~ 16时07分]"
+          "appearance_count": 5,
+          "time_info": "[13时57分 ~ 17时06分]"
         },
         {
           "title": "DeepSeek Harness 有什么好用的插件？",
           "url": "https://www.zhihu.com/question/2071617281214378127",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时06分 ~ 16时07分]"
+          "appearance_count": 4,
+          "time_info": "[16时06分 ~ 17时06分]"
         },
         {
           "title": "如何快速上手DeepSeek Harness",
@@ -206,6 +210,49 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "段永平最新调仓出炉：减持苹果、英伟达、谷歌，买回阿里",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33794674",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时27分 ~ 16时07分]"
+        },
+        {
+          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
+          "url": "https://wallstreetcn.com/articles/3779527",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时27分 ~ 11时39分]"
+        },
+        {
+          "title": "Gemini挑瓜 无中生瓜",
+          "url": "https://s.weibo.com/weibo?q=Gemini%E6%8C%91%E7%93%9C%20%E6%97%A0%E4%B8%AD%E7%94%9F%E7%93%9C&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时05分 ~ 17时06分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "人工智能",
       "match_count": 3,
       "titles": [
@@ -238,7 +285,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
         }
@@ -264,11 +311,12 @@
           "url": "https://www.cls.cn/detail/2455627",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时06分 ~ 16时07分]"
+          "appearance_count": 4,
+          "time_info": "[16时06分 ~ 17时06分]"
         },
         {
           "title": "如何看待富达投资人加文贝克声称，达里奥曾表示未来 Anthropic 将成为全世界唯一剩下的私营企业？",
@@ -280,38 +328,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时00分 ~ 10时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "段永平最新调仓出炉：减持苹果、英伟达、谷歌，买回阿里",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33794674",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时27分 ~ 16时07分]"
-        },
-        {
-          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
-          "url": "https://wallstreetcn.com/articles/3779527",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时27分 ~ 11时39分]"
         }
       ]
     },
@@ -360,8 +376,25 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时00分 ~ 16时07分]"
+          "appearance_count": 11,
+          "time_info": "[10时00分 ~ 17时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "增长",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "百度财报前瞻：二季度营收净利或双降，AI云业务逆势增长",
+          "url": "https://flash.jin10.com/detail/20260817164011187800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         }
       ]
     }

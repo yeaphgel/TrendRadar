@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T21:13:09.787872+08:00",
-  "total_titles_processed": 1522,
+  "generated_at": "2026-08-17T21:58:55.547445+08:00",
+  "total_titles_processed": 1607,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -45,13 +45,24 @@
           "time_info": "[08时27分 ~ 10时01分]"
         },
         {
+          "title": "英伟达(NVDA.O)上涨0.8%，OpenAI承诺将在2030年前大规模部署英伟达AI基础设施。",
+          "url": "https://flash.jin10.com/detail/20260817213122179800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
           "title": "英伟达：累计支付义务上限为1050亿美元。 OpenAI将支付租金。",
           "url": "https://wallstreetcn.com/livenews/3150527",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -62,18 +73,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "OpenAI：利用模型帮助保障代码安全。 将模型用于基础设施防御工作。 持续投资于安全架构与管控措施。",
-          "url": "https://wallstreetcn.com/livenews/3150523",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -84,9 +84,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
+        },
+        {
+          "title": "OpenAI：利用模型帮助保障代码安全。 将模型用于基础设施防御工作。 持续投资于安全架构与管控措施。",
+          "url": "https://wallstreetcn.com/livenews/3150523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 21时58分]"
         },
         {
           "title": "OpenAI内部动荡加剧：重组不断，员工疲惫，高管离职潮持续，上市计划悄然推迟",
@@ -130,9 +142,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
+        },
+        {
+          "title": "OpenAI：Ports-Pike项目预计将在截至2032年的六年建设期内创造3.5万个建筑业就业岗位，并长期创造2500个运营岗位。",
+          "url": "https://flash.jin10.com/detail/20260817210940922800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
+          "title": "英伟达：OpenAI承诺2030年前部署约12吉瓦英伟达AI算力",
+          "url": "https://wallstreetcn.com/livenews/3150525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "英伟达(NVDA.O)：OpenAI承诺在2030年前大规模部署英伟达人工智能基础设施。",
@@ -141,7 +175,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -152,7 +186,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         }
@@ -174,8 +208,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时57分 ~ 21时13分]"
+          "appearance_count": 12,
+          "time_info": "[13时57分 ~ 21时58分]"
         },
         {
           "title": "如何评价 DeepSeek 涨价后，OpenCode Go 套餐的 Flash 模型调用量削减 94%？",
@@ -352,7 +386,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         }
@@ -360,7 +394,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？",
@@ -368,11 +402,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时48分 ~ 21时13分]"
+          "appearance_count": 4,
+          "time_info": "[19时48分 ~ 21时58分]"
         },
         {
           "title": "一块玻璃的进阶之路 蓝思科技向AI全域智能终端延伸 |活力中国调研行",
@@ -407,6 +442,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
+        },
+        {
+          "title": "美国战争部（即国防部）：向NODA AI授予1亿美元合同，用于扩大联合部队自主力量的任务指挥能力。",
+          "url": "https://flash.jin10.com/detail/20260817210213960800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         }
       ]
     },

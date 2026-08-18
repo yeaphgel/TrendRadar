@@ -1,18 +1,108 @@
 {
-  "generated_at": "2026-08-18T08:27:28.006653+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-08-18T17:04:02.038147+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "DeepSeek招聘土木人才释放一个信号",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%8B%9B%E8%81%98%E5%9C%9F%E6%9C%A8%E4%BA%BA%E6%89%8D%E9%87%8A%E6%94%BE%E4%B8%80%E4%B8%AA%E4%BF%A1%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 17时04分]"
+        },
+        {
+          "title": "DeepSeek Harness满血版解锁",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E6%BB%A1%E8%A1%80%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 17时04分]"
+        },
         {
           "title": "DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？",
           "url": "https://www.zhihu.com/question/2072103596481683649",
           "source": "知乎",
           "ranks": [
             9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "云南：到2030年实现人工智能通识教育全学段覆盖",
+          "url": "https://flash.jin10.com/detail/20260818081440814800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时27分"
+        },
+        {
+          "title": "绿色算力（人工智能）大会即将举办 算电协同有望重塑绿电需求",
+          "url": "https://www.cls.cn/detail/2456591",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 17时04分]"
+        },
+        {
+          "title": "人工智能安全：下一阶段人工智能产业竞争的新赛道",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33799807",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 17时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Anthropic",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Anthropic估值有多激进？华尔街押注：2028年收入狂飙至2000亿美元",
+          "url": "https://wallstreetcn.com/articles/3779618",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 17时04分]"
+        },
+        {
+          "title": "半年翻7倍！Anthropic“年化营收”据传已突破650亿美元",
+          "url": "https://www.cls.cn/detail/2456549",
+          "source": "财联社热门",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -30,40 +120,6 @@
           "source": "金十数据",
           "ranks": [
             28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "云南：到2030年实现人工智能通识教育全学段覆盖",
-          "url": "https://flash.jin10.com/detail/20260818081440814800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Anthropic",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "半年翻7倍！Anthropic“年化营收”据传已突破650亿美元",
-          "url": "https://www.cls.cn/detail/2456549",
-          "source": "财联社热门",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 1,

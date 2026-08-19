@@ -1,112 +1,22 @@
 {
-  "generated_at": "2026-08-18T17:04:02.038147+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-08-19T10:07:10.741321+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "DeepSeek招聘土木人才释放一个信号",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%8B%9B%E8%81%98%E5%9C%9F%E6%9C%A8%E4%BA%BA%E6%89%8D%E9%87%8A%E6%94%BE%E4%B8%80%E4%B8%AA%E4%BF%A1%E5%8F%B7",
+          "title": "梁文锋打新宇树科技浮盈11亿",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E6%89%93%E6%96%B0%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E6%B5%AE%E7%9B%8811%E4%BA%BF",
           "source": "百度热搜",
           "ranks": [
-            21,
-            9
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时03分 ~ 17时04分]"
-        },
-        {
-          "title": "DeepSeek Harness满血版解锁",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E6%BB%A1%E8%A1%80%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时03分 ~ 17时04分]"
-        },
-        {
-          "title": "DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？",
-          "url": "https://www.zhihu.com/question/2072103596481683649",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "云南：到2030年实现人工智能通识教育全学段覆盖",
-          "url": "https://flash.jin10.com/detail/20260818081440814800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时27分"
-        },
-        {
-          "title": "绿色算力（人工智能）大会即将举办 算电协同有望重塑绿电需求",
-          "url": "https://www.cls.cn/detail/2456591",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时03分 ~ 17时04分]"
-        },
-        {
-          "title": "人工智能安全：下一阶段人工智能产业竞争的新赛道",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33799807",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时03分 ~ 17时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Anthropic",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Anthropic估值有多激进？华尔街押注：2028年收入狂飙至2000亿美元",
-          "url": "https://wallstreetcn.com/articles/3779618",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时03分 ~ 17时04分]"
-        },
-        {
-          "title": "半年翻7倍！Anthropic“年化营收”据传已突破650亿美元",
-          "url": "https://www.cls.cn/detail/2456549",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时27分"
+          "time_info": "[10时06分 ~ 10时07分]"
         }
       ]
     },
@@ -115,15 +25,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "金十数据整理：每日科技要闻速递（8月18日）】<br/>人工智能：<br/><span class=\"section-news\">1. Anthropic年化营收在IPO前突破650亿美元。</span><br/><span class=\"section-news\">2. 字节跳动与美国电影协会签署协议，加强AI模型版权保护。</span><br/><span class=\"section-news\">3. 英伟达与SB Energy合作开发美国俄亥俄州8吉瓦超大规模AI数据中心，并向SB Energy投资15亿美元。</span><br/><span class=\"section-news\">4. 英伟达：OpenAI承诺在2030年前大规模部署英伟达AI基础设施，对应约6000亿美元计算业务规模。</span><br/>其他：<br/><span class=\"section-news\">1. Meta天价索赔案将于周二开始庭审。</span><br/><span class=\"section-news\">2. 九光发布人形机械人 能举起50公斤重杠铃。</span><br/><span class=\"section-news\">3. 中信资本收购阿里旗下灵犀互娱已正式生效。</span><br/><span class=\"section-news\">4. 小米汽车：小米SU7系列，28.5个月交付突破50万台。</span><br/><span class=\"section-news\">5. 宇树机器人原地跳高2米，极限速度12.66m/s，超越全世界全人类原地跳高和奔跑速度记录。 </span>",
-          "url": "https://flash.jin10.com/detail/20260818072606933800",
-          "source": "金十数据",
+          "title": "二季度收入仅增18%！OpenAI“暴雷”，远低于Anthropic",
+          "url": "https://wallstreetcn.com/articles/3779748",
+          "source": "华尔街见闻",
           "ranks": [
-            28
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时27分"
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 10时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国医师节AI短片",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E5%B8%88%E8%8A%82AI%E7%9F%AD%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 10时07分]"
         }
       ]
     }
